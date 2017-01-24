@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Woo Lab
+title: Computational/Cognitive/Affective Neuroscience Lab
 permalink: /
-subtitle: Computational, Cognitive, Affective (CoCoA) Neuroscience Laboratory
+subtitle: 
 ---
 &nbsp;
 
