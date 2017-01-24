@@ -6,7 +6,7 @@ subtitle: Computational/Cognitive/Affective (CoCoA) Neuroscience
 ---
 &nbsp;
 
-The <strong>Woo Lab</strong> is a research laboratory led by <a href="http://wanirepo.github.io" target="_blank">Dr. Choong-Wan Woo</a> focusing on <strong>computational, cognitive, and affective (CoCoA) neuroscience</strong> at the Center for Neuroscience Imaging Research in the Institute for Basic Science (IBS) in South Korea. 
+The <strong>Woo Lab</strong> (or CoCoA Neuroscience Lab) is a research laboratory led by <a href="http://wanirepo.github.io" target="_blank">Dr. Choong-Wan (Wani) Woo</a> focusing on <strong>computational, cognitive, and affective neuroscience</strong> at the Center for Neuroscience Imaging Research in the Institute for Basic Science (IBS) in South Korea. 
 
 The current research areas are ...
 
