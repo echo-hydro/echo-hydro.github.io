@@ -4,8 +4,9 @@ title: WooLab
 permalink: /
 subtitle: **Co**mputational, **Co**gnitive, **A**ffective (CoCoA) Neuroscience
 ---
-  
-##Who we are?
+&nbsp;
+
+**Who we are?**  
 The **Woo Lab** is a neuroimaging research lab led by [Dr. Choong-Wan Woo](http://wanirepo.github.io).  
 
 We are joining the [IBS] (https://www.ibs.re.kr) [Center for Neuroscience Imaging Research (CNIR)] (http://cnir.ibs.re.kr/html/cnir_en/) at [Sungkyunkwan University] (http://www.skku.edu/eng_home/index.jsp) ([Wikipedia] (https://en.wikipedia.org/wiki/Sungkyunkwan_University)) located in Suwon, South Korea (starting March 2017). How exciting!
