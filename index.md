@@ -2,7 +2,7 @@
 layout: page
 title: WooLab
 permalink: /
-subtitle: **Co**mputational, **Co**gnitive, **A**ffective (CoCoA) Neuroscience
+subtitle: Computational, Cognitive, Affective (CoCoA) Neuroscience
 ---
 &nbsp;
 
