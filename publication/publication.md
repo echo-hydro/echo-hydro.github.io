@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-permalink: /people/
+permalink: /publication/
 subtitle: WooLab's publications
 ---
 
