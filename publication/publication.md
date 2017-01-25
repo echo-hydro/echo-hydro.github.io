@@ -5,23 +5,34 @@ permalink: /publication/
 subtitle: WooLab's publications
 ---
 
-<p id="NN_translation2016"><b>In press</b> "Building better biomarkers: Brain models in translational neuroimaging."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Luke Chang, Martin A Lindquist, Tor D Wager, <i>Nature Neuroscience</i> </span></p>
+<br>
 
-<p id="NCOMMS_siips2016"><b>In press</b> "Quantifying cerebral contributions to pain beyond nociception."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Mathieu Roy, Martin A Lindquist, Lauren Y Atlas, Tor D Wager, <i>Nature Communications</i> </span></p>
+### Choong-Wan Woo (Lab director)
+<img src="images/WooCW.png" width="150" height="200" align="left" hspace="20" />
+<a href="http://wanirepo.github.io" target="_blank">Choong-Wan Woo</a> is the director of the WooLab. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent publications span the topics from developing neuroimaging-based markers for pain to how to build better biomarkers in translational neuroimaging. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder, and MA in Clinical psychology and BS in Biology from Seoul National University. 
 
-<p id="NMED_commentary2017"><b>2017</b> "Imaging biomarkers and biotypes for depression."<br><span style="font-size: 13px !important; color: #555;">Tor D Wager, <b>Choong-Wan Woo</b>, <i>Nature Medicine</i>, 23:16-17 &nbsp; <a href="/pdfs/WagerWoo_2017_NatMed.pdf">PDF</a> | <a href="http://www.nature.com/nm/journal/v23/n1/full/nm.4264.html">Nature</a> <br>**This is a commentary on this <a href="http://www.nature.com/nm/journal/v23/n1/full/nm.4246.html">article</a> (Drysdale et al., 2017, <i>Nature Medicine</i>).</span></p>		
+<br><br>
 
-<p id="PAIN_fibro2016"><b>2017</b> "Towards a neurophysiological signature for fibromyalgia."<br><span style="font-size: 13px !important; color: #555;">Marina López-Solà, <b>Choong-Wan Woo</b>, Jesus Pujol, Joan Deus, Ben J Harrison, Jordi Monfort, Tor D Wager, <i>PAIN</i>, 158, 34-47.  &nbsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/27583567">PubMed</a> | <a href="/pdfs/LopezSola_2016_PAIN.pdf">PDF</a></span></p>	
-<p id="NEUROIMAGE2017"><b>2017</b> "Group-regularized individual prediction: Theory and application to pain"<br><span style="font-size: 13px !important; color: #555;">Martin A. Lindquist, Anjali Krishnan, Marina Lopez-Sola, Marieke Jepma, <b>Choong-Wan Woo</b>, Leonie Koban, Mathieu Roy, Lauren Y. Atlas, Luke J. Chang, Elizabeth A.R. Losin, Hedwig Eisenbarth, Yoni K. Ashar, Zeb Delk, Tor D. Wager, <i>NeuroImage</i>, 145, 274-287. doi:10.1016/j.neuroimage.2015.10.074 &nbsp; <a href="/pdfs/Lindquist_et_al_2017.pdf">PDF</a> | <a href="http://www.ncbi.nlm.nih.gov/pubmed/26592808">Pubmed</a></span></p>
+### Coming soon..
 
-<p id="eLife_vicpain2016"><b>2016</b> "Somatic and vicarious pain are represented by dissociable multivariate brain patterns."<br><span style="font-size: 13px !important; color: #555;">Anjali Krishnan, <b>Choong-Wan Woo</b>, Luke J Chang, Luka Ruzic, Xiaosi Gu, Marina López-Solà, Philip L Jackson, Jesús Pujol, Jin Fan, Tor D Wager, <i>eLife</i> &nbsp; <a href="https://elifesciences.org/content/5/e15166">eLife</a> | <a href="/pdfs/Krishnan_2016_elife.pdf">PDF</a></span></p>
+<!-- <br><br><br><br><br><br>
 
-<p id="PAIN_FACE2016"><b>2016</b> "Multiple faces of pain: Effects of chronic pain on the brain regulation of facial expression."<br><span style="font-size: 13px !important; color: #555;">Etienne Vachon-Presseau, Mathieu Roy, <b>Choong-Wan Woo</b>, Miriam Kunz, Marc-Olivier Martel, Michael J. Sullivan, Philip L. Jackson, Tor D. Wager, Pierre Rainville, <i>PAIN</i> &nbsp; <a href="/pdfs/Vachon_Presseau_2016_PAIN.pdf">PDF</a></span></p>
+## Past Members
 
-<p id="PAIN_TRR2016_2"><b>2016</b> "Issues in assessing reliability in pain neuroimaging"<br><span style="font-size: 13px !important; color: #555;">Tor D. Wager, <b>Choong-Wan Woo</b>, <i>PAIN</i> &nbsp; <a href="/pdfs/Wager_Woo_2016_TRR.pdf">PDF</a></span></p>
-
-<p id="PAIN_TRR2016"><b>2016</b> "What reliability can and cannot tell us about pain report and pain neuroimaging"<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Tor D. Wager, <i>PAIN</i>, 157(3):511-3. doi: 10.1097/j.pain.0000000000000442 &nbsp; <a href="/pdfs/Woo_2015_PAIN_TRR.pdf">PDF</a> | <a href="https://github.com/wanirepo/Woo_TRR_commentary_PAIN">Code</a> | <a href="http://www.ncbi.nlm.nih.gov/pubmed/26645548?dopt=Abstract">Pubmed</a></span></p>
-
-<p id="SCIENCESUPP2015"><b>2015</b> "The predictive mapping approach in neuroimaging"<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Tor D. Wager, <i>Science (supplement), Advances in Computational Psychophysiology</i>, 18-21 (invited contribution) &nbsp; <a href="/pdfs/Woo_Wager_2015_sciencesupple.pdf">PDF</a> | <a href="https://www.sciencemag.org/content/350/6256/114.3.summary">Sciencemag</a></span></p>
-
-<p id="PAIN2015"><b>2015</b> "Neuroimaging-based biomarker discovery and validation"<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Tor D. Wager, <i>PAIN</i>, 156(8):1379-81. doi: 10.1097/j.pain.0000000000000223 &nbsp; <a href="/pdfs/Woo_2015_PAIN.pdf">PDF</a> | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25970320?dopt=Abstract">Pubmed</a></span></p>
+### University at Buffalo
+<ul>
+	<li><a href="https://longshengsun.net" target="_blank">Longsheng Sun</a>, Ph.D., 2016, Designing Regulation Policies for Hazardous Materials Transportation</li>
+	<li><a href="https://www.linkedin.com/pub/masoumeh-taslimi/92/b90/b33" target="_blank">Masoumeh Taslimi</a>, Ph.D., 2015, On the Analysis of Two Problems related to Risk Management in Urban Transportation Networks</li>
+	<li><a href="https://www.linkedin.com/in/tolou-esfandeh-phd-b179b237" target="_blank">Tolou Esfandeh</a>, Ph.D., 2015, Regulating Hazardous Materials Transportation by Dual-Toll Pricing and Time-Dependent Network Design Policies</li>
+	<li><a href="https://www.linkedin.com/pub/iakovos-toumazis/49/327/917" target="_blank">Iakovos Toumazis</a>, Ph.D., 2015, Dynamic Chemotherapy Scheduling for Metastatic Colorectal Cancer Patients: Assessments and Improvements (<a href="http://toumiak.com" target="_blank">web</a>)</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=61312329" target="_blank">Md. Tanveer Ahmed</a>, Ph.D., 2013, Revenue Management for Online Advertisement Services</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=355659138">Paul Berglund</a>, Ph.D., 2012 Three Problems in Discrete Network Facility Location</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=67693217">Yingying Kang</a>, Ph.D., 2011, (co-advisor Dr. Rajan Batta), Value-at-Risk Models for Hazardous Materials Transportation</li>
+	<li><a href="https://www.linkedin.com/in/alisattarzadeh" target="_blank">Ali Sattarzadeh</a>, M.S., 2015, Hazmat Network Design Considering Risk and Cost Equity</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=82661512" target="_blank">Zulqarnain Haider</a>, M.S., 2014, Inventory Rebalancing through Pricing in Public Bike Sharing Systems</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=109106725" target="_blank">Chelsea Greene</a>, M.S., 2013 (co-advisor Dr. Rajan Batta), OR/MS Approaches to Problems involving Hazardous Materials Risk and Impacts from a Natural Disaster</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=29510416" target="_blank">Anand Srinivasan</a>, M.S., 2010, Operations of Online Advertising Services and Publisher's Options</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=46544652" target="_blank">Amod Anand Agashe</a>, M.S., 2010, Stochastic Revenue Optimization in Online Advertising</li>
+	<li><a href="https://www.linkedin.com/profile/view?id=46856185" target="_blank">Varun Narayana Kutty</a>, M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion</li>
+</ul>
+&nbsp;-->
