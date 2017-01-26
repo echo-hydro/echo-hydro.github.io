@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Position
-permalink: /position/
+permalink: /ads/
 subtitle: We're hiring!
 ---
 
