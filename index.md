@@ -4,7 +4,6 @@ title: WooLab
 permalink: /
 subtitle: Computational, Cognitive, and Affective Neuroscience
 ---
-&nbsp;
 
 <b><span style="font-size: 16px !important; color: #BD0026;">Woo</span></b><span style="font-size: 16px !important;"><b>Lab</b> is a neuroimaging research lab led by 
 <a href="http://wanirepo.github.io">Dr. Choong-Wan Woo</a>.</span>  
