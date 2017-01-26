@@ -17,4 +17,4 @@ subtitle: Computational, Cognitive, and Affective Neuroscience
 
 <span style="font-size: 16px !important;">Our main research tools include functional Magnetic Resonance Imaging (fMRI), psychophysiology measures (skin conductance, pupilometry, electrocardiogram, respiration), electroencephalogram (EEG), and other behavioral measures such as face recording camera, eye-tracker, etc. Most importantly, we use computational tools to model and understand our affective, cognitive, and behavioral responses.</span>  
 
-<span style="font-size: 16px !important;">[We are currently looking for a postdoc and a lab manager to join the lab!](/ads/)</span>
+<span style="font-size: 16px !important;">[We are currently looking for a postdoc and a lab manager to join the lab!](/jobs/)</span>

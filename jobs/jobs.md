@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Position
-permalink: /ads/
+title: Job opportunities
+permalink: /jobs/
 subtitle: We're hiring!
 ---
 
