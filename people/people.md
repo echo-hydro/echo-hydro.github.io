@@ -7,7 +7,7 @@ subtitle: WooLab members
 
 <br>
 
-<b><span style="font-size: 17px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
 
 <img src="images/WooCW.png" width="150" height="200" align="left" hspace="20" />
 <span style="font-size: 13px !important; color: #555;"><a href="http://wanirepo.github.io" target="_blank">Choong-Wan Woo</a> is the director of the WooLab. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent publications span the topics from developing neuroimaging-based markers for pain to how to build better biomarkers in translational neuroimaging. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder, and MA in Clinical psychology and BS in Biology from Seoul National University.</span>
@@ -18,7 +18,7 @@ subtitle: WooLab members
 
 <br><br>
 
-<b><span style="font-size: 17px !important; color: #0055A9;">Coming soon...</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">Coming soon...</span></b>
 
 <!-- <br><br><br><br><br><br>
 
