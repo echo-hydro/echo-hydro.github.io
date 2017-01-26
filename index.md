@@ -8,7 +8,7 @@ subtitle: Computational, Cognitive, and Affective Neuroscience
 <b><span style="font-size: 16px !important; color: #BD0026;">Woo</span></b><span style="font-size: 16px !important;"><b>Lab</b> is a neuroimaging research lab led by 
 <a href="http://wanirepo.github.io">Dr. Choong-Wan Woo</a>.</span>  
 
-<img src="img/feature.png" width="800" height="228" align="center" />
+<img src="img/feature3.png" width="820" height="87" align="center" />
 
 <span style="font-size: 16px !important;">We are joining the <a href="https://www.ibs.re.kr">IBS</a> <a href="http://cnir.ibs.re.kr/html/cnir_en/">Center for Neuroscience Imaging Research (CNIR)</a> at <a href="http://www.skku.edu/eng_home/index.jsp">Sungkyunkwan University</a> (<a href="https://en.wikipedia.org/wiki/Sungkyunkwan_University">Wikipedia</a>) located in Suwon, South Korea (starting March 2017).</span> 
 
