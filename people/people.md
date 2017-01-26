@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-subtitle: Introduces WooLab members
+subtitle: WooLab members
 ---
 
 <br>

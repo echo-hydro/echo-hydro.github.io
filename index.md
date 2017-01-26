@@ -23,4 +23,4 @@ Our research mainly focuses on understanding <span style="color: #BD0026;">pain<
 Our main research tools include functional Magnetic Resonance Imaging (fMRI), psychophysiology measures (skin conductance, pupilometry, electrocardiogram, respiration), electroencephalogram (EEG), and other behavioral measures such as face recording camera, eye-tracker, etc. Most importantly, we use computational tools to model and understand our affective, cognitive, and behavioral responses.  
 
 <br>
-[We are currently looking for a postdoc and a lab manager to join the lab!](position)
+[We are currently looking for a postdoc and a lab manager to join the lab!](/ads/position)

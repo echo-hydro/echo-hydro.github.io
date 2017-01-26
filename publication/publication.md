@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
-subtitle: WooLab's publications
+subtitle: WooLab publications and links to papers
 ---
 <br>
 
