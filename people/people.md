@@ -7,13 +7,18 @@ subtitle: Introduces WooLab members
 
 <br>
 
-### Choong-Wan Woo (Lab director)
+<b><span style="font-size: 17px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
+
 <img src="images/WooCW.png" width="150" height="200" align="left" hspace="20" />
-<a href="http://wanirepo.github.io" target="_blank">Choong-Wan Woo</a> is the director of the WooLab. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent publications span the topics from developing neuroimaging-based markers for pain to how to build better biomarkers in translational neuroimaging. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder, and MA in Clinical psychology and BS in Biology from Seoul National University. 
+<span style="font-size: 13px !important; color: #555;"><a href="http://wanirepo.github.io" target="_blank">Choong-Wan Woo</a> is the director of the WooLab. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent publications span the topics from developing neuroimaging-based markers for pain to how to build better biomarkers in translational neuroimaging. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder, and MA in Clinical psychology and BS in Biology from Seoul National University.</span>
+
+<span style="font-size: 13px !important; color: #555;"><a href="/pdfs/CV_Woo_Jan2017.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/clinpsywoo/">Twitter</a></span>
+
+
 
 <br><br>
 
-### Coming soon..
+<b><span style="font-size: 17px !important; color: #0055A9;">Coming soon...</span></b>
 
 <!-- <br><br><br><br><br><br>
 
