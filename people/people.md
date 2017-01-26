@@ -5,8 +5,6 @@ permalink: /people/
 subtitle: WooLab members
 ---
 
-<br>
-
 <b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
 
 <img src="images/WooCW.png" width="150" height="200" align="left" hspace="20" />
