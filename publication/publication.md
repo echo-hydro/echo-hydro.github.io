@@ -4,6 +4,7 @@ title: Publication
 permalink: /publication/
 subtitle: WooLab publications and links to papers
 ---
+<img src="../img/feature4.png" width="820" height="28" align="center"/>
 
 <h2>in press</h2>
 
