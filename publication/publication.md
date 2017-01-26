@@ -6,7 +6,7 @@ subtitle: WooLab's publications
 ---
 <br>
 
-##in press
+<h2>in press</h2>
 
 <p id="NN_translation2016"><b>In press</b> "Building better biomarkers: Brain models in translational neuroimaging."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Luke Chang, Martin A Lindquist, Tor D Wager, <i>Nature Neuroscience</i> </span></p>
 
