@@ -5,8 +5,6 @@ permalink: /news/
 subtitle: What is happening in the WooLab?
 ---
 
-<br>
-
 <span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">We are joining the IBS Center for Neuroscience Imaging Research (CNIR) at Sungkyunkwan University. </span></b>
