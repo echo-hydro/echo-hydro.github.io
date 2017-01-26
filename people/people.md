@@ -4,7 +4,6 @@ title: People
 permalink: /people/
 subtitle: WooLab members
 ---
-<img src="../img/feature4.png" width="820" height="28" align="center"/>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
 

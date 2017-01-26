@@ -5,8 +5,6 @@ permalink: /jobs/
 subtitle: We're hiring!
 ---
 
-<img src="../img/feature4.png" width="820" height="28" align="center"/>
-
 <!--<span style="font-size: 13px !important; color: #BD0026;">February 2017 </span>-->
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Postdoctoral fellow</span></b>
