@@ -19,9 +19,9 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">For those who are afraid of living in South Korea: South Korea has many beautiful places to visit and most importantly great food. Here are some helpful information and fun	 video clips:</span>
 
-<li><span style="font-size: 15px !important;"><a href="https://www.nytimes.com/interactive/2016/07/15/travel/what-to-do-36-hours-in-seoul.html?_r=0">NYT’s 36 hours in Seoul</a></span>
-<li><span style="font-size: 15px !important;"><a href="https://www.youtube.com/user/koreanenglishman">Korean Englishman Youtube channel</a></span>
-<li><span style="font-size: 15px !important;"><a href="https://www.youtube.com/playlist?list=PLVL8S3lUHf0RvCcVJRVh8IWUDaIL50xnI">Conan O'Brien visited Korea</a></span>
+- <span style="font-size: 15px !important;"><a href="https://www.nytimes.com/interactive/2016/07/15/travel/what-to-do-36-hours-in-seoul.html?_r=0">NYT’s 36 hours in Seoul</a></span>
+- <span style="font-size: 15px !important;"><a href="https://www.youtube.com/user/koreanenglishman">Korean Englishman Youtube channel</a></span>
+- <span style="font-size: 15px !important;"><a href="https://www.youtube.com/playlist?list=PLVL8S3lUHf0RvCcVJRVh8IWUDaIL50xnI">Conan O'Brien visited Korea</a></span>
 
 <span style="font-size: 15px !important;">To apply, please email Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>) with your CV and statement explaining current and future research interests as well as specific interests in joining the WooLab. Please also provide contact information for two references and include <span style="color: #BD0026;">“WooLab Postdoc Application”</span> in the subject line of any correspondence.</span>
 
