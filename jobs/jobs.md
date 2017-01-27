@@ -12,6 +12,7 @@ subtitle: We're hiring!
 
 <p id="postdoc"></p>
 
+<br>
 <br> 
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Postdoctoral fellow</span></b>
@@ -38,6 +39,7 @@ subtitle: We're hiring!
 <p id="labmanager"></p>
 
 <br>
+<br>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Full-time Lab manager/Research assistant</span></b>
 
@@ -53,9 +55,9 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">Lab Website: <a href="http://woo-lab.github.io">http://woo-lab.github.io</a></span>
 
-<p id="undergrad"></p>
-
 <br>
+<br>
+<p id="undergrad"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Undergrad research assistant</span></b>
 
