@@ -46,10 +46,11 @@ subtitle: We're hiring!
 <span style="font-size: 15px !important;">Lab Website: <a href="http://woo-lab.github.io">http://woo-lab.github.io</a></span>
 
 <br>
+<br>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Undergrad research assistant</span></b>
 
-If you are a undergraduate student, you are more than welcome to join the lab as a volunteer research assistant. We usually ask for a commitment of at least 10 hours per week, and recommend attending our lab meeting (not required, though). You will be working closely with one or two researchers in the lab, and if you demonstrate good responsibility and dedication, you will have the opportunity to run original research. 
+<span style="font-size: 15px !important;">If you are a undergraduate student, you are more than welcome to join the lab as a volunteer research assistant. We usually ask for a commitment of at least 10 hours per week, and recommend attending our lab meeting (not required, though). You will be working closely with one or two researchers in the lab, and if you demonstrate good responsibility and dedication, you will have the opportunity to run original research. </span>  
 
 <span style="font-size: 15px !important;">If you are interested in this job, please email Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>).</span>
 
