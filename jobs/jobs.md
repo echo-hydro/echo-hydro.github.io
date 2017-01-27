@@ -6,8 +6,13 @@ subtitle: We're hiring!
 ---
 
 <!--<span style="font-size: 13px !important; color: #BD0026;">February 2017 </span>-->
+- <a href="#postdoc">Postdoctoral fellow</a>
+- <a href="#labmanager">Lab manager/Research assistant</a>
+- <a href="#undergrad">Undergrad research assistant</a>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Postdoctoral fellow</span></b>
+<br>
+
+<p id="postdoc"><b><span style="font-size: 20px !important; color: #0055A9;">Postdoctoral fellow</span></b></p>
 
 <span style="font-size: 15px !important;">WooLab (director: <a href="http://wanirepo.github.io">Dr. Choong-Wan Woo</a>) is seeking a postdoctoral fellow beginning March 2017 (but specific start date is flexible). We investigate how the brain represents, processes, and regulates pain and emotions. Particularly, our research focuses on the development of clinically useful neuroimaging models and tools using machine learning and computational modeling approaches. Learn more about the lab by visiting our labwebsite (<a href="http://woo-lab.github.io">http://woo-lab.github.io</a>) or by contacting Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>).</span>
 
@@ -29,9 +34,8 @@ subtitle: We're hiring!
 <span style="font-size: 15px !important;">Lab Website: <a href="http://woo-lab.github.io">http://woo-lab.github.io</a></span>
 
 <br>
-<br>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Full-time Lab manager/Research assistant</span></b>
+<p id="labmanager"><b><span style="font-size: 20px !important; color: #0055A9;">Full-time Lab manager/Research assistant</span></b></p>
 
 <span style="font-size: 15px !important;">WooLab (director: <a href="http://wanirepo.github.io">Dr. Choong-Wan Woo</a>) is seeking a full-time lab manager/research assistant beginning March 2017 (but specific start date for this position is also flexible).</span>
 
@@ -46,9 +50,8 @@ subtitle: We're hiring!
 <span style="font-size: 15px !important;">Lab Website: <a href="http://woo-lab.github.io">http://woo-lab.github.io</a></span>
 
 <br>
-<br>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Undergrad research assistant</span></b>
+<p id="undergrad"><b><span style="font-size: 20px !important; color: #0055A9;">Undergrad research assistant</span></b></p>
 
 <span style="font-size: 15px !important;">If you are a undergraduate student, you are more than welcome to join the lab as a volunteer research assistant. We usually ask for a commitment of at least 10 hours per week, and recommend attending our lab meeting (not required, though). You will be working closely with one or two researchers in the lab, and if you demonstrate good responsibility and dedication, you will have the opportunity to run original research. </span>  
 
