@@ -5,7 +5,7 @@ permalink: /research/
 subtitle: Ongoing and future research projects
 ---
 
-<center><img src="images/wordle2.jpg" width=500></img></center>
+<img src="images/wordle2.jpg" width="500" align="center" hspace="20" />
 
 <span style="font-size: 15px !important; color: #444;"><b>Keywords:</b> Neuroimaging; fMRI; Biomarker; Pain; Emotion; Brain Decoding; Mind reading; Machine learning; Network analysis; Prediction; Translational research; Chronic pain; Depression; Drug discovery</span>
 
