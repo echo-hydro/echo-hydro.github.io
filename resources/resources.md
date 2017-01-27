@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resource
-permalink: /resource/
+title: Resources
+permalink: /resources/
 subtitle: Useful materials and links
 ---
 
