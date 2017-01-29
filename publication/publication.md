@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
-subtitle: Cocoan Lab publications and links to papers
+subtitle: Cocoan lab publications and links to papers
 ---
 
 <h2><span style="color: #BD0026;">in press</span></h2>
