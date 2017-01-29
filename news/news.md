@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news/
-subtitle: What is happening in the WooLab?
+subtitle: What is happening in the Cocoan Lab?
 ---
 
 <span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
