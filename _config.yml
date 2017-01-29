@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Cocoan Lab
+title: Cocoan lab
 
 # Short description of your site
-description: "Computational Cognitive Affective Neuroscience (Cocoan) Laboratory"
+description: "Computational Cognitive Affective Neuroscience Laboratory"
 
 # --- Navigation bar options --- #
 
