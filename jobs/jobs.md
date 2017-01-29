@@ -19,7 +19,7 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory (director: <a href="http://wanirepo.github.io">Dr. Choong-Wan Woo</a>) is seeking a postdoctoral fellow beginning March 2017 (but specific start date can be flexible).</span>  
 
-<span style="font-size: 15px !important;">We investigate how the brain represents, processes, and regulates pain and emotions. Particularly, our research focuses on the development of clinically useful neuroimaging models and tools using machine learning and computational modeling approaches. Learn more about the lab by visiting our labwebsite (<a href="http://cocoan-lab.github.io">http://cocoan-lab.github.io</a>) or by contacting Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>).</span>
+<span style="font-size: 15px !important;">We investigate how the brain represents, processes, and regulates pain and emotions. Particularly, our research focuses on the development of clinically useful neuroimaging models and tools using machine learning and computational modeling approaches. Learn more about the lab by visiting our labwebsite (<a href="http://cocoanlab.github.io">http://cocoanlab.github.io</a>) or by contacting Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>).</span>
 
 <span style="font-size: 15px !important;">Our lab is a part of the <a href="http://cnir.ibs.re.kr/html/cnir_en/">Center for Neuroscience Imaging Research (CNIR)</a> at <a href="https://www.ibs.re.kr">Institute for Basic Science (IBS)</a> in South Korea. Since IBS is a government-funded research institute, our lab will have stable funding for the next few years. Most importantly, our lab will have a full access to the CNIR’s brand-new neuroimaging <a href="http://cnir.ibs.re.kr/_prog/equipments/?&site_dvs_cd=cnir_en&menu_dvs_cd=050101">facilities and equipments</a> for conducting cutting-edge research. The facilities include animal and human MRIs (3T, 9.4T, 15.2T), two-photon microscope, super high-resolution confocal microscope, high performance computing clusters, electronic and machine shop, histology lab, and rodent and non-human primate animal housing. Our center and the lab have a strong emphasis on promoting an open, synergetic, multi-disciplinary, and creative research environment. Therefore, you will be able to experience active discussions and collaborations with other scientists from different fields of expertise.</span>
 
@@ -36,7 +36,7 @@ subtitle: We're hiring!
 <p><span style="font-size: 15px !important;">To apply, please email Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>) with your CV and statement explaining current and future research interests as well as specific interests in joining the Computational Cognitive Affective Neuroscience Laboratory. Please also provide contact information for two references and include <span style="color: #BD0026;">“Cocoan lab postdoc application”</span> in the subject line of any correspondence.</span></p>
 
 
-<span style="font-size: 15px !important;">Lab Website: <a href="http://cocoan-lab.github.io">http://cocoan-lab.github.io</a></span>
+<span style="font-size: 15px !important;">Lab Website: <a href="http://cocoanlab.github.io">http://cocoanlab.github.io</a></span>
 
 <p id="labmanager"></p>
 
@@ -55,7 +55,7 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">To apply, please email Dr. Choong-Wan Woo (<a href="mailto:choongwan.woo@gmail.com">choongwan.woo@gmail.com</a>) with your CV and statement explaining current and future research interests as well as specific interests in joining the Computational Cognitive Affective Neuroscience Laboratory. Please also provide contact information for (preferably two, but) at least one reference and include <span style="color: #BD0026;">“Cocoan lab manager application”</span> in the subject line of any correspondence.</span>
 
-<span style="font-size: 15px !important;">Lab Website: <a href="http://cocoan-lab.github.io">http://cocoan-lab.github.io</a></span>
+<span style="font-size: 15px !important;">Lab Website: <a href="http://cocoanlab.github.io">http://cocoanlab.github.io</a></span>
 
 <br>
 <br>
