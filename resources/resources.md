@@ -15,8 +15,8 @@ subtitle: Useful materials and links
 <a href="https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA">Principles of fMRI</a>: Coursera videos taught by Tor Wager (my PhD advisor) and Martin Lindquist<br>
 <a href="https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA">Mumford brain stats</a>: Jeanette Mumford's awesome video tutorials and lessons about different neuroimaging data analysis strategies<br>
 <a href="http://neurosynth.org/">Neurosynth</a>: Large-scale, automated meta-analysis tool for fMRI<br>
-<a href="http://neurovault.org/">Neurovault</a>: A repository of brain activation maps<br></span>
-<a href="https://www.youtube.com/playlist?list=PLEdFhTRBFLObkatJOX9wp3BCueH4wNSl7"> Neurohackweek 2016 videos</a>
+<a href="http://neurovault.org/">Neurovault</a>: A repository of brain activation maps<br>
+<a href="https://www.youtube.com/playlist?list=PLEdFhTRBFLObkatJOX9wp3BCueH4wNSl7"> Neurohackweek 2016 videos</a><br></span>
 
 <br>
 <br>
@@ -29,7 +29,7 @@ subtitle: Useful materials and links
 <a href="https://ida.loni.usc.edu/login.jsp">LONI IDA</a>: Laboratory of Neuro Imaging Image & Data Archive<br>
 <a href="http://coins.mrn.org/">COINS</a>: Collaborative Informatics and Neuroimaging Suite<br>
 <a href="http://wiki.na-mic.org/Wiki/index.php/Main_Page">NA-MIC</a>: National Alliance for Medical Image Computing<br> 
-<a href="https://openfmri.org/">OpenfMRI: https://openfmri.org</a></span>  
+<a href="https://openfmri.org/">OpenfMRI: https://openfmri.org</a><br></span>  
 
 <br>
 <br>
@@ -67,7 +67,7 @@ subtitle: Useful materials and links
 <a href="https://www.kaggle.com/">Kaggle</a>: A great platform for machine learning and prediction<br>
 <a href="http://danlarremore.com/webweb/">Webweb</a>: A good Network visualization tool<br></span>
 
-
+<br>
 <br>
 <h4>Podcast etc.</h4>
 <br>
