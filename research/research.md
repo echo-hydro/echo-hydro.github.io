@@ -23,8 +23,6 @@ subtitle: Ongoing and future research projects
 
 <span style="font-size: 14px !important;"><b>Figure 2. Biomarker development process. (a)</b> To be a useful neuroimaging marker, it needs to demonstrate increasing levels of supporting evidence and generalizability through multiple stages. Therefore, establishing neuroimaging markers requires a long development and validation process supported by multi-study and multi-site efforts. <b>(b)</b> Neuroimaging marker development and validation process. This process can be described as an iterative process of optimization, generalization, and characterization. </span>
 
-<br>
-
 
 <span style="font-size: 16px !important; color: #BD0026;"><b>FMRI-based biomarkers for pain and other mental processes</b></span> 
 
