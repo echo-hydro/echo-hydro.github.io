@@ -5,13 +5,15 @@ permalink: /publication/
 subtitle: Cocoan lab publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<h2><span style="color: #BD0026;">in press</span></h2>
+<!--<h2><span style="color: #BD0026;">in press</span></h2>-->
 
-<p id="NN_translation2016"><b>In press</b> "Building better biomarkers: Brain models in translational neuroimaging."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Luke Chang, Martin A Lindquist, Tor D Wager, <i>Nature Neuroscience</i> </span></p>
 
 <h2><span style="color: #0055A9;">2017</span></h2>
 
-<p id="NCOMMS_siips2016"><b>2017</b> "Quantifying cerebral contributions to pain beyond nociception."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Mathieu Roy, Martin A Lindquist, Lauren Y Atlas, Tor D Wager, <i>Nature Communications</i> 14211 &nbsp; <a href="http://www.nature.com/articles/ncomms14211">Nature</a> | <a href="/pdfs/Woo_2017_NCOMMS.pdf">PDF</a> | <a href="/pdfs/Woo_2017_NCOMMS_supp.pdf"> Supplementary information</a> <br><b>Press (selected):</b> <a href="http://www.9news.com/life/cu-boulder-study-examines-how-the-brain-handles-pain/408416991">9news</a> | <a href="http://www.colorado.edu/today/2017/02/14/mri-modeling-shows-how-pain-all-brain">CU Boulder Today</a><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms14211" data-hide-no-mentions="true" class="altmetric-embed"></div></span></p>
+<p id="NN_translation2016"><b>2017</b> "Building better biomarkers: Brain models in translational neuroimaging."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Luke Chang, Martin A Lindquist, Tor D Wager, <i>Nature Neuroscience</i>, <b>20</b>, 365–377 &nbsp; <a href="hhttp://www.nature.com/neuro/journal/v20/n3/abs/nn.4478.html">Nature</a> | <a href="/pdfs/Woo_2017_NatNeuro.pdf">PDF</a><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nn.4478" data-hide-no-mentions="true" class="altmetric-embed"></div></span></p>
+
+
+<p id="NCOMMS_siips2016"><b>2017</b> "Quantifying cerebral contributions to pain beyond nociception."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Mathieu Roy, Martin A Lindquist, Lauren Y Atlas, Tor D Wager, <i>Nature Communications</i>, <b>8</b>, 14211 &nbsp; <a href="http://www.nature.com/articles/ncomms14211">Nature</a> | <a href="/pdfs/Woo_2017_NCOMMS.pdf">PDF</a> | <a href="/pdfs/Woo_2017_NCOMMS_supp.pdf"> Supplementary information</a> <br><b>Press (selected):</b> <a href="http://www.9news.com/life/cu-boulder-study-examines-how-the-brain-handles-pain/408416991">9news</a> | <a href="http://www.colorado.edu/today/2017/02/14/mri-modeling-shows-how-pain-all-brain">CU Boulder Today</a><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms14211" data-hide-no-mentions="true" class="altmetric-embed"></div></span></p>
 
 <p id="NMED_commentary2017"><b>2017</b> "Imaging biomarkers and biotypes for depression."<br><span style="font-size: 13px !important; color: #555;">Tor D Wager, <b>Choong-Wan Woo</b>, <i>Nature Medicine</i>, 23:16-17 &nbsp; <a href="/pdfs/WagerWoo_2017_NatMed.pdf">PDF</a> | <a href="http://www.nature.com/nm/journal/v23/n1/full/nm.4264.html">Nature</a> <br>**This is a commentary on this <a href="http://www.nature.com/nm/journal/v23/n1/full/nm.4246.html">article</a> (Drysdale et al., 2017, <i>Nature Medicine</i>).</span></p>		
 
