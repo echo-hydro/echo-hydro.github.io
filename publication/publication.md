@@ -5,8 +5,8 @@ permalink: /publication/
 subtitle: Cocoan lab publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!--<h2><span style="color: #BD0026;">in press</span></h2>-->
-
+<h2><span style="color: #BD0026;">in press</span></h2>
+<p id="JN_Koban2017"><b>In press</b> "Frontal-brainstem pathways mediating placebo effects on social rejection."<br><span style="font-size: 13px !important; color: #555;">Leonie Koban, Ethan Kross, <b>Choong-Wan Woo</b>, Luka Ruzic &, Tor D. Wager, <i>Journal of Neuroscience</i> </span></p>
 
 <h2><span style="color: #0055A9;">2017</span></h2>
 
