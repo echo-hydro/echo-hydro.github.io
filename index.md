@@ -5,7 +5,7 @@ permalink: /
 subtitle: Computational Cognitive Affective Neuroscience Laboratory
 ---
 
-<img src="img/feature3.png" width="820" height="80" align="center"/>
+<img src="img/feature3.png" width="820" align="center"/>
 
 <b><span style="font-size: 16px !important; color: #BD0026;">Cocoan lab</span></b> <span style="font-size: 16px !important;"> is a neuroimaging research lab led by 
 <a href="http://wanirepo.github.io">Dr. Choong-Wan Woo</a>.</span>  
