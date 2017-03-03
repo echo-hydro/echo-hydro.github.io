@@ -73,6 +73,8 @@ subtitle: Useful materials and links
 <br>
 
 <span style="font-size: 15px !important;">
+
+<a href="http://brainpodcast.com">Brain Matters</a>: This podcast is so much fun. This podcast provides interesting interviews with real neuroscientists.<br>
 <a href="http://www.thetalkingmachines.com/">Talking Machines</a>: Podcast about machine learning<br>
 <a href="http://www.npr.org/programs/invisibilia/">Invisibilia</a>: NPR podcast about invisible forces that control human behavior – ideas, beliefs, assumptions and emotions.<br>
 <a href="http://www.radiolab.org/series/podcasts/">Radiolab</a>: Interesting stories about science, philosophy, and human experience.<br>
