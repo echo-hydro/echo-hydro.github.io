@@ -5,7 +5,13 @@ permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
 
+<span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">Our paper on building better neuroimaging biomarkers has been published on <i>Nature Neuroscience</i>. </span></b>
+
+<span style="font-size: 15px !important; color: #555;">This <a href="/pdfs/Woo_2017_NatNeuro.pdf">paper</a> contains important ideas about what translational neuroimaging research would look like in the future. Also if you're interested in joining my lab, you would be able to learn what our near-future research direction could be from this paper.</span>
+
+<br>
 <span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">We are joining the IBS Center for Neuroscience Imaging Research (CNIR) at Sungkyunkwan University. </span></b>
@@ -16,6 +22,6 @@ subtitle: What is happening in the Cocoan lab?
 <p id="NCOMMS2017"></p><br>
 <span style="font-size: 15px !important; color: #BD0026;">February 2017 </span>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Our paper on developing predictive models for pain using multi-study fMRI data is published on Nature Communications.</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">Our paper on developing predictive models for pain using multi-study fMRI data is published on <i>Nature Communications</i>.</span></b>
 
 <span style="font-size: 15px !important; color: #555;"> It's finally <a href="http://www.nature.com/articles/ncomms14211">online</a> (<a href="/pdfs/Woo_2017_NCOMMS.pdf">pdf</a>; see [Publication](/publication/) for more links). In this new paper, we identified a new fMRI pattern that is predictive of pain above and beyond stimulus intensity and nociceptive brain response. Tor and I had this analysis idea since my second year of the graduate school, and I did the first version of this study as a final project for Tor's fMRI method class. Thanks to our lab's collaborative efforts to create the large-scale single-trial pain dataset, I was able to scale up the study, and the final version of the study ended up including data from six different pain studies (_N_ = 183). This was one of the main reasons that our paper was able to be published on _Nature Communications_. The pattern we identified explained variation in trial-by-trial pain ratings not captured by a previous fMRI-based marker for nociceptive pain (i.e., <a href="../pdfs/Wager_2013_NEJM.pdf">Neurologic Pain Signature</a>). In addition, the new pattern mediated the pain-modulating effects of three psychological manipulations of expectations and perceived control. We hope that the new pattern signature provides a generalizable and extensible characterization of cerebral contributions to pain and specific brain targets for interventions.</span> 
