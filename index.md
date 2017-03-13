@@ -21,4 +21,4 @@ subtitle: Computational Cognitive Affective Neuroscience Laboratory
 
 <span style="font-size: 16px !important;">[We are currently looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
-- Current openings: 1 Post-doc, 1 or 2 graduate students, 1 or 2 undergrad RAs
+- <span style="font-size: 15px !important;">Current openings: 1 Post-doc, 1 or 2 graduate students, 1 or 2 undergrad RAs</span>
