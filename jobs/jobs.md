@@ -12,6 +12,7 @@ subtitle: We're hiring!
 - <a href="#labmanager">Lab manager/Research assistant</a>
 - <a href="#undergrad">Undergrad research assistant</a>
 
+- Currently available: 1 Postdoc, 1 or 2 Graduate student (MS/PhD combined), 1 or 2 Undergrad research assistant
 
 <p id="generalinfo"></p>
 
