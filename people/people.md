@@ -20,7 +20,7 @@ subtitle: Cocoan lab members
 
 <p id="YongWook"></p>
 
-###<b><span style="font-size: 20px !important; color: #0055A9;">YongWook Hong</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">YongWook Hong</span></b>
 
 <img src="images/HongYW_cnir.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a research assistant in the cocoan lab. He received B.A. in psychology at Taylor University.  He is currently interested in the mind-body-brain interaction and wants to study the relationships between pain and its psychology. He is passionate about projects that will improve people’s physical and psychological well-being. </span>
@@ -29,7 +29,7 @@ subtitle: Cocoan lab members
 
 <p id="Jaejoong"></p>
 
-###<b><span style="font-size: 20px !important; color: #0055A9;">Jae-joong Lee</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">Jae-joong Lee</span></b>
 
 <img src="images/LeeJJ_cnir.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-Joong is a graduate student at Sungkyunkwan University. He received IBS director's fellowship, which allows him to rotate multiple labs for one year. He is currently doing a lab rotation in the cocoan lab and the IBS director's lab. He is interested in investigating objective markers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases especially of pain or emotions. He recevied his M.D. in Hanyang University." </span>
