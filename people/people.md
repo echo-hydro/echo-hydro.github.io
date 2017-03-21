@@ -25,7 +25,7 @@ subtitle: Cocoan lab members
 <img src="images/HongYW_cnir.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a research assistant in the cocoan lab. He received B.A. in psychology at Taylor University.  He is currently interested in the mind-body-brain interaction and wants to study the relationships between pain and its psychology. He is passionate about projects that will improve people’s physical and psychological well-being. </span>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Jaejoong"></p>
 
