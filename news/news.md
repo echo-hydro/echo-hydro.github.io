@@ -7,12 +7,25 @@ subtitle: What is happening in the Cocoan lab?
 
 <span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">A new paper on placebo effects on painful emotions due to social rejection has been published on <i>Journal of Neuroscience</i>. </span></b>
+
+<span style="font-size: 15px !important; color: #555;">Here is the <a href="/pdfs/Koban_2017_JN.pdf">PDF</a> of the paper.</span>
+
+<br>
+
+
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Yongwook Hong and Jaejoong Lee joined the lab. </span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out their research interest and brief introduction [here](/people/).
+
+<br>
+
 <b><span style="font-size: 20px !important; color: #0055A9;">Our paper on building better neuroimaging biomarkers has been published on <i>Nature Neuroscience</i>. </span></b>
 
 <span style="font-size: 15px !important; color: #555;">This <a href="/pdfs/Woo_2017_NatNeuro.pdf">paper</a> contains important ideas about what translational neuroimaging research would look like in the future. Also if you're interested in joining my lab, you would be able to learn what our near-future research direction could be from this paper.</span>
 
 <br>
-<span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">We are joining the IBS Center for Neuroscience Imaging Research (CNIR) at Sungkyunkwan University. </span></b>
 

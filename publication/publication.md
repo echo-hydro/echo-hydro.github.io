@@ -6,9 +6,11 @@ subtitle: Cocoan lab publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <h2><span style="color: #BD0026;">in press</span></h2>
-<p id="JN_Koban2017"><b>In press</b> "Frontal-brainstem pathways mediating placebo effects on social rejection."<br><span style="font-size: 13px !important; color: #555;">Leonie Koban, Ethan Kross, <b>Choong-Wan Woo</b>, Luka Ruzic &, Tor D. Wager, <i>Journal of Neuroscience</i> </span></p>
+
 
 <h2><span style="color: #0055A9;">2017</span></h2>
+
+<p id="JN_Koban2017"><b>2017</b> "Frontal-brainstem pathways mediating placebo effects on social rejection."<br><span style="font-size: 13px !important; color: #555;">Leonie Koban, Ethan Kross, <b>Choong-Wan Woo</b>, Luka Ruzic &, Tor D. Wager, <i>Journal of Neuroscience, </i> 37 (13) 3621-3631 &nbsp; <a href="http://www.jneurosci.org/content/37/13/3621">JNeurosci</a> | <a href="/pdfs/Koban_2017_JN.pdf">PDF</a><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1523/JNEUROSCI.2658-16.2017" data-hide-no-mentions="true" class="altmetric-embed"></div></span></p>
 
 <p id="NN_translation2016"><b>2017</b> "Building better biomarkers: Brain models in translational neuroimaging."<br><span style="font-size: 13px !important; color: #555;"><b>Choong-Wan Woo</b>, Luke Chang, Martin A Lindquist, Tor D Wager, <i>Nature Neuroscience</i>, <b>20</b>, 365–377 &nbsp; <a href="http://www.nature.com/neuro/journal/v20/n3/abs/nn.4478.html">Nature</a> | <a href="/pdfs/Woo_2017_NatNeuro.pdf">PDF</a> | <a href="http://rdcu.be/pydo">Enhanced PDF</a><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nn.4478" data-hide-no-mentions="true" class="altmetric-embed"></div></span></p>
 
