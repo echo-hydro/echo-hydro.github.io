@@ -2,7 +2,7 @@
 layout: page
 title: COCOAN lab
 permalink: /
-subtitle: Computational Cognitive Affective Neuroscience Laboratory
+subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>euroscience Laboratory
 ---
 
 <img src="img/feature3.png" width="820" align="center"/>
