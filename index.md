@@ -20,4 +20,4 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 
 <span style="font-size: 16px !important;">[We are currently looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
-- <span style="font-size: 15px !important;">Current openings: 1 Post-doc, 1 or 2 graduate students, 1 or 2 undergrad RAs</span>
+- <span style="font-size: 15px !important;">Current openings: 1 or 2 graduate students, 1 or 2 undergrad RAs</span>
