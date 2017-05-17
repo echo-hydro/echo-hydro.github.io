@@ -41,7 +41,7 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
 
 <img src="images/JeongJY_cnir.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jongyun is an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University(SKKU). He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He is interested in understanding the neural mechanisms of emotion regulation using computational tools. He is also eager to develop computational tools for neuroscience research.</span>
+<span style="font-size: 15px !important; color: #555;">Jongyun is an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University. He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He is interested in understanding the neural mechanisms of emotion regulation using computational tools. He is also eager to develop computational tools for neuroscience research.</span>
 
 
 <br><br><br><br>
