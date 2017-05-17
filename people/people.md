@@ -23,7 +23,7 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 20px !important; color: #0055A9;">YongWook Hong</span></b>
 
 <img src="images/HongYW_cnir.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">YongWook is a research assistant in the cocoan lab. He received B.A. in psychology at Taylor University.  He is currently interested in the mind-body-brain interaction and wants to study the relationships between pain and its psychology. He is passionate about projects that will improve people’s physical and psychological well-being. </span>
+<span style="font-size: 15px !important; color: #555;">YongWook is a research assistant (lab manager) of the Cocoan lab. He received B.A. in psychology at Taylor University.  He is currently interested in the mind-body-brain interaction and wants to study the relationships between pain and its psychology. He is passionate about projects that will improve people’s physical and psychological well-being. </span>
 
 <br><br><br><br><br>
 
@@ -32,7 +32,17 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 20px !important; color: #0055A9;">Jae-joong Lee</span></b>
 
 <img src="images/LeeJJ_cnir.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jae-Joong is a graduate student at Sungkyunkwan University. He received IBS director's fellowship, which allows him to rotate multiple labs at IBS during his first-year graduate study. He is currently doing a lab rotation in the cocoan lab and the IBS director's lab. He is interested in investigating objective markers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases especially of pain or emotions. He recevied his M.D. in Hanyang University." </span>
+<span style="font-size: 15px !important; color: #555;">Jae-Joong is a graduate student at Sungkyunkwan University. He received IBS director's fellowship, which allows him to rotate multiple labs at IBS during his first-year graduate study. He is currently doing a lab rotation in the cocoan lab and the IBS director's lab. He is interested in investigating objective markers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases especially of pain or emotions. He recevied his M.D. in Hanyang University.</span>
+
+<br><br><br>
+
+<p id="Jongyun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
+
+<img src="images/JeongJY_cnir.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jongyun is an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University(SKKU). He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He is interested in understanding the neural mechanisms of emotion regulation using computational tools. He is also eager to develop computational tools for neuroscience research.</span>
+
 
 <br><br><br><br>
 

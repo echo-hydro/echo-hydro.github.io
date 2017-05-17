@@ -5,6 +5,15 @@ permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
 
+<span style="font-size: 15px !important; color: #BD0026;">May 2017 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jongyun Jeong</span> and <span style="color: #1c9099;">Jooyong Kang</span> joined the lab as undergrad research assistants.</span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out their research interest and brief introduction [here](/people/).
+
+<br>
+
+
 <span style="font-size: 15px !important; color: #BD0026;">March 2017 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">A new paper on placebo effects on painful emotions due to social rejection has been published on <i>Journal of Neuroscience</i>. </span></b>
@@ -15,7 +24,7 @@ subtitle: What is happening in the Cocoan lab?
 
 
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Yongwook Hong and Jaejoong Lee joined the lab. </span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Yongwook Hong</span> and <span style="color: #1c9099;">Jaejoong Lee</span> joined the lab. </span></b>
 
 <span style="font-size: 15px !important; color: #555;">Check out their research interest and brief introduction [here](/people/).
 
