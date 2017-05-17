@@ -37,11 +37,11 @@ subtitle: We're hiring!
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Postdoctoral fellow</span></b>
 
-<span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory (director: <a href="/people/#Wani">Dr. Choong-Wan Woo</a>) is seeking a postdoctoral fellow beginning March/April 2017 (but specific start date can be flexible).</span>  
+<span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory (director: <a href="/people/#Wani">Dr. Choong-Wan Woo</a>) is seeking a talented postdoctoral fellow.</span>  
 
 <span style="font-size: 15px !important;">Successful candidates should have Ph.D. in neuroscience, psychology, cognitive science, computer science, biomedical engineering, or related fields. Candidates should be highly motivated and also have a strong background in computational methods and neuroimaging experiment and data analysis. Computer programming skills (Matlab or Python; our lab is currently using Matlab) will be essential, and other analysis skills (e.g., machine learning, network analysis, computational modeling) and a good publication record will be greatly helpful. Having growth, innovation, collaborative mindsets will be crucial, and the ability to develop and express abstract ideas will be helpful. Writing skills are also important.</span>
 
-<span style="font-size: 15px !important;">Compensation will be competitive and commensurate with experience (comparable to NIH). Four major public insurances (national pension, health insurance, unemployment insurance, industrial accident) will be also supported.</span>
+<span style="font-size: 15px !important;">Compensation will be competitive and commensurate with experience. Four major public insurances (national pension, health insurance, unemployment insurance, industrial accident) will be also supported.</span>
 
 <span style="font-size: 15px !important;">For those who are not living in South Korea and feel afraid of living in South Korea: South Korea has many beautiful places to visit and most importantly great food. Here are some helpful information and fun	 video clips:</span>
 
@@ -58,11 +58,11 @@ subtitle: We're hiring!
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Graduate Student</span></b>
 
-<span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory is accepting one or two talented graduate students (MS or PhD) through the Department of Biomedical Engineering in the Sungkyunkwan University. Though I'm still figuring out the application and selection process (because I'm still very new here), I just wanted to tell those who are interested in pursuing graduate degrees with me that I have a couple slots available. I think the start date should be Fall 2017 or Spring 2018--I will update this when I get more information. But if you are interested in doing MA or PhD in the Cocoan lab, it might be good idea to email me in advance. You can also come early and join the lab as a research assistant before the graduate school starts. This can help with smoother transition to graduate student life.</span> 
+<span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory is accepting one or two talented graduate students (MS/PhD combined, but you can do MS only) through the Department of Biomedical Engineering in the Sungkyunkwan University. If you are interested in doing MS or PhD in the Cocoan lab, it might be good idea to email me in advance and work in the lab as a research assistant before you actually apply for the grad school. Joining the lab in advance will help with smoother transition to graduate student life.</span> 
 
 <span style="font-size: 15px !important;">Successful candidates should have Bachelor's degree in neuroscience, psychology, biology, computer science, biomedical engineering, or related fields (but I'm quite open to other majors, so don't worry about the BS major). More importantly, successful candidates should show a strong motivation to do research, run experiments, publish your paper, and collaborate with other people in the lab. Experience in scientific research, computational modeling/analysis, coding, and neuroimaging will be a plus, but (again) if you have a strong motivation to learn these, it should be fine. Writing skills are important, so it would be very helpful if you could send me your writing samples. Having growth, innovative, and collaborative mindsets and the ability to develop and express abstract ideas will be crucial as well.</span> 
 
-<span style="font-size: 15px !important;">You will receive a stipend and a support for tuition, but there are many different rules for different cases (e.g., depending on PhD vs. MS, international students, scholarships, etc.). Thus, I will be able to provide more detailed information about the compensation when time comes. </span>
+<span style="font-size: 15px !important;">You will receive a stipend and a support for tuition, but there are different rules for different cases (e.g., depending on PhD vs. MS, international students, scholarships, etc.). Thus, I will be able to provide more detailed information about the compensation when time comes. </span>
 
 <p id="labmanager"></p>
 
@@ -71,7 +71,7 @@ subtitle: We're hiring!
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Full-time Lab manager/Research assistant</span></b>
 
-<span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory is seeking a full-time lab manager/research assistant beginning March 2017 (but specific start date for this position can be flexible).</span>
+<span style="font-size: 15px !important;">Computational Cognitive Affective Neuroscience Laboratory is seeking a full-time lab manager/research assistant.</span>
 
 <span style="font-size: 15px !important;">Responsibilities include handling administrative duties for the lab (e.g., managing finances, purchasing equipment, recruiting and scheduling subjects, running experiments), supporting lab research (e.g., mentoring undergrad research assistants, maintaining lab equipments, assisting in data collection and analysis). You can also have the opportunity to conduct original research and publish research papers. This position is ideal for individuals interested in applying to graduate school or studying abroad.</span>
 
