@@ -13,7 +13,7 @@ subtitle: We're hiring!
 - <a href="#undergrad">Undergrad research assistant</a>
 
 <br>
-<span style="font-size: 15px !important;"><b>Currently available</b>: 1 Postdoc; 1 or 2 Graduate student (MS/PhD combined); 1 or 2 Undergrad research assistant</span>
+<span style="font-size: 15px !important;"><b>Currently available</b>: 1 or 2 Graduate student (MS/PhD combined); 1 or 2 Undergrad research assistant</span>
 
 <p id="generalinfo"></p>
 
