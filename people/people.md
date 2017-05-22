@@ -43,6 +43,17 @@ subtitle: Cocoan lab members
 <img src="images/JeongJY_cnir.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jongyun is an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University. He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He is interested in understanding the neural mechanisms of emotion regulation using computational tools. He is also eager to develop computational tools for neuroscience research.</span>
 
+<br><br><br>
+
+<p id="Jooyeong"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"> Jooyeong Kang</span></b>
+
+<img src="images/KangJY_cnir.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jooyeong is an undergrad research assistant in the lab. He is majoring in Biology at Sungkyunkwan University. She is currently interested in emotion regulation, pain tolerance, and its personal differences. She is also curious about the relationship between tolerance and altruism. Her final goal is to understand emotion regulation processes and use them for psychiatric disorders.</span>
+
+
+
 
 <br><br><br><br>
 
