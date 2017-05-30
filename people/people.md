@@ -52,11 +52,15 @@ subtitle: Cocoan lab members
 <img src="images/KangJY_cnir.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jooyeong is an undergrad research assistant in the lab. He is majoring in Biology at Sungkyunkwan University. She is currently interested in emotion regulation, pain tolerance, and its personal differences. She is also curious about the relationship between tolerance and altruism. Her final goal is to understand emotion regulation processes and use them for psychiatric disorders.</span>
 
+<br><br><br>
 
+<b><span style="font-size: 20px !important; color: #0055A9;"> Collaborators: </span></b>
+
+Dr. Yubu Lee, Research professor (affective computing)<br>
+Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br>
 
 
 <br><br><br><br>
-
 
 <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</span></b> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
 
