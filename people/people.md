@@ -56,8 +56,8 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 20px !important; color: #0055A9;"> Collaborators: </span></b>
 
-Dr. Yubu Lee, Research professor (affective computing)<br>
-Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br>
+&nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing)<br>
+&nbsp;&nbsp;&nbsp; Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br></span>
 
 
 <br><br><br><br>
