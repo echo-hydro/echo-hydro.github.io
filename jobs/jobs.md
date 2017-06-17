@@ -91,5 +91,4 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">If you are interested in this job, please email Dr. Choong-Wan Woo (<a href="mailto:waniwoo@skku.edu">waniwoo@skku.edu</a>).</span>
 
-
-
+<span style="font-size: 15px !important;">If you are a senior-year undergrad student and consider to be a grad student in our lab, please check [this](/jobs/senior/) out before contacting me.
