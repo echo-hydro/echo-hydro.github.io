@@ -30,8 +30,9 @@ subtitle: Ongoing and future research projects
 
 <span style="font-size: 15px !important;">These are just the beginning of developing useful fMRI biomarkers for pain and other mental processes. We are currently working on developing functional connectivity-based biomarkers for acute and chronic pain, and also aim to develop process-based predictive models. We have also developed fMRI pattern classifiers for other cognitive and affective processes, such as attentional control (Woo et al., in prep) and hurt feelings from social rejection (<a href="../pdfs/Woo_2014_NatComms.pdf">Woo et al., 2014</a>). We are also working on developing physiological markers for pain and emotions using autonomic responses (e.g., skin conductance, heart rate, respiration, etc.; Matthewson, Woo et al. in prep).</span>
 
-<span style="font-size: 16px !important; color: #BD0026;"><b>Dynamics of thoughts and emotions in contexts</b></span> 
+<span style="font-size: 16px !important; color: #BD0026;"><b>Dynamic modeling of thoughts, emotions, and pain in contexts</b></span> 
 
+<span style="font-size: 15px !important;">Working on this... Coming soon!</span>
 
 <span style="font-size: 16px !important; color: #BD0026;"><b>Neural mechanisms of the psychological and social pain modulation</b></span> 
 
