@@ -1,8 +1,8 @@
 [Home](/jobs/)
 
-##For senior-year undergrads who consider pursuing grad school in our lab: 
+<b><span style="font-size: 20px !important; color: #0055A9;">For senior-year undergrads who consider pursuing grad school in our lab:</span></b>
 
-As a default, all undergrad students have to spend at least 3 months volunteer (not paid) period in the lab before making a mutual decision over whether you will keep being in the lab or not. We'd like to use this 3 months to get to know you more and evaluate how well you will do during the grad school. If you already have a plenty of research experience (in other labs) and a strong recommendation letter, there could be an exception.
+<span style="font-size: 15px !important;">As a default, all undergrad students have to spend at least 3 months volunteer (not paid) period in the lab before making a mutual decision over whether you will keep being in the lab or not. We'd like to use this 3 months to get to know you more and evaluate how well you will do during the grad school. If you already have a plenty of research experience (in other labs) and a strong recommendation letter, there could be an exception.
 
 Why we need 3 months? The grad school and academic life is very challenging and never easy. Many times you will feel frustrated and sometimes hopeless. Entering the grad school should not be like "let's just give it a try" or "한번 해보지 뭐". You should ponder over what would be like your life in a grad school and academia. Once you enter the grad school, I believe that I must do my best to give you a success in your life and your academic career path. This won't be easy and will be a huge cost for both of us. Thus, I need to know who you are before I can decide your admission to the grad school. Thus, three months are not very long for me. 
 
@@ -30,4 +30,4 @@ If you cannot enter the grad school right away for any reasons, but if you want 
 
 If you are considering 전문연구요원 (to fulfill your military duty) during your grad school, you should submit the TEPS score during the three-month volunteer period. I'm not asking to submit your final score. I want to know your *baseline* TEPS score because I want to make sure you will do well in TEPS when you apply for 전문연구요원. I don't have the exact cut-off of the TEPS score in my mind for now, but without the TEPS score, I won't be able to accept you as grad students. 
 
-Before you spend the three-month volunteer period, I can't support the 학석연계 program.
+Before you spend the three-month volunteer period, I can't support the 학석연계 program.</span>
