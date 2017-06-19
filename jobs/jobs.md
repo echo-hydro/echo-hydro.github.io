@@ -64,6 +64,8 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">You will receive a stipend and a support for tuition, but there are different rules for different cases (e.g., depending on PhD vs. MS, international students, scholarships, etc.). Thus, I will be able to provide more detailed information about the compensation when time comes. </span>
 
+<span style="font-size: 15px !important;">If you are a senior-year undergrad student and consider to be a grad student in our lab, please read [this](/jobs/senior) before contacting me.
+
 <p id="labmanager"></p>
 
 <br>
@@ -91,4 +93,4 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">If you are interested in this job, please email Dr. Choong-Wan Woo (<a href="mailto:waniwoo@skku.edu">waniwoo@skku.edu</a>).</span>
 
-<span style="font-size: 15px !important;">If you are a senior-year undergrad student and consider to be a grad student in our lab, please check [this](/jobs/senior) out before contacting me.
+<span style="font-size: 15px !important;">If you are a senior-year undergrad student and consider to be a grad student in our lab, please read [this](/jobs/senior) before contacting me.
