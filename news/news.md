@@ -7,9 +7,9 @@ subtitle: What is happening in the Cocoan lab?
 
 <span style="font-size: 15px !important; color: #BD0026;">May 2017 </span>
 
-<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jongyun Jeong</span> and <span style="color: #1c9099;">Jooyong Kang</span> joined the lab as undergrad research assistants.</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jongyun Jeong</span> joined the lab as undergrad research assistants.</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out their research interest and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out his research interest and brief introduction [here](/people/).
 
 <br>
 

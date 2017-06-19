@@ -45,15 +45,6 @@ subtitle: Cocoan lab members
 
 <br><br><br>
 
-<p id="Jooyeong"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;"> Jooyeong Kang</span></b>
-
-<img src="images/KangJY_cnir.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jooyeong is an undergrad research assistant in the lab. He is majoring in Biology at Sungkyunkwan University. She is currently interested in emotion regulation, pain tolerance, and its personal differences. She is also curious about the relationship between tolerance and altruism. Her final goal is to understand emotion regulation processes and use them for psychiatric disorders.</span>
-
-<br><br><br>
-
 <b><span style="font-size: 20px !important; color: #0055A9;"> Collaborators: </span></b>
 
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, facial expression analyses)<br></span>
@@ -84,4 +75,5 @@ subtitle: Cocoan lab members
 	<li><a href="https://www.linkedin.com/profile/view?id=46544652" target="_blank">Amod Anand Agashe</a>, M.S., 2010, Stochastic Revenue Optimization in Online Advertising</li>
 	<li><a href="https://www.linkedin.com/profile/view?id=46856185" target="_blank">Varun Narayana Kutty</a>, M.S., 2010, Accept-Reject Decision in Online Advertising using Geometric Brownian Motion</li>
 </ul>
+
 &nbsp;-->
