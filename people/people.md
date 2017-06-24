@@ -45,6 +45,17 @@ subtitle: Cocoan lab members
 
 <br><br><br>
 
+
+<p id="Hongji"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">HongJi Kim</span></b>
+
+<img src="images/default.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">HongJi is an undergrad research assistant in the Cocoan lab. She is double majoring in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
+
+<br><br><br>
+
+
 <b><span style="font-size: 20px !important; color: #0055A9;"> Collaborators: </span></b>
 
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, facial expression analyses)<br></span>
