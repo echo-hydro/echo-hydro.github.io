@@ -48,12 +48,22 @@ subtitle: Cocoan lab members
 
 <p id="Hongji"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">HongJi Kim</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">Hong Ji Kim</span></b>
 
-<img src="images/default.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">HongJi is an undergrad research assistant in the Cocoan lab. She is double majoring in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
+<img src="images/KimHJ.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Hong Ji is an undergrad research assistant in the Cocoan lab. She is double majoring in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
 <br><br><br>
+
+<p id="Yejong"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Yejong Yoo</span></b>
+
+<img src="images/YooYJ.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Yejong is an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains.</span>
+
+<br><br><br>
+
 
 
 <b><span style="font-size: 20px !important; color: #0055A9;"> Collaborators: </span></b>
