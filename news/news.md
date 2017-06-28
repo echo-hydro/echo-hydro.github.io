@@ -5,6 +5,14 @@ permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
 
+<span style="font-size: 15px !important; color: #BD0026;">June 2017 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Hong Ji Kim, Yejong Yoo, Sooan Lee, Jeongwon Shin</span>, and <span style="color: #1c9099;">Chanhoo Kum</span> joined the lab as undergrad research assistants.</span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/).
+
+<br>
+
 <span style="font-size: 15px !important; color: #BD0026;">May 2017 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jongyun Jeong</span> joined the lab as undergrad research assistants.</span></b>
