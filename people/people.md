@@ -77,7 +77,7 @@ subtitle: Cocoan lab members
 <img src="images/LeeSA.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sooan is an undergrad research assistant in the Cocoan Lab. Her major is Psychology, and she is interested particularly in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
-<br><br><br>
+<br><br><br><br>
 
 
 <p id="Jeongwon"></p>
