@@ -7,8 +7,9 @@ subtitle: Cocoan lab members
 
 <p id="Wani"></p>
 
-<h2><span style="color: #BD0026;">Director</span></h2>
-<b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
+<b><span style="font-size: 20px !important; color: #BD0026;">Lab director</span></b>
+<hr>
+<b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo</span></b>
 
 <img src="images/Woo_cnir_3.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Choong-Wan (Wani) is the director of the <span style="font-size: 15px !important; color: #BD0026;">Cocoan lab</span>. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent publications span the topics from developing neuroimaging-based markers for pain to how to build better biomarkers in translational neuroimaging. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder (PhD advisor: <a href="http://wagerlab.colorado.edu/">Tor D. Wager</a>), and MA in Clinical psychology and BS in Biology from Seoul National University. He has received many awards including the <a href="http://www.iie.org/fulbright">Fulbright Graduate Study Award</a> from Korea and US governments, the Carol B. Lynch Graduate Fellowship from the graduate school of the University of Colorado Boulder, and the Heyer Award from the Department of Psychology and Neuroscience. Currently, he is an assistant professor at the IBS Center for Neuroscience Imaging Research and the Department of Biomedical Engineering in the Sungkyunkwan University (SKKU). </span>
@@ -18,8 +19,8 @@ subtitle: Cocoan lab members
 
 <br>
 
-<br><br>
-<h2><span style="color: #BD0026;">Graduate students</span></h2>
+<b><span style="font-size: 20px !important; color: #BD0026;">Graduate students</span></b>
+<hr>
 
 <p id="YongWook"></p>
 
@@ -39,9 +40,8 @@ subtitle: Cocoan lab members
 
 <br><br><br>
 
-<br><br>
-<h2><span style="color: #BD0026;">Undergrad students</span></h2>
-
+<b><span style="font-size: 20px !important; color: #BD0026;">Undergraduate students</span></b>
+<hr>
 <p id="Jongyun"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
@@ -68,7 +68,7 @@ subtitle: Cocoan lab members
 <img src="images/YooYJ.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yejong is an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains.</span>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p id="Sooan"></p>
 
@@ -77,7 +77,7 @@ subtitle: Cocoan lab members
 <img src="images/LeeSA.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sooan is an undergrad research assistant in the Cocoan Lab. Her major is Psychology, and she is interested particularly in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
-<br><br><br><br>
+<br><br><br>
 
 
 <p id="Jeongwon"></p>
@@ -90,9 +90,9 @@ subtitle: Cocoan lab members
 <br><br><br>
 
 
-<br><br>
 
-<h2><span style="color: #BD0026;">Collaborators</span></h2>
+<b><span style="font-size: 20px !important; color: #BD0026;">Collaborators</span></b>
+<hr>
 
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, facial expression analyses)<br></span>
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br></span>
