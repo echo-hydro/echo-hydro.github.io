@@ -7,6 +7,7 @@ subtitle: Cocoan lab members
 
 <p id="Wani"></p>
 
+<h2><span style="color: #BD0026;">Director</span></h2>
 <b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo (Lab director)</span></b>
 
 <img src="images/Woo_cnir_3.png" width="150" height="215" align="left" hspace="20" />
@@ -15,8 +16,10 @@ subtitle: Cocoan lab members
 <span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Apr2017.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/choongwanwoo/">Twitter</a></span>
 
 
-
 <br>
+
+<br><br>
+<h2><span style="color: #BD0026;">Graduate students</span></h2>
 
 <p id="YongWook"></p>
 
@@ -35,6 +38,9 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student at Sungkyunkwan University. He received IBS director's fellowship, which allows him to rotate multiple labs at IBS during his first-year graduate study. He is currently doing a lab rotation in the cocoan lab and the IBS director's lab. He is interested in investigating objective markers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases especially of pain or emotions. He recevied his M.D. in Hanyang University.</span>
 
 <br><br><br>
+
+<br><br>
+<h2><span style="color: #BD0026;">Undergrad students</span></h2>
 
 <p id="Jongyun"></p>
 
@@ -84,8 +90,9 @@ subtitle: Cocoan lab members
 <br><br><br>
 
 
+<br><br>
 
-<b><span style="font-size: 20px !important; color: #0055A9;"> Collaborators: </span></b>
+<h2><span style="color: #BD0026;">Collaborators</span></h2>
 
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, facial expression analyses)<br></span>
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br></span>
