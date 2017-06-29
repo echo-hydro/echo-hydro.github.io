@@ -62,6 +62,25 @@ subtitle: Cocoan lab members
 <img src="images/YooYJ.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yejong is an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains.</span>
 
+<br><br><br><br><br>
+
+<p id="Sooan"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Sooan Lee</span></b>
+
+<img src="images/LeeSA.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Sooan is an undergrad research assistant in the Cocoan Lab. Her major is Psychology, and she is interested particularly in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
+
+<br><br><br><br>
+
+
+<p id="Jeongwon"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">JeongWon Shin</span></b>
+
+<img src="images/ShinJW.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jeongwon is an undergrad research assistant in the Cocoan lab. She is passionate about studying Psychology and Neuroscience. She wants to understand individuals' psychological contexts by examining their brain activity. She is also interested in developing methods to make a "mentally-healthy" society. </span>
+
 <br><br><br>
 
 
