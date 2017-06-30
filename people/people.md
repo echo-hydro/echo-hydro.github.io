@@ -7,7 +7,7 @@ subtitle: Cocoan lab members
 
 <p id="Wani"></p>
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Lab director</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Lab director</span></b>
 <hr>
 <b><span style="font-size: 20px !important; color: #0055A9;">Choong-Wan Woo</span></b>
 
@@ -19,7 +19,7 @@ subtitle: Cocoan lab members
 
 <br>
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Graduate students</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
 
 <p id="YongWook"></p>
@@ -33,14 +33,14 @@ subtitle: Cocoan lab members
 
 <p id="Jaejoong"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Jae-joong Lee</span></b>
+<b><span style="font-size: 25px !important; color: #0055A9;">Jae-joong Lee</span></b>
 
 <img src="images/LeeJJ_cnir.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student at Sungkyunkwan University. He received IBS director's fellowship, which allows him to rotate multiple labs at IBS during his first-year graduate study. He is currently doing a lab rotation in the cocoan lab and the IBS director's lab. He is interested in investigating objective markers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases especially of pain or emotions. He recevied his M.D. in Hanyang University.</span>
 
 <br><br><br>
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Undergraduate students</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
 <p id="Jongyun"></p>
 
@@ -91,7 +91,7 @@ subtitle: Cocoan lab members
 
 
 
-<b><span style="font-size: 20px !important; color: #BD0026;">Collaborators</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Collaborators at CNIR</span></b>
 <hr>
 
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, facial expression analyses)<br></span>
