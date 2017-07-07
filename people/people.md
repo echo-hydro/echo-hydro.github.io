@@ -87,6 +87,15 @@ subtitle: Cocoan lab members
 <img src="images/ShinJW.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jeongwon is an undergrad research assistant in the Cocoan lab. She is passionate about studying Psychology and Neuroscience. She wants to understand individuals' psychological contexts by examining their brain activity. She is also interested in developing methods to make a "mentally-healthy" society. </span>
 
+<br><br><br><br>
+
+<p id="Chanhoo"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Chanhoo Kum</span></b>
+
+<img src="images/KumCH.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Chanhoo is an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is intererested in Neuroscience, especially decoding sensory imagination. He is currently assisting a research on developing a new pain rating scale. </span>
+
 <br><br><br>
 
 
