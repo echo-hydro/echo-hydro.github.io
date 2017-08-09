@@ -22,23 +22,44 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
 
+<p id="Jaejoong"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Jae-joong Lee</span></b>
+
+<img src="images/LeeJJ_cnir.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
+
+<br><br><br>
+
 <p id="YongWook"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">YongWook Hong</span></b>
 
 <img src="images/HongYW_cnir.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">YongWook is a research assistant (lab manager) of the Cocoan lab. He received B.A. in psychology at Taylor University.  He is currently interested in the mind-body-brain interaction and wants to study the relationships between pain and its psychology. He is passionate about projects that will improve people’s physical and psychological well-being. </span>
+<span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
-<p id="Jaejoong"></p>
+<p id="Byeol"></p>
 
-<b><span style="font-size: 25px !important; color: #0055A9;">Jae-joong Lee</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;">Byeol Kim</span></b>
 
-<img src="images/LeeJJ_cnir.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student at Sungkyunkwan University. He received IBS director's fellowship, which allows him to rotate multiple labs at IBS during his first-year graduate study. He is currently doing a lab rotation in the cocoan lab and the IBS director's lab. He is interested in investigating objective markers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases especially of pain or emotions. He recevied his M.D. in Hanyang University.</span>
+<img src="images/KimB.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
-<br><br><br>
+<br><br><br><br><br><br>
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
+<hr>
+
+<p id="Suhwan"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
+
+<img src="images/KimSuhwan.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Suhwan is a post-undergrad researcher (lab manager) of the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
+
+<br><br><br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
@@ -103,11 +124,24 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators at CNIR</span></b>
 <hr>
 
-&nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, facial expression analyses)<br></span>
+&nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, fMRI data analysis, facial expression analyses)<br></span>
 &nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br></span>
 
 
 <br><br><br><br>
+
+
+<b><span style="font-size: 20px !important; color: #45ba0e;">2017 undergrad summer interns (CNIR Summer internship program)</span></b>
+<hr>
+
+<img src="images/Summerinterns2017.png" width="450" align="left" hspace="20" />
+
+<span style="font-size: 15px !important; color: #555;">NaEun Oh, Psychology, Sogang University<br></span>
+<br>
+<span style="font-size: 15px !important; color: #555;">Jiewon Kang, Biomedical Engineering, University College London (currently at Imperial College London)<br></span>
+
+<br><br><br><br><br><br>
+
 
 <b><span style="font-size: 20px !important; color: #0055A9;">We're hiring!</span></b> <span style="font-size: 16px !important;">(for more imforation, please see [here](/jobs/))</span>
 

@@ -4,6 +4,21 @@ title: News
 permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
+<span style="font-size: 15px !important; color: #BD0026;">Aug 2017 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Byeol Kim</span> joined the Cocoan lab as a graduate student.</span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+
+<br>
+
+<span style="font-size: 15px !important; color: #BD0026;">July 2017 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">NaEun Oh</span> and <span style="color: #1c9099;">Jiewon Kang</span> successfully finished 2017 CNIR summer internship program.</span></b>
+
+<img src="images/Summerinterns2017_poster.png" width="700" align="center" hspace="20" />
+
+<br>
 
 <span style="font-size: 15px !important; color: #BD0026;">June 2017 </span>
 
