@@ -63,15 +63,6 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
-<p id="Jongyun"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
-
-<img src="images/JeongJY.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jongyun is an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University. He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He is interested in understanding the neural mechanisms of emotion regulation using computational tools. He is also eager to develop computational tools for neuroscience research.</span>
-
-<br><br><br>
-
 
 <p id="Hongji"></p>
 
@@ -79,15 +70,6 @@ subtitle: Cocoan lab members
 
 <img src="images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hong Ji is an undergrad research assistant in the Cocoan lab. She is double majoring in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
-
-<br><br><br>
-
-<p id="Yejong"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Yejong Yoo</span></b>
-
-<img src="images/YooYJ.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Yejong is an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains.</span>
 
 <br><br><br>
 
@@ -129,6 +111,31 @@ subtitle: Cocoan lab members
 
 
 <br><br><br><br>
+
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
+<hr>
+
+<p id="Jongyun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
+
+<img src="images/JeongJY.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jongyun was an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University. He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He left the lab to finish his mandatory military service. We hope to see him again after his military service!</span>
+
+<br><br><br><br>
+
+
+<p id="Yejong"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Yejong Yoo</span></b>
+
+<img src="images/YooYJ.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Yejong was an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains. He went back to the US to continue his study at Taylor University. We hope to see him again next summer!</span>
+
+<br><br><br>
+
+
 
 
 <b><span style="font-size: 20px !important; color: #45ba0e;">2017 undergrad summer interns (CNIR Summer internship program)</span></b>
