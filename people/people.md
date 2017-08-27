@@ -54,6 +54,15 @@ subtitle: Cocoan lab members
 
 <p id="Suhwan"></p>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">Lada Kohoutová</span></b>
+
+<img src="images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Lada is a post-master researcher in the Cocoan lab. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
+
+<br><br><br><br>
+
+<p id="Suhwan"></p>
+
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
 
 <img src="images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
