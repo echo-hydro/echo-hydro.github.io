@@ -18,6 +18,17 @@ subtitle: Cocoan lab members
 
 
 <br>
+<b><span style="font-size: 25px !important; color: #BD0026;">Postdoctoral Fellow</span></b>
+<hr>
+<b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
+
+<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+ Catherine Cho is a postdoc in the Cocoan lab. She is currently interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. More broadly, she is interested in how people’s affective processing influences decision making, and the ways in which people regulate their emotions and stress. She received her Ph.D. in Psychology from Rutgers University-Newark (advisor: Mauricio Delgado), where her dissertation work focused on the effects of perceived controllability on decision making and affective processing. She also graduated from the Psychology program at Smith College (B.A.) and the Educational Psychology program from Korea University (M.A.) (advisors: Sung-il Kim and Mimi Bong). </span>
+
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Cho_201708.pdf">CV</a>
+
+
+<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
