@@ -77,6 +77,7 @@ subtitle: Useful materials and links
 <a href="http://brainpodcast.com">Brain Matters</a>: This podcast is so much fun. This podcast provides interesting interviews with real neuroscientists.<br>
 <a href="http://www.thetalkingmachines.com/">Talking Machines</a>: Podcast about machine learning<br>
 <a href="http://www.npr.org/programs/invisibilia/">Invisibilia</a>: NPR podcast about invisible forces that control human behavior – ideas, beliefs, assumptions and emotions.<br>
+<a href="http://www.npr.org/podcasts/452538677/note-to-self">Note to self</a>: This podcast is about humanity in digital age.<br>
 <a href="http://www.radiolab.org/series/podcasts/">Radiolab</a>: Interesting stories about science, philosophy, and human experience.<br>
 <a href="http://www.nature.com/nature/podcast/">Nature</a>: Nature podcast that features highlighted content from the week's edition of Nature.<br>
 <a href="https://www.youtube.com/channel/UCGkP8eCPut_4mW-KEKKnzqw">Allen Institute (youtube)</a>: Videos from Allen Institute<br>
