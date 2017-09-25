@@ -20,6 +20,9 @@ subtitle: Cocoan lab members
 <br>
 <b><span style="font-size: 25px !important; color: #BD0026;">Postdoctoral Fellow</span></b>
 <hr>
+
+<p id="Catherine"></p>
+
 <b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
 
 <img src="images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
@@ -72,7 +75,7 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <br><br><br><br>
 
-<p id="Suhwan"></p>
+<p id="Lada"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
 
@@ -119,7 +122,25 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <img src="images/KumCH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Chanhoo is an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is intererested in Neuroscience, especially decoding sensory imagination. He is currently assisting a research on developing a new pain rating scale. </span>
 
-<br><br><br>
+<br><br><br><br>
+
+<p id="Yelin"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Yelin Lee</span></b>
+
+<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Yelin is an undergrad research assistant in the Cocoan lab. She is majoring in molecular biology at Dankook University. She wants to study human psychology using scientific methods. Her goal is to help patients through the understanding of brain mechanisms of cognitive and affective processes </span>
+
+<br><br><br><br>
+
+<p id="Minie"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
+
+<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Minie is an undergrad research assistant in the Cocoan lab. She is double majoring in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She is interested in studying a behavioral neuroscience, particularly treatments for mental illnesses. She also interested in applying computational methods to neuroscience. </span>
+
+<br><br><br><br>
 
 
 

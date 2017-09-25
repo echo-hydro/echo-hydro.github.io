@@ -4,11 +4,20 @@ title: News
 permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
+<span style="font-size: 15px !important; color: #BD0026;">Sep 2017 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Yelin Lee</span> and <span style="color: #1c9099;">Minie Jung</span> joined the Cocoan lab!</span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+
+<br>
+
+
 <span style="font-size: 15px !important; color: #BD0026;">Aug 2017 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Lada Kohoutová, Catherine Cho, Byeol Kim</span> and <span style="color: #1c9099;">Suhwan Gim</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/).
 
 <br>
 
