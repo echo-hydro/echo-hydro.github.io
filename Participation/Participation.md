@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-permalink: /Participation/
+title: participation
+permalink: /participation/
 subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
 ---
 <br>
