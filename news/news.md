@@ -6,6 +6,17 @@ subtitle: What is happening in the Cocoan lab?
 ---
 <span style="font-size: 15px !important; color: #BD0026;">Sep 2017 </span>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">Happy lab! 
+
+<img src="images/lab_photo_20170928_2.jpg" width="600" align="center" hspace="20" />
+
+<img src="images/lab_photo_1.jpg" width="600" align="center" hspace="20" />
+
+
+<br>
+
+<span style="font-size: 15px !important; color: #BD0026;">Sep 2017 </span>
+
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Yelin Lee</span> and <span style="color: #1c9099;">Minie Jung</span> joined the Cocoan lab!</span></b>
 
 <span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
