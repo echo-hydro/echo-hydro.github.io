@@ -52,6 +52,6 @@ subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
 
 <br>
 
-### 9. 참여 신청 완료
+### 5. 참여 신청 완료
 
 <img src="image/image11.png" width="1000" align="center" hspace="20" />
