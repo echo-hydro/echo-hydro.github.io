@@ -20,11 +20,11 @@ subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
 <img src="image/image03.png" width="1000" align="center" hspace="20" />
 
 
-#### (계속)
+#### (계속: Prescreen 설문에 참여하기)
 
 <img src="image/image04.png" width="1000" align="center" hspace="20" />
 
-#### (계속)
+#### (계속: Prescreen 설문에 참여하기)
 
 <img src="image/image05.png" width="1000" align="center" hspace="20" />
 
@@ -34,19 +34,19 @@ subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
 
 <img src="image/image06.png" width="1000" align="center" hspace="20" />
 
-#### (계속)
+#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
 
 <img src="image/image07.png" width="1000" align="center" hspace="20" />
 
-#### (계속)
+#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
 
 <img src="image/image08.png" width="1000" align="center" hspace="20" />
 
-#### (계속)
+#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
 
 <img src="image/image09.png" width="1000" align="center" hspace="20" />
 
-#### (계속)
+#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
 
 <img src="image/image10.png" width="1000" align="center" hspace="20" />
 
