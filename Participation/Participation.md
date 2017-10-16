@@ -2,7 +2,7 @@
 layout: page
 title: participation
 permalink: /participation/
-subtitle: [통증과 감정 뇌이미징 실험] 참가 신청 방법
+subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
 ---
 <br>
 ### 1. https://goo.gl/qaStf1 에서 회원가입 및 로그인
