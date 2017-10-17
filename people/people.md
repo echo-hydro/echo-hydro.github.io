@@ -186,7 +186,7 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <span style="font-size: 15px !important; color: #555;">NaEun Oh, Psychology, Sogang University<br></span>
 <br>
-<span style="font-size: 15px !important; color: #555;">Jiewon Kang, Biomedical Engineering, University College London (currently at Imperial College London)<br></span>
+<span style="font-size: 15px !important; color: #555;">Jiewon Kang, Biomedical Engineering, King's College London (currently at Imperial College London)<br></span>
 
 <br><br><br><br><br><br>
 
