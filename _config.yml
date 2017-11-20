@@ -47,8 +47,8 @@ author:
   name: Choong-Wan Woo
   email: "choongwan.woo@gmail.com"
   url: "http://wanirepo.github.io"
-  github: wanirepo    # eg. daattali
-  twitter: choongwanwoo   # eg. daattali
+  github: cocoanlab    # eg. daattali
+  twitter: cocoanlab   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
