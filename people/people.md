@@ -142,6 +142,25 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <br><br><br><br>
 
+<p id="Taenyun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Taenyun Kim</span></b>
+
+<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Taenyun is an undergrad research assistant in the Cocoan lab. He is majoring in Psychology at Sungkyunkwan University. He is interested in human decision-making processes and social cognition, and their neural basis. He also wants to know about the interference of pains when persons make choices. His goal is to identify the mechanisms of human decision-making processes and find the way to improve them for better outcomes. </span>
+
+<br><br><br><br>
+
+<p id="Myeonghun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Myeonghun Beak</span></b>
+
+<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Myeonghun is an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications(e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. He is currently assisting on a project aimed to identify neural patterns and dynamics of self-generated thoughts. </span>
+
+<br><br><br><br>
+
+
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators at CNIR</span></b>
