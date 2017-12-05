@@ -2,6 +2,7 @@
 layout: page
 title: COCOAN lab
 permalink: /
+<img src="img/cocoanlab_logo.png" width="80" align="center"/>
 subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>euroscience Laboratory
 ---
 
@@ -17,8 +18,6 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 <span style="font-size: 16px !important;">The mission of our lab is to understand <span style="color: #BD0026;">pain</span> and <span style="color: #BD0026;">emotions</span> in the perspective of data science, cognitive/affective/social neuroscience, and psychology. We also aim to develop clinically useful neuroimaging models and tools that can be used and shared across different research groups and clinical settings.</span> 
 
 <span style="font-size: 16px !important;">Our main research tools include functional Magnetic Resonance Imaging (fMRI), psychophysiology measures (skin conductance, pupilometry, electrocardiogram, respiration), electroencephalogram (EEG), and other behavioral measures such as facial expression, eye movement, etc. Most importantly, we use data science (computational) tools to model and understand affective, cognitive, and behavioral responses.</span>  
-
-<img src="img/cocoanlab_logo.png" width="80" align="center"/>
 
 <span style="font-size: 16px !important;">[We are currently looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
