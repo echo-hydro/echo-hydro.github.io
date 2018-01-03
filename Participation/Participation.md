@@ -2,7 +2,7 @@
 layout: page
 title: participation
 permalink: /participation/
-subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
+subtitle: <통증/감정 뇌이미징> 실험 참가 신청 방법
 ---
 <br>
 ### 1. [https://goo.gl/qaStf1](https://goo.gl/qaStf1) 에서 회원가입 및 로그인
@@ -30,23 +30,23 @@ subtitle: <통증과 감정 뇌이미징 실험> 참가 신청 방법
 
 <br>
 
-### 4.  Available studies에서 [통증과 감정 뇌이미징 연구]에 참여
+### 4.  Available studies에서 [통증/감정 뇌이미징 연구]에 참여
 
 <img src="image/image06.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
 
 <img src="image/image07.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
 
 <img src="image/image08.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
 
 <img src="image/image09.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증과 감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
 
 <img src="image/image10.png" width="1000" align="center" hspace="20" />
 

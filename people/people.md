@@ -165,7 +165,15 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <br><br><br><br>
 
+<p id="Jinwon"></p>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">Jinwon Park</span></b>
+
+<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jinwon is an undergrad research assistant in the Cocoan Lab. Her major is Psychology. She wants to explore the physical and mental functions of human beings, combine them with clinical psychology, and understand pain and emotion. </span>
+
+
+<br><br><br><br>
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
