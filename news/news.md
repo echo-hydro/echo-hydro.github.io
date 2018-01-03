@@ -5,11 +5,11 @@ permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
 
-<span style="font-size: 15px !important; color: #BD0026;">Dec 2017 </span>
+<span style="font-size: 15px !important; color: #BD0026;">Jan 2018 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">A paper on "Generalizable representations of pain, cognitive control, and negative emotion in medial frontal cortex" is in press on <i>Nature Neuroscience</i></span></b>
 
-<span style="font-size: 15px !important; color: #555;">Phil Kragel (a postdoc in Tor Wager's lab) is the first author of the paper. I contributed to this study by sharing our recent fMRI data. I <i>knew</i> that this paper will become big from the beginning! :) I was so happy and appreciate to be a part of this study. Thanks, Phil. You did a great job! I cannot share its PDF until it becomes fully available on Nature Neuroscience. Stay tuned.
+<span style="font-size: 15px !important; color: #555;">Phil Kragel (a postdoc in Tor Wager's lab) is the first author of the [paper](/publication/NN_Kragel2018). I contributed to this study by sharing our recent fMRI data. I <i>knew</i> that this paper will become big from the beginning! :) I was so happy and appreciate to be a part of this study. Thanks, Phil. You did a great job! </span>
 
 <br>
 
@@ -24,7 +24,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <span style="font-size: 15px !important; color: #BD0026;">Sep 2017 </span>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Happy lab! 
+<b><span style="font-size: 20px !important; color: #0055A9;">Happy lab! </b>
 
 <img src="images/lab_photo_20170928_2.jpg" width="600" align="center" hspace="20" />
 
