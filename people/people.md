@@ -183,17 +183,17 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <li><span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor: Nonhuman primate fMRI<br></span>
 
-<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student) and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, [M.IN.D. lab](http://mind.skku.edu)): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)<br></span>
+<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student) and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">M.IN.D. lab</a>): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)<br></span>
 
-<li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, [MIP lab](https://www.sites.google.com/site/medicalimageprocessinglab/home)): Projects using open-source, large-scale data (named Big Pain Project)<br></span>
+<li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, <a href="https://www.sites.google.com/site/medicalimageprocessinglab/home">MIP lab</a>): Projects using open-source, large-scale data (named Big Pain Project)<br></span>
 
-<li><span style="font-size: 15px !important; color: #555;">Tor Wager et al. (My PhD advisor, University of Colorado Boulder, [CAN lab](http://canlabweb.colorado.edu/)): Various projects <br></span>
+<li><span style="font-size: 15px !important; color: #555;">Tor Wager et al. (My PhD advisor, University of Colorado Boulder, <a href="http://canlabweb.colorado.edu/">CAN lab</a>): Various projects <br></span>
 
-<li><span style="font-size: 15px !important; color: #555;">Alex Shackman (University of Maryland, [Shackman lab](http://shackmanlab.org)): Cognitive control, negative emotion, and pain in aMCC <br></span>
+<li><span style="font-size: 15px !important; color: #555;">Alex Shackman (University of Maryland, <a href="http://shackmanlab.org">Shackman lab</a>): Cognitive control, negative emotion, and pain in aMCC <br></span>
 
-<li><span style="font-size: 15px !important; color: #555;">Pierre Rainville et al. (Universitaire de Montréal, [LaNeP3](http://rainville.criugm.qc.ca/wordpress/?page_id=52&lang=en)): After-effect of cognitive control on pain <br></span>
+<li><span style="font-size: 15px !important; color: #555;">Pierre Rainville et al. (Universitaire de Montréal, <a href="http://rainville.criugm.qc.ca/wordpress/?page_id=52&lang=en">LaNeP3</a>): After-effect of cognitive control on pain <br></span>
 
-<li><span style="font-size: 15px !important; color: #555;">Jessica Andrews-Hanna (University of Arizona, [NET lab](http://www.u.arizona.edu/~jandrewshanna/Jessica_Andrews-Hanna/Home.html)): Free-association semantic task <br></span>
+<li><span style="font-size: 15px !important; color: #555;">Jessica Andrews-Hanna (University of Arizona, <a href="http://www.u.arizona.edu/~jandrewshanna/Jessica_Andrews-Hanna/Home.html">NET lab</a>): Free-association semantic task <br></span>
 
 
 <br><br><br><br>
