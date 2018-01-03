@@ -61,40 +61,43 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <img src="images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
-<br><br><br><br><br><br>
-
-<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
-<hr>
-
-<p id="Suhwan"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Lada Kohoutová</span></b>
-
-<img src="images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Lada is a post-master researcher in the Cocoan lab. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
-
 <br><br><br><br>
 
-<p id="Lada"></p>
+<p id="Suhwan"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
 
 <img src="images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Suhwan is a post-undergrad researcher (lab manager) of the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
+<span style="font-size: 15px !important; color: #555;">Suhwan is currently a lab manager of the Cocoan lab (but will start his PhD in the lab beginning March 2018). He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
-<br><br><br><br><br><br>
-
-<b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
-<hr>
+<br><br><br><br>
 
 <p id="Hongji"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Hong Ji Kim</span></b>
 
 <img src="images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Hong Ji is an undergrad research assistant in the Cocoan lab. She is double majoring in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
+<span style="font-size: 15px !important; color: #555;">Hong Ji will start her PhD in the Cocoan lab beginning March 2018. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
-<br><br><br>
+
+<br><br><br><br><br><br>
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
+<hr>
+
+<p id="Lada"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Lada Kohoutová</span></b>
+
+<img src="images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Lada is a post-master researcher in the Cocoan lab. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
+
+
+<br><br><br><br><br><br>
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
+<hr>
+
 
 <p id="Sooan"></p>
 
@@ -102,6 +105,35 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <img src="images/LeeSA.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sooan is an undergrad research assistant in the Cocoan Lab. Her major is Psychology, and she is interested particularly in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
+
+<br><br><br><br><br>
+
+<p id="Yelin"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Yelin Lee</span></b>
+
+<img src="images/YelinLee.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Yelin is an undergrad research assistant in the Cocoan lab. She is majoring in molecular biology at Dankook University. She wants to study human psychology using scientific methods. Her goal is to help patients through the understanding of brain mechanisms of cognitive and affective processes </span>
+
+<br><br><br><br><br>
+
+<p id="Minie"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
+
+<img src="images/MJeong.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Minie is an undergrad research assistant in the Cocoan lab. She is double majoring in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She is interested in studying a behavioral neuroscience, particularly treatments for mental illnesses. She also interested in applying computational methods to neuroscience. </span>
+
+
+<br><br><br><br>
+
+
+<p id="Taenyun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Taenyun Kim</span></b>
+
+<img src="images/TKim.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Taenyun is an undergrad research assistant in the Cocoan lab. He is majoring in Psychology at Sungkyunkwan University. He is interested in human decision-making processes and social cognition, and their neural basis. He also wants to know about the interference of pains when persons make choices. His goal is to identify the mechanisms of human decision-making processes and find the way to improve them for better outcomes. </span>
 
 <br><br><br><br>
 
@@ -124,33 +156,6 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <br><br><br><br>
 
-<p id="Yelin"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Yelin Lee</span></b>
-
-<img src="images/YelinLee.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Yelin is an undergrad research assistant in the Cocoan lab. She is majoring in molecular biology at Dankook University. She wants to study human psychology using scientific methods. Her goal is to help patients through the understanding of brain mechanisms of cognitive and affective processes </span>
-
-<br><br><br><br>
-
-<p id="Minie"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
-
-<img src="images/MJeong.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Minie is an undergrad research assistant in the Cocoan lab. She is double majoring in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She is interested in studying a behavioral neuroscience, particularly treatments for mental illnesses. She also interested in applying computational methods to neuroscience. </span>
-
-<br><br><br><br>
-
-<p id="Taenyun"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Taenyun Kim</span></b>
-
-<img src="images/TKim.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Taenyun is an undergrad research assistant in the Cocoan lab. He is majoring in Psychology at Sungkyunkwan University. He is interested in human decision-making processes and social cognition, and their neural basis. He also wants to know about the interference of pains when persons make choices. His goal is to identify the mechanisms of human decision-making processes and find the way to improve them for better outcomes. </span>
-
-<br><br><br><br>
-
 <p id="Myeonghun"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Myeonghun Beak</span></b>
@@ -163,11 +168,24 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 
 
-<b><span style="font-size: 25px !important; color: #BD0026;">Collaborators at CNIR</span></b>
+<b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
 
-&nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor (affective computing, fMRI data analysis, facial expression analyses)<br></span>
-&nbsp;&nbsp;&nbsp; <span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor (nonhuman primate fMRI)<br></span>
+<li><span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor: Affective computing, fMRI data analysis, facial expression analyses<br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor: Nonhuman primate fMRI<br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student) and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, [M.IN.D. lab](http://mind.skku.edu)): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)<br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, [MIP lab](https://www.sites.google.com/site/medicalimageprocessinglab/home)): Projects using open-source, large-scale data (named Big Pain Project)<br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Tor Wager et al. (My PhD advisor, University of Colorado Boulder, [CAN lab](http://canlabweb.colorado.edu/)): Various projects <br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Alex Shackman (University of Maryland, [Shackman lab](http://shackmanlab.org)): Cognitive control, negative emotion, and pain in aMCC <br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Pierre Rainville et al. (Universitaire de Montréal, [LaNeP3](http://rainville.criugm.qc.ca/wordpress/?page_id=52&lang=en)): After-effect of cognitive control on pain <br></span>
+
+<li><span style="font-size: 15px !important; color: #555;">Jessica Andrews-Hanna (University of Arizona, [NET lab](http://www.u.arizona.edu/~jandrewshanna/Jessica_Andrews-Hanna/Home.html)): Free-association semantic task <br></span>
 
 
 <br><br><br><br>

@@ -7,7 +7,9 @@ subtitle: Cocoan lab publications and links to papers
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <h2><span style="color: #BD0026;">in press</span></h2>
 
-<p id="NN_Kragel2017"><b>in press</b> "Generalizable representations of pain, cognitive control, and negative emotion in medial frontal cortex."<br><span style="font-size: 13px !important; color: #555;">Philip Kragel, Michiko Kano, Lukas Van Oudenhove, Huynh Giao Ly, Patrick Dupont, Amandine Rubio, Chantal Delon-Martin, Bruno Bonaz, Stephen Manuck, Peter Gianaros, Marta Ceko, Elizabeth Losin, <b>Choong-Wan Woo</b>, Thomas Nichols, Tor D Wager, <i>Nature Neuroscience </i> </span></p>
+<h2><span style="color: #0055A9;">2018</span></h2>
+
+<p id="NN_Kragel2017"><b>2018</b> "Generalizable representations of pain, cognitive control, and negative emotion in medial frontal cortex."<br><span style="font-size: 13px !important; color: #555;">Philip Kragel, Michiko Kano, Lukas Van Oudenhove, Huynh Giao Ly, Patrick Dupont, Amandine Rubio, Chantal Delon-Martin, Bruno Bonaz, Stephen Manuck, Peter Gianaros, Marta Ceko, Elizabeth Losin, <b>Choong-Wan Woo</b>, Thomas Nichols, Tor D Wager, <i>Nature Neuroscience </i> &nbsp; <a href="https://www.nature.com/articles/s41593-017-0051-7">Nature</a> | <a href="/pdfs/Kragel_2018_natneuro">PDF</a> |  <a href="https://www.nature.com/articles/s41593-017-0051-7#Sec8">Supplementary information</a> <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41593-017-0051-7" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
 
 <h2><span style="color: #0055A9;">2017</span></h2>
 
