@@ -180,23 +180,20 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <hr>
 
 <span style="font-size: 15px !important; color: #0055A9;">Within CNIR</span>
-<br>
 
 <li><span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor: Affective computing, fMRI data analysis, facial expression analyses</span></li>
 
 <li><span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor: Nonhuman primate fMRI</span></li>
 
-<br>
-<span style="font-size: 15px !important; color: #0055A9;">Within SKKU</span>
-<br>
-
-<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student) and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">M.IN.D. lab</a>): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)</span></li>
-
 <li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, <a href="https://www.sites.google.com/site/medicalimageprocessinglab/home">MIP lab</a>): Projects using open-source, large-scale data (named Big Pain Project)</span></li>
 
 <br>
-<span style="font-size: 15px !important; color: #0055A9;">International</span>
+<span style="font-size: 15px !important; color: #0055A9;">Within SKKU</span>
+
+<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student) and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">M.IN.D. lab</a>): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)</span></li>
+
 <br>
+<span style="font-size: 15px !important; color: #0055A9;">International</span>
 
 <li><span style="font-size: 15px !important; color: #555;">Tor Wager et al. (My PhD advisor, University of Colorado Boulder, <a href="http://canlabweb.colorado.edu/">CAN lab</a>): Various projects</span></li>
 
