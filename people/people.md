@@ -213,7 +213,7 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <img src="images/JeongJY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jongyun was an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University. He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He left the lab to finish his mandatory military service. We hope to see him again after his military service!</span>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 <p id="Yejong"></p>
@@ -223,7 +223,7 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <img src="images/YooYJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yejong was an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains. He went back to the US to continue his study at Taylor University. We hope to see him again next summer!</span>
 
-<br><br><br>
+<br><br><br><br><br>
 
 
 
