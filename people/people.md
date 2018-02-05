@@ -108,15 +108,6 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <br><br><br><br><br>
 
-<p id="Yelin"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Yelin Lee</span></b>
-
-<img src="images/YelinLee.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Yelin is an undergrad research assistant in the Cocoan lab. She is majoring in molecular biology at Dankook University. She wants to study human psychology using scientific methods. Her goal is to help patients through the understanding of brain mechanisms of cognitive and affective processes </span>
-
-<br><br><br><br><br>
-
 <p id="Minie"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
@@ -231,6 +222,17 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <span style="font-size: 15px !important; color: #555;">Yejong was an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains. He went back to the US to continue his study at Taylor University. We hope to see him again next summer!</span>
 
 <br><br><br><br><br>
+
+
+<p id="Yelin"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Yelin Lee</span></b>
+
+<img src="images/YelinLee.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Yelin was an undergrad research assistant in the Cocoan lab. She was majoring in molecular biology at Dankook University. She wanted to study human psychology using scientific methods. Her goal was to help patients through the understanding of brain mechanisms of cognitive and affective processes. She is now working as an RA at Prof. Hyoung Kim's lab (just next door)! </span>
+
+<br><br><br><br><br>
+
 
 
 
