@@ -150,7 +150,7 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 
 <b><span style="font-size: 20px !important; color: #0055A9;">SeongJae Park</span></b>
 
-<img src="images/default.jpg" width="150" height="215" align="left" hspace="20"/>
+<img src="images/ParkSJ.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Seongjae is an undergrad research assistant in the Cococan lab. He is majoring in psychology and philosophy at Sogang University. His research interest includes Emotion, Decision making and Social Cognition. He wants to figure out how brain regions interact with one another in these cognitive processes. He is also interested in clinical neuroscience. He wants to understand the neural basis of dysfunctional cognitive processes occurring as symptoms of psychological disorders such as Schizophrenia, OCD, Addiction, and Depression and to detect biomarkers of these disorders. </span>
 
 <br><br><br><br>
