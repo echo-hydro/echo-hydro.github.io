@@ -21,8 +21,8 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 <center><img src="img/cocoanlab_logo.png" width="80" align="center"/></center>
 
 
-<span style="font-size: 16px !important;">[We are currently looking for talented and enthusiastic people for the lab!](/jobs/)</span>
+<span style="font-size: 16px !important;">[We are always looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
-- <span style="font-size: 15px !important;">Current openings: 1 or 2 graduate students (for AY 2019), 1 or 2 undergrad RAs</span>
+- <span style="font-size: 15px !important;">Current openings: 1 or 2 graduate students (for AY 2019)</span>
 
 <span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/participation/)</span>
