@@ -30,23 +30,23 @@ subtitle: <통증/감정 뇌이미징> 실험 참가 신청 방법
 
 <br>
 
-### 4.  Available studies에서 [통증/감정 뇌이미징 연구]에 참여
+### 4.  Available studies에서 [감정/통증 뇌이미징 연구 참여 가능 여부를 위한 온라인 설문]에 참여
 
 <img src="image/image06.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [감정/통증 뇌이미징 연구 참여 가능 여부를 위한 온라인 설문]에 참여)
 
 <img src="image/image07.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [감정/통증 뇌이미징 연구 참여 가능 여부를 위한 온라인 설문]에 참여)
 
 <img src="image/image08.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [감정/통증 뇌이미징 연구 참여 가능 여부를 위한 온라인 설문]에 참여)
 
 <img src="image/image09.png" width="1000" align="center" hspace="20" />
 
-#### (계속: Available studies에서 [통증/감정 뇌이미징 연구]에 참여)
+#### (계속: Available studies에서 [감정/통증 뇌이미징 연구 참여 가능 여부를 위한 온라인 설문]에 참여)
 
 <img src="image/image10.png" width="1000" align="center" hspace="20" />
 
