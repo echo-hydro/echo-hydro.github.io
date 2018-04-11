@@ -30,7 +30,7 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;"><b>Lab Website:</b> <a href="http://cocoanlab.github.io">http://cocoanlab.github.io</a></span>
 
-<span style="font-size: 15px !important;">[CocoanLab Work Ethic (first draft)](/jobs/Cocoan_Work_Ethic.pdf)</span>
+<span style="font-size: 15px !important;">[CocoanLab Work Ethic (1st draft)](/jobs/Cocoan_Work_Ethic.pdf)</span>
 
 <p id="postdoc"></p>
 
