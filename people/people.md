@@ -17,19 +17,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Apr2017.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/choongwanwoo/">Twitter</a></span>
 
 
-<br>
-<b><span style="font-size: 25px !important; color: #BD0026;">Postdoctoral Fellow</span></b>
-<hr>
-
-<p id="Catherine"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
-
-<img src="images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
-Catherine is a postdoc in the Cocoan lab. She is currently interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. More broadly, she is interested in how people’s affective processing influences decision making, and the ways in which people regulate their emotions and stress. She received her Ph.D. in Psychology from Rutgers University-Newark (advisor: Mauricio Delgado), where her dissertation work focused on the effects of perceived controllability on decision making and affective processing. She also graduated from the Psychology program at Smith College (B.A.) and the Educational Psychology program from Korea University (M.A.) (advisors: Sung-il Kim and Mimi Bong).</span>
-
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Cho_201708.pdf">CV</a> | <a href="https://twitter.com/natural_cc/">Twitter</a></span>
-
 
 <br>
 
@@ -238,7 +225,7 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <img src="images/ShinJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jeongwon was an undergrad research assistant in the Cocoan lab. She is passionate about studying Psychology and Neuroscience. She wants to understand individuals' psychological contexts by examining their brain activity. She is also interested in developing methods to make a "mentally-healthy" society. </span>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Chanhoo"></p>
 
@@ -247,9 +234,16 @@ Catherine is a postdoc in the Cocoan lab. She is currently interested in identif
 <img src="images/KumCH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Chanhoo was an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is intererested in Neuroscience, especially decoding sensory imagination. He is currently assisting a research on developing a new pain rating scale. </span>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
+<p id="Catherine"></p>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
+
+<img src="images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
+Catherine was a postdoc in the Cocoan lab. She was interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. </span>
+
+<br><br><br><br><br><br>
 
 <b><span style="font-size: 20px !important; color: #45ba0e;">2017 undergrad summer interns (CNIR Summer internship program)</span></b>
 <hr>
