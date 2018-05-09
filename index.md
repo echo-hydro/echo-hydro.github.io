@@ -23,6 +23,6 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 
 <span style="font-size: 16px !important;">[We are always looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
-- <span style="font-size: 15px !important;">Current openings: 1 or 2 graduate students (for AY 2019), 2 or 3 undergraduate students</span>
+- <span style="font-size: 15px !important;">Current openings: 1 or 2 graduate students (for AY 2019), 1 or 2 undergraduate students</span>
 
 <span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/participation/)</span>
