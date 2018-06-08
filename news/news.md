@@ -5,6 +5,17 @@ permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
 
+<span style="font-size: 15px !important; color: #BD0026;">June 2018 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jaejoong</span> and <span style="color: #1c9099;">Byeol</span> gave poster presentations at the annual meeting of the Korean Society for Cognitive Science, and <span style="color: #1c9099;">Byeol</span> received a Best Presentation Award. Congrats!</span></b>
+
+<img src="images/kscs2018.png" width="800" align="center" hspace="20" />
+
+<span style="font-size: 15px !important; color: #555;">(Left top) Jaejoong, Suhwan, Hongji, Sooan, Jinwon, and Byeol. See Byeol's face expression. She seems happy for the award. (Left bottom) Byeol is receiving the award. (middle) Byeol is presenting her work. (Right) Jaejoong is explaining his work to Dr. Yuki Kamitani (he was a plenary speaker of the conference). 
+
+<br>
+
+
 <span style="font-size: 15px !important; color: #BD0026;">Mar 2018 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jin Oh</span> joined the Cocoan lab!</span></b>
