@@ -15,6 +15,12 @@ subtitle: What is happening in the Cocoan lab?
 
 <br>
 
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Sangeun Yeom</span> joined the Cocoan lab!</span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+
+<br>
+
 
 <span style="font-size: 15px !important; color: #BD0026;">Mar 2018 </span>
 

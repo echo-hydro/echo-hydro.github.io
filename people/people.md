@@ -55,7 +55,7 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
 
 <img src="images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Suhwan is currently a lab manager of the Cocoan lab (but will start his PhD in the lab beginning March 2018). He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
+<span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
 <br><br><br><br>
 
@@ -64,7 +64,7 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 20px !important; color: #0055A9;">Hong Ji Kim</span></b>
 
 <img src="images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Hong Ji will start her PhD in the Cocoan lab beginning March 2018. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
+<span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
 
 <br><br><br><br><br><br>
@@ -151,11 +151,11 @@ subtitle: Cocoan lab members
 
 <br><br><br><br>
 
-<p id="Jin"></p>
+<p id="Sangeun"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Sangeun Yeom</span></b>
 
-<img src="imgaes/default.jpg" width="150" height="215" align="left" hspace="20"/>
+<img src="images/YeomSe2.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Sangeun is an undergrad research assistant in the Cocoan lab. She is double majoring in Neuroscience and Psychology at Johns Hopkins University. She particularly wants to focus on systems neuroscience and clinical psychology. She is interested in mental illnesses and wants to investigate how neuroscience and clinical psychology can work together to diagnose and treat mental illnesses.  </span>
 
 <br><br><br><br><br><br>
