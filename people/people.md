@@ -155,7 +155,7 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Sangeun Yeom</span></b>
 
-<img src="images/YeomSe2.jpg" width="150" height="215" align="left" hspace="20"/>
+<img src="images/YeomSE2.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Sangeun is an undergrad research assistant in the Cocoan lab. She is double majoring in Neuroscience and Psychology at Johns Hopkins University. She particularly wants to focus on systems neuroscience and clinical psychology. She is interested in mental illnesses and wants to investigate how neuroscience and clinical psychology can work together to diagnose and treat mental illnesses.  </span>
 
 <br><br><br><br><br><br>
