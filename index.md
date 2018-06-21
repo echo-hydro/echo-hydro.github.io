@@ -23,9 +23,9 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 
 <span style="font-size: 16px !important;">[We are always looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
-- <span style="font-size: 15px !important;">Current openings: 
-- 1 post-bac RA (lab manager, 학사졸업한 학생으로 풀타임으로 랩의 제반사항을 관리하면서 연구도 도울 수 있는 분을 찾고 있습니다. 많은 관심 부탁드립니다)
-- 2 or 3 undergraduate research assistant (학부연구생; 학부연구생이면서 파트타임으로 연구를 도울 수 있는 분도 찾고 있습니다)
-- 1 or 2 graduate students (for AY 2019)</span>
+- <span style="font-size: 15px !important;">Current openings: </span>
+	- <span style="font-size: 15px !important;">1 post-bac RA (lab manager, 학사졸업한 학생으로 풀타임으로 랩의 제반사항을 관리하면서 연구도 도울 수 있는 분을 찾고 있습니다. 많은 관심 부탁드립니다)</span>
+	- <span style="font-size: 15px !important;">2 or 3 undergraduate research assistant (학부연구생; 학부연구생이면서 파트타임으로 연구를 도울 수 있는 분도 찾고 있습니다)</span>
+	- <span style="font-size: 15px !important;">1 or 2 graduate students (for AY 2019)</span>
 
 <span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/participation/)</span>
