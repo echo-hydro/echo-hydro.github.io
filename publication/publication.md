@@ -5,7 +5,15 @@ permalink: /publication/
 subtitle: Cocoan lab publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 <h2><span style="color: #BD0026;">in press</span></h2>
+
+<h2><span style="color: #0055A9;">preprint</span></h2>
+
+<p id="Gordon2018"><b>2018</b> "Cognitive self-regulation influences pain-related physiology."<br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager &nbsp; <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">bioRxiv</a> 
+<br>*co-first authors
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
+
 
 <h2><span style="color: #0055A9;">2018</span></h2>
 
