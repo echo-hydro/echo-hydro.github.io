@@ -81,8 +81,6 @@ subtitle: We're hiring!
 
 <span style="font-size: 15px !important;">The successful candidate should have B.A./B.S. or M.A./M.S. in psychology, neuroscience, cognitive science, computer science, or a related field. Candidates should be independent and proactive workers who are able to learn new skills on their own, with strong organizational skills and a track record of working well with others in professional or extracurricular settings. Korean speakers are preferable. </span>
 
-<span style="font-size: 15px !important;">Compensation will be competitive and commensurate with experience. Four major public insurances (national pension, health insurance, unemployment insurance, industrial accident) will be also supported.</span>
-
 <br>
 <br>
 <p id="undergrad"></p>

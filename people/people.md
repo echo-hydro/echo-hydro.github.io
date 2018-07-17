@@ -66,6 +66,15 @@ subtitle: Cocoan lab members
 <img src="images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
+<br><br><br><br>
+
+<p id="Sooan"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Sooan Lee</span></b>
+
+<img src="images/LeeSA.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab.  Her major is Psychology, and she is interested particularly in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
+
 
 <br><br><br><br><br><br>
 
@@ -84,16 +93,6 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
-
-
-<p id="Sooan"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Sooan Lee</span></b>
-
-<img src="images/LeeSA.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Sooan is an undergrad research assistant in the Cocoan Lab. Her major is Psychology, and she is interested particularly in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
-
-<br><br><br><br><br>
 
 <p id="Minie"></p>
 
@@ -133,15 +132,6 @@ subtitle: Cocoan lab members
 
 <br><br><br><br>
 
-<p id="SeongJae"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">SeongJae Park</span></b>
-
-<img src="images/ParkSJ.jpg" width="150" height="215" align="left" hspace="20"/>
-<span style="font-size: 15px !important; color: #555;">Seongjae is an undergrad research assistant in the Cococan lab. He is majoring in psychology and philosophy at Sogang University. His research interest includes Emotion, Decision making and Social Cognition. He wants to figure out how brain regions interact with one another in these cognitive processes. He is also interested in clinical neuroscience. He wants to understand the neural basis of dysfunctional cognitive processes occurring as symptoms of psychological disorders such as Schizophrenia, OCD, Addiction, and Depression and to detect biomarkers of these disorders. </span>
-
-<br><br><br><br>
-
 <p id="Jin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jin Oh</span></b>
@@ -149,7 +139,7 @@ subtitle: Cocoan lab members
 <img src="images/OhYJ.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Jin is an undergrad research assistant in the Cocoan lab. She is majoring in neuroscience at Duke University. She's interested to see how computational models could help pain and emotion field in neuroscience. </span>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <p id="Sangeun"></p>
 
@@ -251,6 +241,18 @@ subtitle: Cocoan lab members
 
 <img src="images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
 Catherine was a postdoc in the Cocoan lab. She was interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. </span>
+
+<br><br><br><br><br>
+
+<p id="SeongJae"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">SeongJae Park</span></b>
+
+<img src="images/ParkSJ.jpg" width="150" height="215" align="left" hspace="20"/>
+<span style="font-size: 15px !important; color: #555;">Seongjae was an undergrad research assistant in the Cococan lab. He is majoring in psychology and philosophy at Sogang University. His research interest includes Emotion, Decision making and Social Cognition. </span>
+
+
+
 
 <br><br><br><br><br><br>
 
