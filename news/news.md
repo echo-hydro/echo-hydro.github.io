@@ -5,6 +5,28 @@ permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
 
+
+<span style="font-size: 15px !important; color: #BD0026;">July 2018 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Yejin Chung</span> and <span style="color: #1c9099;">Wonkyung Choi</span> successfully finished 2018 CNIR summer internship program.</span></b>
+
+<img src="images/Summerinterns2018.jpg" width="800" align="center" hspace="20" />
+
+<span style="font-size: 15px !important; color: #555;">For one-month period (6/25-7/20), Hongji (a grad student) and summer interns worked together on a very exciting new project on decoding stories based on brain activity. They almost completed experiment codes. Unfortunately, we didn't make it to fMRI data analysis. Yejin and Wonkyung, please come back to the lab if you'd like to continue the fMRI experiments and analyses you've started here. :)
+
+<br>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">A paper titled "Cognitive self-regulation influences pain-related physiology" was posted on bioRxiv</span></b>
+
+You can see the paper <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">here</a>, and I wrote some background story about the paper on <a href="https://twitter.com/choongwanwoo/status/1015173555984654337">twitter</a>.
+
+<br>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">A paper titled "False-positive neuroimaging: Undisclosed flexibility in testing anatomical region-based hypotheses allows presenting anything as a replicated finding" (first author: Yongwook) has been submitted and now is under review</span></b>
+
+<br>
+
+
 <span style="font-size: 15px !important; color: #BD0026;">June 2018 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jaejoong</span> and <span style="color: #1c9099;">Byeol</span> gave poster presentations at the annual meeting of the Korean Society for Cognitive Science, and <span style="color: #1c9099;">Byeol</span> received a Best Presentation Award. Congrats!</span></b>
