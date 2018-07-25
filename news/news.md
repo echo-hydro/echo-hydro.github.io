@@ -18,7 +18,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;">A paper titled "Cognitive self-regulation influences pain-related physiology" was posted on bioRxiv</span></b>
 
-You can see the paper <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">here</a>, and I wrote some background story about the paper on <a href="https://twitter.com/choongwanwoo/status/1015173555984654337">twitter</a>.
+<span style="font-size: 15px !important; color: #555;">You can see the paper <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">here</a>, and I wrote some background story about the paper on <a href="https://twitter.com/choongwanwoo/status/1015173555984654337">twitter</a>.</span>
 
 <br>
 
