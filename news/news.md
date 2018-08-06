@@ -6,11 +6,11 @@ subtitle: What is happening in the Cocoan lab?
 ---
 <span style="font-size: 15px !important; color: #BD0026;">Aug 2018 </span>
 
-<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jaejoong Lee</span> is selected to receive Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation.</span></b>
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jaejoong Lee</span> is selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation.</span></b>
 
 <img src="images/JJ_bookshelf.jpg" width="700" align="center" hspace="20" />
 
-<span style="font-size: 15px !important; color: #555;">Congratulations, Jaejoong! The GPF is  highly competitive (this year, the competition rate was 5.3:1), but we knew Jaejoong will get it. :) Also great great job, Cocoanlab! All lab members helped him and worked together to make this happen. Wani said that he is so proud of all the lab members!</span>
+<span style="font-size: 15px !important; color: #555;">Congratulations, Jaejoong! The GPF is  highly competitive (this year, the competition rate was 5.3:1), but we knew Jaejoong would get it. :) Also great great job, Cocoanlab! All lab members helped him and worked together to make this happen. Wani said that he is so proud of Cocoanlab!</span>
 
 <br>
 
