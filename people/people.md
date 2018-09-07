@@ -95,7 +95,7 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Sungwoo Lee</span></b>
 
-<img src="images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="images/LeeSW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sungwoo is a Lab manager in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to study computational predictive models for emotion.</span>
 
 

@@ -4,15 +4,24 @@ title: News
 permalink: /news/
 subtitle: What is happening in the Cocoan lab?
 ---
+<span style="font-size: 15px !important; color: #BD0026;">Aug 2018 </span>
+
+<b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jaejoong Lee</span> is selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation.</span></b>
+
+<img src="images/JJ_bookshelf.jpg" width="700" align="center" hspace="20" />
+
+<span style="font-size: 15px !important; color: #555;">Congratulations, Jaejoong! The GPF is  highly competitive (this year, the competition rate was 5.3:1), but we knew Jaejoong would get it. :) Also great great job, Cocoanlab! All lab members helped him and worked together to make this happen. Wani said that he is so proud of Cocoanlab!</span>
+
+<br>
 
 
-<span style="font-size: 15px !important; color: #BD0026;">July 2018 </span>
+<span style="font-size: 15px !important; color: #BD0026;">Jul 2018 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Yejin Chung</span> and <span style="color: #1c9099;">Wonkyung Choi</span> successfully finished 2018 CNIR summer internship program.</span></b>
 
 <img src="images/Summerinterns2018.jpg" width="800" align="center" hspace="20" />
 
-<span style="font-size: 15px !important; color: #555;">For one-month period (6/25-7/20), Hongji (a grad student) and summer interns worked together on a very exciting new project on decoding stories based on brain activity. They almost completed experiment codes. Unfortunately, we didn't make it to fMRI data analysis. Yejin and Wonkyung, please come back to the lab if you'd like to continue the fMRI experiments and analyses you've started here. :)
+<span style="font-size: 15px !important; color: #555;">For one-month period (6/25-7/20), Hongji (a grad student) and summer interns worked together on a very exciting new project on decoding stories based on brain activity. They almost completed experiment codes. Unfortunately, we didn't make it to fMRI data analysis. Yejin and Wonkyung, please come back to the lab if you'd like to continue the fMRI experiments and analyses you've started here. :)</span>
 
 <br>
 
@@ -27,7 +36,7 @@ subtitle: What is happening in the Cocoan lab?
 <br>
 
 
-<span style="font-size: 15px !important; color: #BD0026;">June 2018 </span>
+<span style="font-size: 15px !important; color: #BD0026;">Jun 2018 </span>
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jaejoong</span> and <span style="color: #1c9099;">Byeol</span> gave poster presentations at the annual meeting of the Korean Society for Cognitive Science, and <span style="color: #1c9099;">Byeol</span> received a Best Presentation Award. Congrats!</span></b>
 
@@ -64,7 +73,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;">A paper on "Generalizable representations of pain, cognitive control, and negative emotion in medial frontal cortex" is in press on <i>Nature Neuroscience</i></span></b>
 
-<span style="font-size: 15px !important; color: #555;">Phil Kragel (a postdoc in Tor Wager's lab) is the first author of the [paper](/publication/#NN_Kragel2018). I contributed to this study by sharing our recent fMRI data. I <i>knew</i> that this paper will become big from the beginning! :) I was so happy and appreciate to be a part of this study. Thanks, Phil. You did a great job! </span>
+<span style="font-size: 15px !important; color: #555;">Phil Kragel (a postdoc in Tor Wager's lab) is the first author of the [paper](/publication/#NN_Kragel2018). Wani contributed to this study by sharing our recent fMRI data. Wani <i>knew</i> that this paper will become big from the beginning! :) Wani was so happy and appreciate to be a part of this study. Thanks, Phil. You did a great job! </span>
 
 <br>
 
@@ -148,7 +157,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Our paper on building better neuroimaging biomarkers has been published on <i>Nature Neuroscience</i>. </span></b>
 
-<span style="font-size: 15px !important; color: #555;">This <a href="/pdfs/Woo_2017_NatNeuro.pdf">paper</a> contains important ideas about what translational neuroimaging research would look like in the future. Also if you're interested in joining my lab, you would be able to learn what our near-future research direction could be from this paper.</span>
+<span style="font-size: 15px !important; color: #555;">This <a href="/pdfs/Woo_2017_NatNeuro.pdf">paper</a> contains important ideas about what translational neuroimaging research would look like in the future. Also if you're interested in joining the lab, you would be able to learn what our near-future research direction could be from this paper.</span>
 
 <br>
 
