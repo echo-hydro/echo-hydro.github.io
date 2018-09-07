@@ -142,7 +142,22 @@ subtitle: Cocoan lab members
 
 
 
+<br><br><br><br>
+
+
+<p id="Seeyun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Seeyun Lee </span></b>
+
+<img src="images/LeeSY.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Seeyun is an undergrad assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in cognitive process of pain and placebo effect. He wants to investigate placebo effect in medical situations. </span>
+
+
+
 <br><br><br><br><br><br>
+
+
+
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
@@ -153,7 +168,7 @@ subtitle: Cocoan lab members
 
 <li><span style="font-size: 15px !important; color: #555;">Dr. Eunha Baeg, Research professor: Nonhuman primate fMRI</span></li>
 
-<li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, <a href="https://www.sites.google.com/site/medicalimageprocessinglab/home">MIP lab</a>): Projects using open-source, large-scale data (named Big Pain Project)</span></li>
+<li><span style="font-size: 15px !important; color: #555;">Bo-yong Park (PhD student) and Hyunjin Park (Professor at Electronic and Electrical Engineering, SKKU, <a href="https://www.sites.google.com/site/medicalimageprocessinglab/home">MIP lab</a>): Projects using open-source, large-scale data (named Big Pain Project)</span></li>f
 
 <br>
 <span style="font-size: 15px !important; color: #0055A9;">Within SKKU</span>
