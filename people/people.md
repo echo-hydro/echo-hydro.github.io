@@ -154,6 +154,18 @@ subtitle: Cocoan lab members
 
 
 
+<br><br><br><br>
+
+
+<p id="Hyebin"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Hyebin Kim </span></b>
+
+<img src="images/KimHB.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Hyebin is an undergrad research assistant in the Cocoan lab. She is double majoring in Integrative biotechnology and Informatics interdisciplinary program(C-School) in Sungkyunkwan University. She is interested in studying neuroscience and data analysis. </span>
+
+
+
 <br><br><br><br><br><br>
 
 
