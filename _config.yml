@@ -26,11 +26,11 @@ navbar-links:
   About: ""
   News: "news"
   People: 
-    - Current: "people/current"
+	- Current: "people/current"
 	- Alumni: "people/alumni"
   Publication: "publication"
   Research: 
-    - Projects: "research/projects"
+	- Projects: "research/projects"
 	- Participation: "research/participation"
   Resources: "resources"
   Jobs: "jobs"
