@@ -12,7 +12,7 @@ subtitle: Cocoan lab alumni
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
 
-<img src="images/JeongJY.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/JeongJY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jongyun was an undergrad research assistant in the Cocoan lab. He is an undergrad student at Sungkyunkwan University. He majors in Biology and Convergence Software (Samsung Convergence Software Course, SCSC). He left the lab to finish his mandatory military service. We hope to see him again after his military service!</span>
 
 <br><br><br><br><br>
