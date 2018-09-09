@@ -22,7 +22,7 @@ subtitle: Cocoan lab alumni
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Yejong Yoo</span></b>
 
-<img src="images/YooYJ.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/YooYJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yejong was an undergrad research assistant in the Cocoan lab. He is studying Biology at Taylor University. His research interest involves exploring objective biological markers for both nociceptive and comprehensive pain and finding a way to apply the biological markers to diagnose the sources of the pain and quantitatively measure the various pains. He went back to the US to continue his study at Taylor University. We hope to see him again next summer!</span>
 
 <br><br><br><br><br>
