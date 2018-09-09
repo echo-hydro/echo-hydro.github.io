@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: /research/
 subtitle: Ongoing and future research projects
 ---
 

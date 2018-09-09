@@ -1,7 +1,6 @@
 ---
 layout: page
-title: participation
-permalink: /participation/
+title: Research
 subtitle: <통증/감정 뇌이미징> 실험 참가 신청 방법
 ---
 <br>
