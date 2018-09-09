@@ -32,7 +32,7 @@ subtitle: Cocoan lab alumni
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Yelin Lee</span></b>
 
-<img src="images/YelinLee.JPG" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/YelinLee.JPG" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yelin was an undergrad research assistant in the Cocoan lab. She was majoring in molecular biology at Dankook University. She wanted to study human psychology using scientific methods. Her goal was to help patients through the understanding of brain mechanisms of cognitive and affective processes. She is now working as an RA at Prof. Hyoung Kim's lab (just next door)! </span>
 
 <br><br><br><br><br>
@@ -42,7 +42,7 @@ subtitle: Cocoan lab alumni
 
 <b><span style="font-size: 20px !important; color: #0055A9;">JeongWon Shin</span></b>
 
-<img src="images/ShinJW.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/ShinJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jeongwon was an undergrad research assistant in the Cocoan lab. She is passionate about studying Psychology and Neuroscience. She wants to understand individuals' psychological contexts by examining their brain activity. She is also interested in developing methods to make a "mentally-healthy" society. </span>
 
 <br><br><br><br><br>
@@ -51,7 +51,7 @@ subtitle: Cocoan lab alumni
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Chanhoo Kum</span></b>
 
-<img src="images/KumCH.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/KumCH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Chanhoo was an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is intererested in Neuroscience, especially decoding sensory imagination. He is currently assisting a research on developing a new pain rating scale. </span>
 
 <br><br><br><br><br>
@@ -60,7 +60,7 @@ subtitle: Cocoan lab alumni
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
 
-<img src="images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
+<img src="/people/images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
 Catherine was a postdoc in the Cocoan lab. She was interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. </span>
 
 <br><br><br><br><br>
@@ -69,7 +69,7 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 
 <b><span style="font-size: 20px !important; color: #0055A9;">SeongJae Park</span></b>
 
-<img src="images/ParkSJ.jpg" width="150" height="215" align="left" hspace="20"/>
+<img src="/people/images/ParkSJ.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Seongjae was an undergrad research assistant in the Cococan lab. He is majoring in psychology and philosophy at Sogang University. His research interest includes Emotion, Decision making and Social Cognition. </span>
 
 
@@ -80,7 +80,7 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Taenyun Kim</span></b>
 
-<img src="images/TKim.JPG" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/TKim.JPG" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Taenyun was an undergrad research assistant in the Cocoan lab. He majored Psychology at Sungkyunkwan University. He is interested in human decision-making processes and social cognition, and their neural basis. He also wants to know about the interference of pains when persons make choices. His goal is to identify the mechanisms of human decision-making processes and find the way to improve them for better outcomes. </span>
 
 <br><br>
@@ -89,7 +89,7 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jin Oh</span></b>
 
-<img src="images/OhYJ.jpg" width="150" height="215" align="left" hspace="20"/>
+<img src="/people/images/OhYJ.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Jin was an undergrad research assistant in the Cocoan lab in 2018. She is majoring in neuroscience at Duke University. She's interested to see how computational models could help pain and emotion field in neuroscience. </span>
 
 <br><br><br><br><br><br>
@@ -98,7 +98,7 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Sangeun Yeom</span></b>
 
-<img src="images/YeomSE2.jpg" width="150" height="215" align="left" hspace="20"/>
+<img src="/people/images/YeomSE2.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Sangeun was an undergrad research assistant in the Cocoan lab in 2018. She is double majoring in Neuroscience and Psychology at Johns Hopkins University. She particularly wants to focus on systems neuroscience and clinical psychology. She is interested in mental illnesses and wants to investigate how neuroscience and clinical psychology can work together to diagnose and treat mental illnesses.  </span>
 
 
@@ -109,7 +109,7 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 <b><span style="font-size: 20px !important; color: #45ba0e;">2017 undergrad summer interns (CNIR Summer internship program)</span></b>
 <hr>
 
-<img src="images/Summerinterns2017.jpg" width="450" align="left" hspace="20" />
+<img src="/people/images/Summerinterns2017.jpg" width="450" align="left" hspace="20" />
 
 <span style="font-size: 15px !important; color: #555;">NaEun Oh, Psychology, Sogang University<br></span>
 <br>
