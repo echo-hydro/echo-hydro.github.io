@@ -35,7 +35,7 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 20px !important; color: #0055A9;">YongWook Hong</span></b>
 
-<img src="images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
 <br><br><br><br>
@@ -44,7 +44,7 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Byeol Kim</span></b>
 
-<img src="images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
 <br><br><br><br>
@@ -53,7 +53,7 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
 
-<img src="images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
 <br><br><br><br>
