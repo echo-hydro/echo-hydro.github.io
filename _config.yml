@@ -24,7 +24,7 @@ description: "Computational Cognitive Affective Neuroscience Laboratory"
 # List of links in the navigation bar
 navbar-links:
   About: ""
-  News: "news"
+  News: 
     - 2018: "news/2018"
     - 2017: "news/2017"
   People: 
