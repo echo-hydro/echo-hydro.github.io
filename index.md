@@ -27,4 +27,4 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 	- <span style="font-size: 15px !important;">2 or 3 undergraduate research assistant (학부연구생; 학부연구생이면서 파트타임으로 연구를 도울 수 있는 분도 찾고 있습니다)</span>
 	- <span style="font-size: 15px !important;">1 or 2 graduate students (for AY 2019)</span>
 
-<span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/participation/)</span>
+<span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/research/participation)</span>
