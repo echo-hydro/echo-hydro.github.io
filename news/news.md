@@ -14,6 +14,12 @@ subtitle: What is happening in the Cocoan lab?
 
 <br>
 
+<b><span style="font-size: 20px !important; color: #0055A9;">Three undergrad RAs (<span style="color: #1c9099;">Hyebin Kim</span>, <span style="color: #1c9099;">Seeyun Lee</span>, and <span style="color: #1c9099;">Jihoon Han</span>) joined the Cocoan lab!</span></b>
+
+<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/current).
+
+<br>
+
 
 <span style="font-size: 15px !important; color: #BD0026;">Jul 2018 </span>
 
@@ -48,7 +54,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Sangeun Yeom</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -57,7 +63,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jin Oh</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -65,7 +71,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Seong Jae Park</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out his research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out his research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -81,7 +87,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jinwon Park</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out her research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -101,7 +107,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Myeonghun Beak, Taenyun Kim, Yelin Lee</span> and <span style="color: #1c9099;">Minie Jung</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -110,7 +116,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Lada Kohoutová, Catherine Cho, Byeol Kim</span> and <span style="color: #1c9099;">Suhwan Gim</span> joined the Cocoan lab!</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -126,7 +132,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Hong Ji Kim, Yejong Yoo, Sooan Lee, Jeongwon Shin</span>, and <span style="color: #1c9099;">Chanhoo Kum</span> joined the lab as undergrad research assistants.</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out their research interests and brief introduction [here](/people/current).
 
 <br>
 
@@ -134,7 +140,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Jongyun Jeong</span> joined the lab as undergrad research assistants.</span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out his research interest and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out his research interest and brief introduction [here](/people/current).
 
 <br>
 
@@ -151,7 +157,7 @@ subtitle: What is happening in the Cocoan lab?
 
 <b><span style="font-size: 20px !important; color: #0055A9;"><span style="color: #1c9099;">Yongwook Hong</span> and <span style="color: #1c9099;">Jaejoong Lee</span> joined the lab. </span></b>
 
-<span style="font-size: 15px !important; color: #555;">Check out their research interest and brief introduction [here](/people/).
+<span style="font-size: 15px !important; color: #555;">Check out their research interest and brief introduction [here](/people/current).
 
 <br>
 
