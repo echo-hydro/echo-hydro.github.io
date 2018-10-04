@@ -33,6 +33,7 @@ navbar-links:
   Publication: "publication"
   Research: 
     - Projects: "research/projects"
+	- Codes: "research/codes"
     - Participation: "research/participation"
   Resources: "resources"
   Jobs: "jobs"
