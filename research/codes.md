@@ -27,4 +27,14 @@ Codes for preprocessing human fmri data collected in the cocoanlab (Matlab)<br>
 <br>
 <br>
 <a href="https://github.com/cocoanlab/cocoan_experiment_master">Cocoan Experiment Master Code</a>: A <a href="http://psychtoolbox.org/">psychtoolbox</a> code template for running experiments<br><br></span>  
+
+<br>
+<h4>Publications</h4>
+<br>
+
+<span style="font-size: 15px !important;">
+Woo, C.-W. & Wager, T. D. 2015, What reliability can and cannot tell us about pain report and pain neuroimaging. <i>PAIN.</i> <a href="https://github.com/wanirepo/Woo_TRR_commentary_PAIN">Code</a> | <a href="/pdfs/Woo_2015_PAIN_TRR.pdf">Paper</a><br>
+<br>
+Woo et al. 2014, Cluster-extent based thresholding in fMRI analyses: Pitfalls and recommendations. <i>NeuroImage.</i> <a href="https://github.com/wanirepo/Woo_2014_Neuroimage">Code</a> | <a href="/pdfs/Woo_2014_Neuroimage.pdf">Paper</a><br>
+<br></span>  
 </ul>
