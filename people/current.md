@@ -121,7 +121,6 @@ subtitle: Cocoan lab members
 
 <br><br><br><br>
 
-
 <p id="Hyebin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Hyebin Kim </span></b>
@@ -140,7 +139,6 @@ subtitle: Cocoan lab members
 
 <br><br><br><br>
 
-
 <p id="Seeyun"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Seeyun Lee </span></b>
@@ -148,8 +146,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeSY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Seeyun is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in cognitive processes of pain and placebo effects. He wants to investigate placebo effects in medical situations. </span>
 
-
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Jihoon"></p>
 
@@ -158,9 +155,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
-
-
-<br><br><br>
+<br><br><br><br>
 
 <p id="Jaeyoung"></p>
 
@@ -169,8 +164,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/ShinJY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jaeyoung is an undergrad research assistant in the Cocoan lab. She is majoring in marine bioscience at Korea Maritime and Ocean University. She is mainly interested in mental disorder and neurological disease. She also wants to study computational models for neuroscience. </span>
 
-
-<br><br><br>
+<br><br><br><br><br>
 
 <p id="JungWoo"></p>
 
@@ -179,11 +173,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is majoring systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
-
-
-
-<br><br><br><br><br><br>
-
+<br><br><br><br>
 
 <p id="Donghee"></p>
 
@@ -192,11 +182,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee is an undergraduate research assistant in the Cocoan Lab. He is double majoring in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
-
 <br><br><br><br><br>
-
-
-
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
