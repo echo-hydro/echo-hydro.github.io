@@ -16,7 +16,7 @@ subtitle: <b>Co</b>mputational <b>Co</b>gnitive <b>A</b>ffective <b>N</b>eurosci
 
 <span style="font-size: 16px !important;">The mission of our lab is to understand <span style="color: #BD0026;">pain</span> and <span style="color: #BD0026;">emotions</span> in the perspective of data science, cognitive/affective/social neuroscience, and psychology. We also aim to develop clinically useful neuroimaging models and tools that can be used and shared across different research groups and clinical settings.</span> 
 
-<span style="font-size: 16px !important;">Our main research tools include functional Magnetic Resonance Imaging (fMRI), psychophysiology measures (skin conductance, pupilometry, electrocardiogram, respiration), electroencephalogram (EEG), and other behavioral measures such as facial expression, eye movement, etc. Most importantly, we use data science (computational) tools to model and understand affective, cognitive, and behavioral responses.</span>  
+<span style="font-size: 16px !important;">Our main research tools include functional Magnetic Resonance Imaging (fMRI; we're using 3T and 7T MRI), psychophysiology measures (skin conductance, pupilometry, electrocardiogram, respiration), electroencephalogram (EEG), and other behavioral measures such as facial expression, eye movement, etc. Most importantly, we use data science (computational) tools to model and understand affective, cognitive, and behavioral responses.</span>  
 
 <center><img src="img/cocoanlab_logo.png" width="80" align="center"/></center>
 
