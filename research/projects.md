@@ -4,6 +4,8 @@ title: Research
 subtitle: Ongoing and future research projects
 ---
 
+<span style="font-size: 15px !important; color: #ff0066;">If you want to find more recent research projects and directions, please check out our [news](/news/2018) page! </span>
+
 <span style="font-size: 15px !important;">How does the brain represent, process, and regulate pain and affective experiences? The mission of our lab is basically to answer these questions to better understand pain and emotional distress, promoting the physical and psychological well-being of our family members, our friends, and our neighbors who suffer from pain and emotional distress.</span> 
 
 <span style="font-size: 16px !important; color: #BD0026;"><b>Translational Neuroimaging 2.0: Developing integrated brain models of mental processes and clinical outcomes</b></span> 
