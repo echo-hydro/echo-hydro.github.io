@@ -7,8 +7,10 @@ subtitle: Cocoan lab publications and links to papers
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+<span style="font-size: 13px !important; color: #555;">
 <sup>g</sup> grad students
 <br><sup>u</sup> undergrad students
+</span>
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
