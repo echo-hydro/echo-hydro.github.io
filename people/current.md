@@ -103,14 +103,6 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
 
-<p id="Minie"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
-
-<img src="/people/images/MJeong.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Minie is an undergrad research assistant in the Cocoan lab. She is double majoring in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She is interested in studying a behavioral neuroscience, particularly treatments for mental illnesses. She also interested in applying computational methods to neuroscience. </span>
-
-<br><br><br><br>
 
 <p id="Jinwon"></p>
 
@@ -198,7 +190,7 @@ subtitle: Cocoan lab members
 <br>
 <span style="font-size: 15px !important; color: #0055A9;">Within SKKU</span>
 
-<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student), Juyeon Heo (MS student), and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">M.IN.D. lab</a>): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)</span></li>
+<li><span style="font-size: 15px !important; color: #555;">Sungmin Cha (PhD student), Junha Jeon (undergrad), Juyeon Heo (MS student), and Taesup Moon (Professor at Electronic and Electrical Engineering, SKKU, <a href="http://mind.skku.edu">M.IN.D. lab</a>): Developing fMRI-based pain markers using deep-learning algorithms (named Deep Pain Project)</span></li>
 
 <br>
 <span style="font-size: 15px !important; color: #0055A9;">Outside of SKKU</span>

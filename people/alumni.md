@@ -8,6 +8,15 @@ subtitle: Cocoan lab alumni
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
 
+<p id="Minie"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
+
+<img src="/people/images/MJeong.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Minie was an undergrad research assistant in the Cocoan lab. She did a double major in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She helped many fMRI experiments (almost 3 or 4) in the lab. She left the lab because she wants to major bioinformatics. I wish you the best of luck, Minie!</span>
+
+<br><br><br><br>
+
 <p id="Jongyun"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jongyun Jeong</span></b>
