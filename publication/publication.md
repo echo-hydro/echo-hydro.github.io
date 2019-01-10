@@ -16,11 +16,11 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #0055A9;">preprint</span></h2>
 
-<p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding." <i>(in revision in NeuroImage)</i><br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b> &nbsp; <a href="https://www.biorxiv.org/content/early/2019/01/09/514521">bioRxiv</a> 
+<p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding."<br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b> &nbsp; <a href="https://www.biorxiv.org/content/early/2019/01/09/514521">bioRxiv</a> 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/514521" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
 
 
-<p id="Gordon2018"><b>2018</b> "Cognitive self-regulation influences pain-related physiology." <i>(in revision in PAIN)</i><br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*<sup>&para;</sup>;, Marianne C. Reddan, Tor D. Wager<sup>&para;</sup> &nbsp; <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">bioRxiv</a> 
+<p id="Gordon2018"><b>2018</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*<sup>&para;</sup>;, Marianne C. Reddan, Tor D. Wager<sup>&para;</sup> &nbsp; <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">bioRxiv</a> 
 <br>*co-first authors
 <br><sup>&para;</sup>co-corresponding authors
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
