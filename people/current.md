@@ -104,15 +104,6 @@ subtitle: Cocoan lab members
 <hr>
 
 
-<p id="Jinwon"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Jinwon Park</span></b>
-
-<img src="/people/images/ParkJW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jinwon is an undergrad research assistant in the Cocoan Lab. She is majoring in Psychology at Sungkyunkwan University. She wants to investigate the physical and mental functions of human individuals. She is also interested in clinical psychology and the understanding of pain and emotions. </span>
-
-<br><br><br><br>
-
 <p id="Hyebin"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Hyebin Kim </span></b>
@@ -130,15 +121,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Myeonghun is an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
 
 <br><br><br><br>
-
-<p id="Seeyun"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Seeyun Lee </span></b>
-
-<img src="/people/images/LeeSY.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Seeyun is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in cognitive processes of pain and placebo effects. He wants to investigate placebo effects in medical situations. </span>
-
-<br><br><br><br><br>
 
 <p id="Jihoon"></p>
 
@@ -165,7 +147,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is majoring systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p id="Donghee"></p>
 
