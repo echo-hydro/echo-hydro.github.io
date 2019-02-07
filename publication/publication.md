@@ -25,6 +25,10 @@ subtitle: Cocoan lab publications and links to papers
 <br><sup>&para;</sup>co-corresponding authors
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
 
+<h2><span style="color: #0055A9;">2019</span></h2>
+
+<p id="Neuron_Jeong2019"><b>2019</b> "Korea Brain Initiative: Emerging Issues and Institutionalization of Neuroethics."<br><span style="font-size: 13px !important; color: #555;">Sung-Jin Jeong, In Young Lee, Bang Ook Jun, Young-Joon Ryu, Jeong-woo Sohn, Sung-Phil Kim, <b>Choong-Wan Woo</b>, Ja Wook Koo, Il-Joo Cho, Uhtaek Oh, Kyungjin Kim, and Pann-Ghill Suh, <i>Neuron</i> &nbsp; <a href="https://www.cell.com/neuron/fulltext/S0896-6273(19)30069-8">Neuron</a> | <a href="/pdfs/Jeong_et_al_2019_Neuron.pdf">PDF</a> </span></p>
+
 
 <h2><span style="color: #0055A9;">2018</span></h2>
 
