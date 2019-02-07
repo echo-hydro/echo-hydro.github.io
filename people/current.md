@@ -21,6 +21,15 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
+<p id="Lada"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Lada Kohoutová</span></b>
+
+<img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
+
+
+<br><br><br>
 
 <p id="Jaejoong"></p>
 
@@ -75,17 +84,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 
-<br><br><br><br>
-
-<p id="Lada"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Lada Kohoutová</span></b>
-
-<img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
-
-
-<br><br><br><br><br>
+<br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
