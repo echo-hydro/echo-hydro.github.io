@@ -8,20 +8,11 @@ subtitle: Cocoan lab alumni
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
 
-<p id="Seeyun"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Seeyun Lee</span></b>
-
-<img src="/people/images/ParkJW.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Seeyun was an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in cognitive processes of pain and placebo effects. He wants to investigate placebo effects in medical situations. He left the lab to finish his mandatory military service. We hope to see him again after his military years!</span>
-
-<br><br><br><br>
-
 <p id="Jinwon"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jinwon Park</span></b>
 
-<img src="/people/images/ParkJW.JPG" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/ParkJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jinwon helped many projects while she was working as an undergrad research assistant in the Cocoan Lab for more than one year. She majored in Psychology at Sungkyunkwan University. She wanted to investigate the physical and mental functions of human individuals. She was also interested in clinical psychology and the understanding of pain and emotions.</span>
 
 <br><br><br><br>
@@ -128,7 +119,14 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 <img src="/people/images/YeomSE2.jpg" width="150" height="215" align="left" hspace="20"/>
 <span style="font-size: 15px !important; color: #555;">Sangeun was an undergrad research assistant in the Cocoan lab in 2018. She is double majoring in Neuroscience and Psychology at Johns Hopkins University. She particularly wants to focus on systems neuroscience and clinical psychology. She is interested in mental illnesses and wants to investigate how neuroscience and clinical psychology can work together to diagnose and treat mental illnesses.  </span>
 
+<br><br><br><br>
 
+<p id="Seeyun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Seeyun Lee</span></b>
+
+<img src="/people/images/LeeSY.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Seeyun was an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in cognitive processes of pain and placebo effects. He wants to investigate placebo effects in medical situations. He left the lab to finish his mandatory military service. We hope to see him again after his military years!</span>
 
 
 <br><br><br><br><br><br>
