@@ -84,12 +84,10 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 
-<br><br><br>
+<br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
-
-<br>
 
 <p id="SungWoo"></p>
 
@@ -118,12 +116,11 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
-
 
 <p id="Hyebin"></p>
 
