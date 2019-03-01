@@ -47,7 +47,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
-<br><br><br><br>
+<br><br><br>
 
 <p id="Byeol"></p>
 
@@ -84,20 +84,42 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 
-<br><br>
+<br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
+
+<br>
 
 <p id="SungWoo"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Sungwoo Lee</span></b>
 
 <img src="/people/images/LeeSW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Sungwoo is a Lab manager in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to build computational predictive models of emotions.</span>
+<span style="font-size: 15px !important; color: #555;">Sungwoo is a postbac RA in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to build computational predictive models of emotions.</span>
+
+<br><br><br><br>
 
 
-<br><br><br><br><br><br>
+<p id="Donghee"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Donghee Lee</span></b>
+
+<img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
+
+<br><br><br>
+
+
+<p id="JungWoo"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Jungwoo Kim</span></b>
+
+<img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
+
+<br><br><br><br><br>
+
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
@@ -139,23 +161,6 @@ subtitle: Cocoan lab members
 
 <br><br><br><br><br>
 
-<p id="JungWoo"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Jungwoo Kim</span></b>
-
-<img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jungwoo is majoring systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
-
-<br><br><br><br><br><br>
-
-<p id="Donghee"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Donghee Lee</span></b>
-
-<img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Donghee is an undergraduate research assistant in the Cocoan Lab. He is double majoring in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
-
-<br><br><br>
 
 <p id="Yanghi"></p>
 
