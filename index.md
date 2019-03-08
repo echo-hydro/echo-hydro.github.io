@@ -19,9 +19,7 @@ subtitle: Computational Cognitive Affective Neuroscience Laboratory
 <span style="font-size: 16px !important;">Our main research tools include functional Magnetic Resonance Imaging (fMRI; we're using 3T and 7T MRI), psychophysiology measures (skin conductance, pupilometry, electrocardiogram, respiration), electroencephalogram (EEG), and other behavioral measures such as facial expression, eye movement, etc. Most importantly, we use data science (computational) tools to model and understand affective, cognitive, and behavioral responses.</span>  
 
 <center><img src="img/cocoanlab_logo.png" width="80" align="center"/></center>
-
 <br>
-
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/lPDGnYpslkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
