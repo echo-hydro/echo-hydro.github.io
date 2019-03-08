@@ -21,10 +21,14 @@ subtitle: Computational Cognitive Affective Neuroscience Laboratory
 <center><img src="img/cocoanlab_logo.png" width="80" align="center"/></center>
 
 
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/lPDGnYpslkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 <span style="font-size: 16px !important;">[We are always looking for talented and enthusiastic people for the lab!](/jobs/)</span>
 
 - <span style="font-size: 15px !important;">Current openings: </span>
 	- <span style="font-size: 15px !important;">1 or 2 undergraduate research assistant (학부연구생; 학부연구생이면서 파트타임으로 연구를 도울 수 있는 분도 찾고 있습니다)</span>
-	- <span style="font-size: 15px !important;">1 or 2 graduate students (for AY 2020)</span>
+	- <span style="font-size: 15px !important;">1 or 2 graduate students (for AY 2021)</span>
+	- <span style="font-size: 15px !important;">Feel free to email Wani to ask about job openings in the lab.</span>
 
 <span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/research/participation)</span>
