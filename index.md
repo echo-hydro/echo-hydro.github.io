@@ -20,7 +20,7 @@ subtitle: Computational Cognitive Affective Neuroscience Laboratory
 
 <center><img src="img/cocoanlab_logo.png" width="80" align="center"/></center>
 <br>
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/lPDGnYpslkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/NqMFXK-A7dU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 <span style="font-size: 16px !important;">[We are always looking for talented and enthusiastic people for the lab!](/jobs/)</span>
