@@ -22,7 +22,7 @@ subtitle: Computational Cognitive Affective Neuroscience Laboratory
 
 <br>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/lPDGnYpslkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/lPDGnYpslkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 <span style="font-size: 16px !important;">[We are always looking for talented and enthusiastic people for the lab!](/jobs/)</span>
