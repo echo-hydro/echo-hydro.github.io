@@ -90,7 +90,7 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
 
-<br><br><br><br>
+<br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
@@ -119,8 +119,7 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
 
-<br><br><br>
-
+<br>
 
 <p id="JungWoo"></p>
 
@@ -136,8 +135,7 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
 
-<br><br><br><br><br><br>
-
+<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
