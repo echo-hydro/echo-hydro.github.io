@@ -210,6 +210,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimYH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yanghi is currently a research assistant in the Cocoan lab. She majored in Italian and minored in Spanish at Hankuk University of Foreign Studies. She has been interested in the mind-body-brain interactions regarding mental disorders since she was an undergraduate. She joined the Cocoan lab in order to find the way to compute and simulate the brain activities which cause mental disorders such as anxiety, depression and PTSD.</span>
 
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rumbinie4@gmail.com"  target="_top">rumbinie4@gmail.com</a></span>
+
 <br><br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
