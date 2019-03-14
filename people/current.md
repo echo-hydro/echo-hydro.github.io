@@ -30,6 +30,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
 
+<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
+
 
 <br><br><br>
 
@@ -61,6 +63,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
 <br>
+
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
 
