@@ -72,7 +72,6 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:suhwan.gim.psych@gmail.com "  target="_top">suhwan.gim.psych@gmail.com </a></span>
 
-<br>
 
 <span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
 
@@ -147,7 +146,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-
+<br>
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
 
