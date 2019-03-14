@@ -60,8 +60,9 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
 <br>
+
+<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/ByeolEtoileKim/">Github</a> | <a href="https://twitter.com/ByeolEtoileKim/">Twitter</a> </span>
 
@@ -74,7 +75,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
-<br>
 <br>
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:suhwan.gim.psych@gmail.com "  target="_top">suhwan.gim.psych@gmail.com </a></span>
