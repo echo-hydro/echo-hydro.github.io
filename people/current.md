@@ -86,6 +86,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 <br>
+<br>
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
 
@@ -118,7 +119,6 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
 
-
 <br><br><br>
 
 
@@ -130,6 +130,9 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
 <br>
+<br>
+<br>
+
 
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
 
