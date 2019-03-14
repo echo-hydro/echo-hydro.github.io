@@ -108,7 +108,12 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
+<br>
+
 <span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
+<br>
+<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></sapn>
+
 
 <br><br><br>
 
