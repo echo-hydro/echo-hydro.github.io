@@ -13,7 +13,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/Woo_cnir_3.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Choong-Wan (Wani) is the director of the <span style="font-size: 15px !important; color: #BD0026;">Cocoan lab</span>. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder (PhD advisor: <a href="http://wagerlab.colorado.edu/">Tor D. Wager</a>), and MA in Clinical psychology and BS in Biology from Seoul National University. He has received many awards including the <a href="http://www.iie.org/fulbright">Fulbright Graduate Study Award</a> from Korea and US governments, the Carol B. Lynch Graduate Fellowship from the graduate school of the University of Colorado Boulder, and the Heyer Award from the Department of Psychology and Neuroscience. Currently, he is an assistant professor at the IBS Center for Neuroscience Imaging Research and the Department of Biomedical Engineering in the Sungkyunkwan University (SKKU). </span>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:choongwan.woo@gmail.com"  target="_top">choongwan.woo@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:choongwan.woo@gmail.com"  target="_top">choongwan.woo@gmail.com</a></span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Mar2019.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/choongwanwoo/">Twitter</a> | <a href="http://www.ibric.org/myboard/read.php?Board=tr_interview&id=122090&qinterview=Y&BackLink=L2hhbmJpdHNhL3RyZWF0aXNlX2luZGV4X2Zvcl9hdXRob3IucGhwP2lkYXV0aG9yaWQ9MjQ4MDEmUGFnZT0x">한빛사인터뷰1</a> <a href="https://www.ibric.org/myboard/read.php?Board=hbs_after&id=712&Page=1">2</a> | <a href="https://m.blog.naver.com/PostView.nhn?blogId=ibs_official&logNo=221038275277&targetKeyword=&targetRecommendationCode=1&proxyReferer=https%3A%2F%2Fwww.google.com%2F">IBS인터뷰</a> | <a href="https://webzine.skku.edu/skkuzine/section/knowledge04.do?articleNo=34984&pager.offset=0&pagerLimit=10">성균웹진</a></span>
 
@@ -30,7 +30,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
 
 
 <br><br><br>
@@ -42,7 +42,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:jaejoonglee92@gmail.com"  target="_top">jaejoonglee92@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:jaejoonglee92@gmail.com"  target="_top">jaejoonglee92@gmail.com</a></span>
 
 <br><br><br>
 
@@ -65,7 +65,7 @@ subtitle: Cocoan lab members
 <br>
 
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/ByeolEtoileKim/">Github</a> | <a href="https://twitter.com/ByeolEtoileKim/">Twitter</a> </span>
 
@@ -80,7 +80,7 @@ subtitle: Cocoan lab members
 
 <br>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:suhwan.gim.psych@gmail.com "  target="_top">suhwan.gim.psych@gmail.com </a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com "  target="_top">suhwan.gim.psych@gmail.com </a></span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
 
@@ -105,7 +105,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
 
@@ -124,7 +124,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
 <br>
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
@@ -159,7 +159,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
 
 <br>
 
