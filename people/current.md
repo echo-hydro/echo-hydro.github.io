@@ -140,7 +140,7 @@ subtitle: Cocoan lab members
 
 <br>
 
-<span style="font-size: 15px !important; color: #555;">Email address: <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="img/email-icon.png"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
 <br>
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
