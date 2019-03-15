@@ -191,6 +191,11 @@ subtitle: Cocoan lab members
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
+<br>
+
+<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
+
 <br><br><br><br>
 
 <p id="Jaeyoung"></p>
