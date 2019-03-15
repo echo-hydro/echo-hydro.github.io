@@ -179,6 +179,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+<br>
 
 <p id="Myeonghun"></p>
 
@@ -214,6 +215,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/ShinJY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jaeyoung is an undergrad research assistant in the Cocoan lab. She is majoring in marine bioscience at Korea Maritime and Ocean University. She is mainly interested in mental disorder and neurological disease. She also wants to study computational models for neuroscience. </span>
 
+<br>
 <br>
 <br>
 <br>
