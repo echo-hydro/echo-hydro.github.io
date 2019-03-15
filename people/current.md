@@ -33,7 +33,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
 
 
-<br><br><br>
+<br>
 
 <p id="Jaejoong"></p>
 
@@ -44,7 +44,7 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:jaejoonglee92@gmail.com"  target="_top">jaejoonglee92@gmail.com</a></span>
 
-<br><br><br>
+<br>
 
 <p id="YongWook"></p>
 
@@ -176,7 +176,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimHB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hyebin is an undergrad research assistant in the Cocoan lab. She is double majoring in Integrative biotechnology and Informatics interdisciplinary program (C-School) at Sungkyunkwan University. She is interested in studying neuroscience and data analysis. </span>
 
-<br><br><br><br>
+<br>
 
 <p id="Myeonghun"></p>
 
@@ -185,7 +185,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/MBeak.JPG" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Myeonghun is an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
 
-<br><br><br><br>
+<br>
 
 <p id="Jihoon"></p>
 
@@ -201,7 +201,7 @@ subtitle: Cocoan lab members
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
 
-<br><br><br><br>
+<br>
 
 <p id="Jaeyoung"></p>
 
@@ -210,7 +210,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/ShinJY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jaeyoung is an undergrad research assistant in the Cocoan lab. She is majoring in marine bioscience at Korea Maritime and Ocean University. She is mainly interested in mental disorder and neurological disease. She also wants to study computational models for neuroscience. </span>
 
-<br><br><br><br><br>
+<br>
 
 
 <p id="Yanghi"></p>
