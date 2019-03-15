@@ -54,6 +54,8 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
 
+<br>
+
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
 
 <br>
@@ -65,6 +67,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
+<br>
 <br>
 
 
@@ -175,6 +178,13 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/KimHB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hyebin is an undergrad research assistant in the Cocoan lab. She is double majoring in Integrative biotechnology and Informatics interdisciplinary program (C-School) at Sungkyunkwan University. She is interested in studying neuroscience and data analysis. </span>
+
+<br>
+<br>
+<br>
+<br>
+
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:nutri0703@naver.com"  target="_top">nutri0703@naver.com</a></span>
 
 <br>
 <br>
