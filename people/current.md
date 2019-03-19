@@ -81,9 +81,9 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
 <p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
 	
-	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
 </p>
 <br>
 
@@ -109,9 +109,9 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
 	
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
+<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
 </p>
 <br>
 
@@ -127,10 +127,10 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
 <br>
 	
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
+<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
 </p>
 <br>
 
@@ -143,9 +143,9 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
 
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
+<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
 </p>
 <br>
 
@@ -205,9 +205,9 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
+<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
 	
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
+<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
 </p>
 <br>
 
