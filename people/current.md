@@ -57,6 +57,7 @@ subtitle: Cocoan lab members
 
 
 
+<br>
 <p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
 </p>
@@ -71,6 +72,7 @@ subtitle: Cocoan lab members
 
 <br>
 
+<br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
 </p>
@@ -89,6 +91,8 @@ subtitle: Cocoan lab members
 
 
 
+
+<br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
 </p>
@@ -106,6 +110,8 @@ subtitle: Cocoan lab members
 
 
 
+<br>
+
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hongji.eo.kim@gmail.com"  target="_top">hongji.eo.kim@gmail.com</a></span>
 </p>
@@ -121,6 +127,7 @@ subtitle: Cocoan lab members
 
 <br>
 
+<br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
 </p>
@@ -141,6 +148,7 @@ subtitle: Cocoan lab members
 
 <br>
 
+<br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
 </p>
@@ -172,6 +180,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
+<br>
 <br>
 <br>
 <br>
@@ -212,6 +221,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
+<br>
 
 <p id="Jihoon"></p>
 
@@ -223,6 +233,7 @@ subtitle: Cocoan lab members
 <br>
 
 
+<br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
 </p>
@@ -242,6 +253,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+<br>
 
 
 <p id="Yanghi"></p>
@@ -252,6 +264,8 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Yanghi is currently a research assistant in the Cocoan lab. She majored in Italian and minored in Spanish at Hankuk University of Foreign Studies. She has been interested in the mind-body-brain interactions regarding mental disorders since she was an undergraduate. She joined the Cocoan lab in order to find the way to compute and simulate the brain activities which cause mental disorders such as anxiety, depression and PTSD.</span>
 
 
+
+<br>
 
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rumbinie4@gmail.com"  target="_top">rumbinie4@gmail.com</a></span>
