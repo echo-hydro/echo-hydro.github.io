@@ -29,9 +29,9 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
-
+<p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
-
+</p>
 
 <br>
 
@@ -41,9 +41,9 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
-
+<p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:jaejoonglee92@gmail.com"  target="_top">jaejoonglee92@gmail.com</a></span>
-
+</p>
 <br>
 
 <p id="YongWook"></p>
@@ -53,11 +53,9 @@ subtitle: Cocoan lab members
 <img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
-
-<br>
-
+<p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
-
+</p>
 <br>
 
 <p id="Byeol"></p>
@@ -68,13 +66,11 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
 <br>
-<br>
-
-
+<p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
 
 <span style="font-size: 14px !important; color: #555;"><a href="https://github.com/ByeolEtoileKim/">Github</a> | <a href="https://twitter.com/ByeolEtoileKim/">Twitter</a> </span>
-
+</p>
 <br>
 
 <p id="Suhwan"></p>
@@ -84,12 +80,11 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
-<br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com "  target="_top">suhwan.gim.psych@gmail.com </a></span>
-
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
-
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
+	
+	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
+</p>
 <br>
 
 <p id="Hongji"></p>
@@ -98,6 +93,10 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
+
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hongji.eo.kim@gmail.com"  target="_top">hongji.eo.kim@gmail.com</a></span>
+</p>
 
 <br><br><br>
 
@@ -109,12 +108,11 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 <br>
-<br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
-
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
-
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
+	
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
+</p>
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
@@ -128,13 +126,12 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sungwoo is a postbac RA in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to build computational predictive models of emotions.</span>
 
 <br>
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
 <br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
-<br>
-
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
-
+	
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
+</p>
 <br>
 
 <p id="Donghee"></p>
@@ -145,12 +142,11 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
 <br>
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
 
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
-<br>
-
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
-
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
+</p>
 <br>
 
 <p id="JungWoo"></p>
@@ -163,10 +159,9 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-<br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
-
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
+</p>
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
@@ -182,10 +177,9 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-<br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:nutri0703@naver.com"  target="_top">nutri0703@naver.com</a></span>
-
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:nutri0703@naver.com"  target="_top">nutri0703@naver.com</a></span>
+</p>
 <br>
 <br>
 <br>
@@ -209,13 +203,12 @@ subtitle: Cocoan lab members
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
-<br><br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
 <br>
-
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
-
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
+	
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
+</p>
 <br>
 
 <p id="Jaeyoung"></p>
@@ -237,10 +230,9 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimYH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yanghi is currently a research assistant in the Cocoan lab. She majored in Italian and minored in Spanish at Hankuk University of Foreign Studies. She has been interested in the mind-body-brain interactions regarding mental disorders since she was an undergraduate. She joined the Cocoan lab in order to find the way to compute and simulate the brain activities which cause mental disorders such as anxiety, depression and PTSD.</span>
 
-<br>
-
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rumbinie4@gmail.com"  target="_top">rumbinie4@gmail.com</a></span>
-
+<p>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rumbinie4@gmail.com"  target="_top">rumbinie4@gmail.com</a></span>
+</p>
 <br><br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
