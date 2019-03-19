@@ -55,7 +55,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
-
 <br>
 <p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
@@ -227,7 +226,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
 <br>
-
 <br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
