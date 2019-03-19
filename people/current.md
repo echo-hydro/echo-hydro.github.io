@@ -29,6 +29,7 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
+
 <p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
 </p>
@@ -53,6 +54,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
+
 <p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
 </p>
@@ -67,9 +69,10 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
-
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/ByeolEtoileKim/">Github</a> | <a href="https://twitter.com/ByeolEtoileKim/">Twitter</a> </span>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
+</p>
+<p>
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/ByeolEtoileKim/">Github</a> | <a href="https://twitter.com/ByeolEtoileKim/">Twitter</a> </span>
 </p>
 <br>
 
@@ -81,9 +84,10 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
 <p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
-	
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
+</p>
+<p>
+	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a>
 </p>
 <br>
 
@@ -109,9 +113,10 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
-	
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
+</p>
+<p>
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
 </p>
 <br>
 
@@ -127,10 +132,10 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
-<br>
-	
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
+</p>
+<p>	
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
 </p>
 <br>
 
@@ -143,9 +148,10 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
-
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
+</p>
+<p>
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
 </p>
 <br>
 
@@ -205,9 +211,10 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
-	
-<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
+	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
+</p>
+<p>
+	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
 </p>
 <br>
 
