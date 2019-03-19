@@ -56,7 +56,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
 
-
 <br>
 <p>
 <span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
@@ -71,7 +70,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
 <br>
-
 <br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
@@ -116,7 +114,7 @@ subtitle: Cocoan lab members
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hongji.eo.kim@gmail.com"  target="_top">hongji.eo.kim@gmail.com</a></span>
 </p>
 
-<br><br><br>
+<br><br>
 
 <p id="Sooan"></p>
 
@@ -126,7 +124,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 <br>
-
 <br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
@@ -147,7 +144,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Sungwoo is a postbac RA in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to build computational predictive models of emotions.</span>
 
 <br>
-
 <br>
 <p>
 	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
@@ -231,7 +227,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
 <br>
-
 
 <br>
 <p>
