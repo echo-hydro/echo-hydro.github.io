@@ -13,13 +13,13 @@ subtitle: Cocoan lab members
 </div>
 <div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
 	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com">
-		<img src="/img/email-icon.png" width="auto" height="13" alt="email"/>
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://github.com/wanirepo/" title="wani github">
-		<img src="/img/github-icon.png" width="auto" height="13" alt="github"/>
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
 	<a href="https://twitter.com/choongwanwoo/" title="wani twitter">
-		<img src="/img/twitter-icon.png" width="auto" height="13" alt="twitter"/>
+		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
 </div>
 <hr>
