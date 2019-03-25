@@ -131,11 +131,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
-
-
-
-<br>
-<br>
 <p>
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf" target="_blank">CV</a></span>
 </p>
@@ -312,6 +307,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
+<br>
 <br>
 <br>
 <br>
