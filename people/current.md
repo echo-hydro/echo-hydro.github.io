@@ -8,7 +8,9 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Lab director</span></b>
 <hr>
-<b><div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px;">Choong-Wan Woo</div></b> 
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Choong-Wan Woo
+</div>
 <div style="font-size: 15px !important; color: #555;">
 	<a href="mailto:choongwan.woo@gmail.com"  target="_top">
 		<img src="/img/email-icon.png" width="20" height="13" alt="email"/>
