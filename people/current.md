@@ -317,38 +317,6 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
-<p id="Jaeyoung"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Jaeyoung Shin</span></b>
-
-<img src="/people/images/ShinJY.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jaeyoung is an undergrad research assistant in the Cocoan lab. She is majoring in marine bioscience at Korea Maritime and Ocean University. She is mainly interested in mental disorder and neurological disease. She also wants to study computational models for neuroscience. </span>
-
-<br>
-<br>
-<br>
-<br>
-
-
-<p id="Yanghi"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
-	Yanghi Kim
-</div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:rumbinie4@gmail.com"  target="_top" title="rumbinie4@gmail.com">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-</div>
-<br>
-
-<img src="/people/images/KimYH.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Yanghi is currently a research assistant in the Cocoan lab. She majored in Italian and minored in Spanish at Hankuk University of Foreign Studies. She has been interested in the mind-body-brain interactions regarding mental disorders since she was an undergraduate. She joined the Cocoan lab in order to find the way to compute and simulate the brain activities which cause mental disorders such as anxiety, depression and PTSD.</span>
-
-
-
-<br>
-<br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
