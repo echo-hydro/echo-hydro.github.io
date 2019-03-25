@@ -109,6 +109,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
 <br>
+<br>
 
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -140,7 +141,6 @@ subtitle: Cocoan lab members
 </p>
 
 <br>
-
 <p id="Hongji"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -180,6 +180,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeSA.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
+<br>
 <br>
 <br>
 
@@ -233,7 +234,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
-<br>
 <br>
 
 <p id="JungWoo"></p>
@@ -310,8 +310,6 @@ subtitle: Cocoan lab members
 	</a> 
 </div>
 <br>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Jihoon Han</span></b>
 
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
