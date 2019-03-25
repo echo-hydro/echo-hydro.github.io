@@ -11,10 +11,16 @@ subtitle: Cocoan lab members
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
 	Choong-Wan Woo
 </div>
-<div style="font-size: 15px !important; color: #555;">
-	<a href="mailto:choongwan.woo@gmail.com"  target="_top">
-		<img src="/img/email-icon.png" width="20" height="13" alt="email"/>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com">
+		<img src="/img/email-icon.png" width="20" height="" alt="email"/>
 	</a>
+	<a href="https://github.com/wanirepo/" title="wani github">
+		<img src="/img/github-icon.png" width="auto" height="13" alt="github"/>
+	</a>
+	<a href="https://twitter.com/choongwanwoo/" title="wani twitter">
+		<img src="/img/twitter-icon.png" width="auto" height="13" alt="twitter"/>
+	</a> 
 </div>
 
 <img src="/people/images/Woo_cnir_3.jpg" width="150" height="215" align="left" hspace="20" />
@@ -22,7 +28,7 @@ subtitle: Cocoan lab members
 
 
 
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Mar2019.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://github.com/wanirepo/">Github</a> | <a href="https://twitter.com/choongwanwoo/">Twitter</a> | <a href="http://www.ibric.org/myboard/read.php?Board=tr_interview&id=122090&qinterview=Y&BackLink=L2hhbmJpdHNhL3RyZWF0aXNlX2luZGV4X2Zvcl9hdXRob3IucGhwP2lkYXV0aG9yaWQ9MjQ4MDEmUGFnZT0x">한빛사인터뷰1</a> <a href="https://www.ibric.org/myboard/read.php?Board=hbs_after&id=712&Page=1">2</a> | <a href="https://m.blog.naver.com/PostView.nhn?blogId=ibs_official&logNo=221038275277&targetKeyword=&targetRecommendationCode=1&proxyReferer=https%3A%2F%2Fwww.google.com%2F">IBS인터뷰</a> | <a href="https://webzine.skku.edu/skkuzine/section/knowledge04.do?articleNo=34984&pager.offset=0&pagerLimit=10">성균웹진</a></span>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Mar2019.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | | <a href="http://www.ibric.org/myboard/read.php?Board=tr_interview&id=122090&qinterview=Y&BackLink=L2hhbmJpdHNhL3RyZWF0aXNlX2luZGV4X2Zvcl9hdXRob3IucGhwP2lkYXV0aG9yaWQ9MjQ4MDEmUGFnZT0x">한빛사인터뷰1</a> <a href="https://www.ibric.org/myboard/read.php?Board=hbs_after&id=712&Page=1">2</a> | <a href="https://m.blog.naver.com/PostView.nhn?blogId=ibs_official&logNo=221038275277&targetKeyword=&targetRecommendationCode=1&proxyReferer=https%3A%2F%2Fwww.google.com%2F">IBS인터뷰</a> | <a href="https://webzine.skku.edu/skkuzine/section/knowledge04.do?articleNo=34984&pager.offset=0&pagerLimit=10">성균웹진</a></span>
 
 
 
