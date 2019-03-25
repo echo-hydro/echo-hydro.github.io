@@ -38,63 +38,90 @@ subtitle: Cocoan lab members
 <hr>
 <p id="Lada"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Lada Kohoutová</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Lada Kohoutová
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:ladakohoutova@gmail.com"  target="_top" title="ladakohoutova@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
-
-
-<p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:ladakohoutova@gmail.com"  target="_top">ladakohoutova@gmail.com</a></span>
-</p>
 
 <br>
 
 <p id="Jaejoong"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Jae-joong Lee</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Jae-joong Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:jaejoonglee92@gmail.com"  target="_top" title="jaejoonglee92@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
-<p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:jaejoonglee92@gmail.com"  target="_top">jaejoonglee92@gmail.com</a></span>
-</p>
+
 <br>
 
 <p id="YongWook"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">YongWook Hong</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	YongWook Hong
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
 <br>
-<p>
-<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sinabro.yong@gmail.com"  target="_top">sinabro.yong@gmail.com</a></span>
-</p>
-<br>
 
 <p id="Byeol"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Byeol Kim</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Byeol Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/ByeolEtoileKim/" title="byeol github">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
+	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter">
+		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	</a> 
+	
+</div>
+<hr>
 <img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
 <br>
-<br>
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:roadndream@naver.com"  target="_top">roadndream@naver.com</a></span>
-</p>
-<p>
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/ByeolEtoileKim/">Github</a> | <a href="https://twitter.com/ByeolEtoileKim/">Twitter</a> </span>
-</p>
-<br>
 
 <p id="Suhwan"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Suhwan Gim</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Suhwan Gim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:suhwan.gim.psych@gmail.com"  target="_top" title="suhwan.gim.psych@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/suhwangim/" title="suhwan github">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
+	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter">
+		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	</a> 
+</div>
+<hr>
 <img src="/people/images/KimSuhwan.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Suhwan is a graduate student in the Cocoan lab. He received B.A. in psychology at Sungkyunkwan University. His research interest is to understand how psychological health and biological factors influence each other. He is eager to answer the question of how the environment (e.g., personal background, contexts, cultures, etc.) affects subjective experience of pain and its brain activity.</span>
 
@@ -104,87 +131,113 @@ subtitle: Cocoan lab members
 
 <br>
 <p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:suhwan.gim.psych@gmail.com"  target="_top">suhwan.gim.psych@gmail.com</a></span>
+	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a></span>
 </p>
-<p>
-	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a> | <a href="https://github.com/suhwangim/">Github</a> | <a href="https://twitter.com/SuhwanGim/">Twitter</a></span>
-</p>
+
 <br>
 
 <p id="Hongji"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Hong Ji Kim</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Hong Ji Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:hongji.eo.kim@gmail.com"  target="_top" title="hongji.eo.kim@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
-
-
 <br>
-
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hongji.eo.kim@gmail.com"  target="_top">hongji.eo.kim@gmail.com</a></span>
-</p>
 
 <br><br>
 
 <p id="Sooan"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Sooan Lee</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Sooan Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:pbc1159@gmail.com"  target="_top" title="pbc1159@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/Soo-an/" title="sooan github">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
+	<a href="https://twitter.com/pbc1159/" title="sooan twitter">
+		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	</a> 
+</div>
+<hr>
 <img src="/people/images/LeeSA.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
 <br>
 <br>
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:pbc1159@gmail.com"  target="_top">pbc1159@gmail.com</a></span>
-</p>
-<p>
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Soo-an/">Github</a> | <a href="https://twitter.com/pbc1159/">Twitter</a> </span>
-</p>
-<br>
+
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
 
 <p id="SungWoo"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Sungwoo Lee</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Sungwoo Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/sungwoo320/" title="sungwoo github">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
+	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter">
+		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	</a> 
+</div>
+<hr>
 <img src="/people/images/LeeSW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sungwoo is a postbac RA in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to build computational predictive models of emotions.</span>
 
 <br>
 <br>
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:sungwoo320@gmail.com"  target="_top">sungwoo320@gmail.com</a></span>
-</p>
-<p>	
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Sungwoo-Lee/">Github</a> | <a href="https://twitter.com/sungwoo320/">Twitter</a></span>
-</p>
-<br>
 
 <p id="Donghee"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Donghee Lee</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Donghee Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/leedh/" title="donghee github">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
+	<a href="https://twitter.com/lxxdh/" title="donghee twitter">
+		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	</a>
+	<a href="https://leedh.github.io/" title="donghee personal website">
+		<img src="/img/home-icon.png" width="auto" height="15" alt="personal website"/>
+	</a> 
+</div>
+<hr>
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
 <br>
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:donghee@skku.edu"  target="_top">donghee@skku.edu</a></span>
-</p>
-<p>
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/leedh/">Github</a> | <a href="https://twitter.com/lxxdh/">Twitter</a> | <a href="https://leedh.github.io/">Personal Website</a></span>
-</p>
 <br>
 
 <p id="JungWoo"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Jungwoo Kim</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Jungwoo Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
@@ -192,10 +245,6 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rwd_@naver.com"  target="_top">rwd_@naver.com</a></span>
-</p>
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
@@ -203,19 +252,22 @@ subtitle: Cocoan lab members
 
 <p id="Hyebin"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Hyebin Kim </span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Hyebin Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:nutri0703@naver.com"  target="_top" title="nutri0703@naver.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/KimHB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hyebin is an undergrad research assistant in the Cocoan lab. She is double majoring in Integrative biotechnology and Informatics interdisciplinary program (C-School) at Sungkyunkwan University. She is interested in studying neuroscience and data analysis. </span>
 
 <br>
 <br>
 <br>
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:nutri0703@naver.com"  target="_top">nutri0703@naver.com</a></span>
-</p>
 <br>
-
 
 
 <p id="Myeonghun"></p>
@@ -232,7 +284,21 @@ subtitle: Cocoan lab members
 <br>
 
 <p id="Jihoon"></p>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Jihoon Han
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/Hahnnz/" title="jihoon github">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
+	<a href="https://hahnnz.github.io" title="jihoon personal website">
+		<img src="/img/home-icon.png" width="auto" height="15" alt="personal website"/>
+	</a> 
+</div>
+<hr>
 <b><span style="font-size: 20px !important; color: #0055A9;">Jihoon Han</span></b>
 
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
@@ -240,12 +306,6 @@ subtitle: Cocoan lab members
 
 <br>
 <br>
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:hahnnz@naver.com"  target="_top">hahnnz@naver.com</a></span>
-</p>
-<p>
-	<span style="font-size: 14px !important; color: #555;"><a href="https://github.com/Hahnnz">Github</a> | <a href="https://hahnnz.github.io">Personal Website</a></span>
-</p>
 <br>
 
 <p id="Jaeyoung"></p>
@@ -264,18 +324,21 @@ subtitle: Cocoan lab members
 
 <p id="Yanghi"></p>
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Yanghi Kim</span></b>
-
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+	Yanghi Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+	<a href="mailto:rumbinie4@gmail.com"  target="_top" title="rumbinie4@gmail.com">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<hr>
 <img src="/people/images/KimYH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Yanghi is currently a research assistant in the Cocoan lab. She majored in Italian and minored in Spanish at Hankuk University of Foreign Studies. She has been interested in the mind-body-brain interactions regarding mental disorders since she was an undergraduate. She joined the Cocoan lab in order to find the way to compute and simulate the brain activities which cause mental disorders such as anxiety, depression and PTSD.</span>
 
 
 
 <br>
-
-<p>
-	<span style="font-size: 15px !important; color: #555;"><img src="/img/email-icon.png" width="20" height="13" alt="email"/> <a href="mailto:rumbinie4@gmail.com"  target="_top">rumbinie4@gmail.com</a></span>
-</p>
 <br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
