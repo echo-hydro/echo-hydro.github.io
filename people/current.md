@@ -15,10 +15,10 @@ subtitle: Cocoan lab members
 	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/wanirepo/" title="wani github">
+	<a href="https://github.com/wanirepo/" target="_blank" title="wani github">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://twitter.com/choongwanwoo/" title="wani twitter">
+	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
 </div>
@@ -28,7 +28,7 @@ subtitle: Cocoan lab members
 
 
 
-<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Mar2019.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="http://www.ibric.org/myboard/read.php?Board=tr_interview&id=122090&qinterview=Y&BackLink=L2hhbmJpdHNhL3RyZWF0aXNlX2luZGV4X2Zvcl9hdXRob3IucGhwP2lkYXV0aG9yaWQ9MjQ4MDEmUGFnZT0x">한빛사인터뷰1</a> <a href="https://www.ibric.org/myboard/read.php?Board=hbs_after&id=712&Page=1">2</a> | <a href="https://m.blog.naver.com/PostView.nhn?blogId=ibs_official&logNo=221038275277&targetKeyword=&targetRecommendationCode=1&proxyReferer=https%3A%2F%2Fwww.google.com%2F">IBS인터뷰</a> | <a href="https://webzine.skku.edu/skkuzine/section/knowledge04.do?articleNo=34984&pager.offset=0&pagerLimit=10">성균웹진</a></span>
+<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Woo_Mar2019.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en&oi=ao" target="_blank" >Google Scholar</a> | <a href="http://www.ibric.org/myboard/read.php?Board=tr_interview&id=122090&qinterview=Y&BackLink=L2hhbmJpdHNhL3RyZWF0aXNlX2luZGV4X2Zvcl9hdXRob3IucGhwP2lkYXV0aG9yaWQ9MjQ4MDEmUGFnZT0x" target="_blank" >한빛사인터뷰1</a> <a href="https://www.ibric.org/myboard/read.php?Board=hbs_after&id=712&Page=1" target="_blank">2</a> | <a href="https://m.blog.naver.com/PostView.nhn?blogId=ibs_official&logNo=221038275277&targetKeyword=&targetRecommendationCode=1&proxyReferer=https%3A%2F%2Fwww.google.com%2F" target="_blank">IBS인터뷰</a> | <a href="https://webzine.skku.edu/skkuzine/section/knowledge04.do?articleNo=34984&pager.offset=0&pagerLimit=10" target="_blank">성균웹진</a></span>
 
 
 
@@ -69,7 +69,6 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
 
 <br>
-
 <p id="YongWook"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -95,10 +94,10 @@ subtitle: Cocoan lab members
 	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/ByeolEtoileKim/" title="byeol github">
+	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter">
+	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
 	
@@ -110,6 +109,7 @@ subtitle: Cocoan lab members
 
 <br>
 <br>
+<br>
 
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -119,10 +119,10 @@ subtitle: Cocoan lab members
 	<a href="mailto:suhwan.gim.psych@gmail.com"  target="_top" title="suhwan.gim.psych@gmail.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/suhwangim/" title="suhwan github">
+	<a href="https://github.com/suhwangim/" title="suhwan github" target="_blank">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter">
+	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter" target="_blank">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
 </div>
@@ -134,15 +134,13 @@ subtitle: Cocoan lab members
 
 
 
-
+<br>
 <br>
 <p>
-	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf">CV</a></span>
+	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf" target="_blank">CV</a></span>
 </p>
 
-<br>
 <p id="Hongji"></p>
-
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
 	Hong Ji Kim
 </div>
@@ -158,7 +156,6 @@ subtitle: Cocoan lab members
 
 <br>
 
-<br><br>
 
 <p id="Sooan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -168,10 +165,10 @@ subtitle: Cocoan lab members
 	<a href="mailto:pbc1159@gmail.com"  target="_top" title="pbc1159@gmail.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Soo-an/" title="sooan github">
+	<a href="https://github.com/Soo-an/" title="sooan github" target="_blank">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://twitter.com/pbc1159/" title="sooan twitter">
+	<a href="https://twitter.com/pbc1159/" title="sooan twitter" target="_blank">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
 </div>
@@ -183,7 +180,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-
+<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
@@ -196,10 +193,10 @@ subtitle: Cocoan lab members
 	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/sungwoo320/" title="sungwoo github">
+	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter">
+	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
 </div>
@@ -216,16 +213,16 @@ subtitle: Cocoan lab members
 	Donghee Lee
 </div>
 <div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu">
+	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" >
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/leedh/" title="donghee github">
+	<a href="https://github.com/leedh/" title="donghee github" target="_blank">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://twitter.com/lxxdh/" title="donghee twitter">
+	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a>
-	<a href="https://leedh.github.io/" title="donghee personal website">
+	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank">
 		<img src="/img/home-icon.png" width="auto" height="15" alt="personal website"/>
 	</a> 
 </div>
@@ -251,6 +248,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
+<br>
 <br>
 <br>
 <br>
@@ -292,7 +290,6 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
-<br>
 
 <p id="Jihoon"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -317,6 +314,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+<br>
 
 <p id="Jaeyoung"></p>
 
@@ -325,7 +323,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/ShinJY.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jaeyoung is an undergrad research assistant in the Cocoan lab. She is majoring in marine bioscience at Korea Maritime and Ocean University. She is mainly interested in mental disorder and neurological disease. She also wants to study computational models for neuroscience. </span>
 
-<br>
 <br>
 <br>
 <br>
