@@ -67,7 +67,6 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
-
 <br>
 <p id="YongWook"></p>
 
@@ -85,6 +84,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
 <br>
+
 
 <p id="Byeol"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -139,6 +139,7 @@ subtitle: Cocoan lab members
 <p>
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf" target="_blank">CV</a></span>
 </p>
+<br>
 
 <p id="Hongji"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -299,10 +300,10 @@ subtitle: Cocoan lab members
 	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Hahnnz/" title="jihoon github">
+	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
-	<a href="https://hahnnz.github.io" title="jihoon personal website">
+	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank">
 		<img src="/img/home-icon.png" width="auto" height="15" alt="personal website"/>
 	</a> 
 </div>
