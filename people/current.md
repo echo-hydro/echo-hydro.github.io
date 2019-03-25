@@ -13,7 +13,7 @@ subtitle: Cocoan lab members
 </div>
 <div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
 	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com">
-		<img src="/img/email-icon.png" width="20" height="" alt="email"/>
+		<img src="/img/email-icon.png" width="auto" height="13" alt="email"/>
 	</a>
 	<a href="https://github.com/wanirepo/" title="wani github">
 		<img src="/img/github-icon.png" width="auto" height="13" alt="github"/>
@@ -22,8 +22,7 @@ subtitle: Cocoan lab members
 		<img src="/img/twitter-icon.png" width="auto" height="13" alt="twitter"/>
 	</a> 
 </div>
-
-
+<hr>
 <img src="/people/images/Woo_cnir_3.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Choong-Wan (Wani) is the director of the <span style="font-size: 15px !important; color: #BD0026;">Cocoan lab</span>. His research focuses on understanding how the human brain represents, processes, and regulates pain and emotions. His recent research focuses on understanding the distinct neural mechanisms underlying different pain modulation strategies such as placebo, distraction, reappraisal, and acceptance. He received his dual PhD in the <a href="http://www.colorado.edu/psych-neuro/">Department of Psychology and Neuroscience</a> and the <a href="http://www.colorado.edu/ics/">Institute of Cognitive Sciences</a> from the University of Colorado Boulder (PhD advisor: <a href="http://wagerlab.colorado.edu/">Tor D. Wager</a>), and MA in Clinical psychology and BS in Biology from Seoul National University. He has received many awards including the <a href="http://www.iie.org/fulbright">Fulbright Graduate Study Award</a> from Korea and US governments, the Carol B. Lynch Graduate Fellowship from the graduate school of the University of Colorado Boulder, and the Heyer Award from the Department of Psychology and Neuroscience. Currently, he is an assistant professor at the IBS Center for Neuroscience Imaging Research and the Department of Biomedical Engineering in the Sungkyunkwan University (SKKU). </span>
 
