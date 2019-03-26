@@ -144,6 +144,9 @@ subtitle: Cocoan lab members
 	<a href="mailto:hongji.eo.kim@gmail.com"  target="_top" title="hongji.eo.kim@gmail.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
+	<a href="https://github.com/Hongjikim/" title="hongji github" target="_blank">
+		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	</a>
 </div>
 <br>
 
