@@ -15,9 +15,11 @@ subtitle: Cocoan lab members
 	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
+	&nbsp;
 	<a href="https://github.com/wanirepo/" target="_blank" title="wani github">
 		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
 	</a>
+   &nbsp;
 	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter">
 		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
 	</a> 
@@ -32,6 +34,7 @@ subtitle: Cocoan lab members
 
 
 
+<br>
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
@@ -52,6 +55,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
 
 <br>
+<br>
 
 <p id="Jaejoong"></p>
 
@@ -63,6 +67,8 @@ subtitle: Cocoan lab members
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
+<br>
+<br>
 <br>
 
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
@@ -83,6 +89,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
+<br>
 <br>
 
 
@@ -135,6 +142,8 @@ subtitle: Cocoan lab members
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf" target="_blank">CV</a></span>
 </p>
 <br>
+<br>
+<br>
 
 <p id="Hongji"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -153,6 +162,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
+<br>
+<br>
 <br>
 
 
@@ -206,6 +217,7 @@ subtitle: Cocoan lab members
 
 <br>
 <br>
+<br>
 
 <p id="Donghee"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
@@ -230,6 +242,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
+<br>
+<br>
 <br>
 
 <p id="JungWoo"></p>
