@@ -8,20 +8,18 @@ subtitle: Cocoan lab members
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Lab director</span></b>
 <hr>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Choong-Wan Woo
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com" style="margin-right: 15px">
+		<img src="/img/email-icon.png" width="auto" height="20" alt="email"/>
 	</a>
-	&nbsp;
-	<a href="https://github.com/wanirepo/" target="_blank" title="wani github">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 15px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-   &nbsp;
-	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter">
-		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter" style="margin-right: 15px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
 <br>
