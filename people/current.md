@@ -38,7 +38,7 @@ subtitle: Cocoan lab members
 <hr>
 <p id="Lada"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20x; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Lada Kohoutová
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
@@ -52,6 +52,8 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
 
 <br>
+
+
 
 <p id="Jaejoong"></p>
 
@@ -68,6 +70,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
 <br>
+
+
 <p id="YongWook"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -86,12 +90,13 @@ subtitle: Cocoan lab members
 <br>
 
 
+
 <p id="Byeol"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Byeol Kim
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com">
+	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 10px">
@@ -110,6 +115,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+
 
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -136,7 +142,7 @@ subtitle: Cocoan lab members
 </p>
 <br>
 <br>
-<br>
+
 
 <p id="Hongji"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -156,6 +162,8 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
 <br>
+
+
 
 
 <p id="Sooan"></p>
@@ -208,6 +216,8 @@ subtitle: Cocoan lab members
 
 <br>
 <br>
+
+
 
 <p id="Donghee"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -282,6 +292,7 @@ subtitle: Cocoan lab members
 <br>
 
 
+
 <p id="Myeonghun"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Myeonghun Beak</span></b>
@@ -292,6 +303,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+
 
 
 <p id="Jihoon"></p>
