@@ -303,10 +303,10 @@ subtitle: Cocoan lab members
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 10px">
-		<img src="/img/github-brands.png" width="auto" height="25" alt="github"/>
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
 	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 10px">
-		<img src="/img/homepage-icon.png" width="auto" height="25" alt="personal website"/>
+		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
 	</a> 
 </div>
 <br>
