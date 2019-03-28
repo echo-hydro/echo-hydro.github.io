@@ -12,13 +12,13 @@ subtitle: Cocoan lab members
 	Choong-Wan Woo
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com" style="margin-right: 10px">
+	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 10px">
+	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter" style="margin-right: 10px">
+	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
@@ -42,7 +42,7 @@ subtitle: Cocoan lab members
 	Lada Kohoutová
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:ladakohoutova@gmail.com"  target="_top" title="ladakohoutova@gmail.com" style="margin-right: 10px">
+	<a href="mailto:ladakohoutova@gmail.com"  target="_top" title="ladakohoutova@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -61,7 +61,7 @@ subtitle: Cocoan lab members
 	Jae-joong Lee
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:jaejoonglee92@gmail.com"  target="_top" title="jaejoonglee92@gmail.com" style="margin-right: 10px">
+	<a href="mailto:jaejoonglee92@gmail.com"  target="_top" title="jaejoonglee92@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -71,6 +71,7 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
 <br>
 
+<br>
 
 <p id="YongWook"></p>
 
@@ -78,7 +79,7 @@ subtitle: Cocoan lab members
 	YongWook Hong
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 10px">
+	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -91,18 +92,20 @@ subtitle: Cocoan lab members
 
 
 
+
+
 <p id="Byeol"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Byeol Kim
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com" style="margin-right: 10px">
+	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank" style="margin-right: 10px">
+	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 	
@@ -117,18 +120,20 @@ subtitle: Cocoan lab members
 <br>
 
 
+
+
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Suhwan Gim
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:suhwan.gim.psych@gmail.com"  target="_top" title="suhwan.gim.psych@gmail.com" style="margin-right: 10px">
+	<a href="mailto:suhwan.gim.psych@gmail.com"  target="_top" title="suhwan.gim.psych@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/suhwangim/" title="suhwan github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/suhwangim/" title="suhwan github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter" target="_blank" style="margin-right: 10px">
+	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter" target="_blank" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
@@ -149,10 +154,10 @@ subtitle: Cocoan lab members
 	Hong Ji Kim
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:hongji.eo.kim@gmail.com"  target="_top" title="hongji.eo.kim@gmail.com" style="margin-right: 10px">
+	<a href="mailto:hongji.eo.kim@gmail.com"  target="_top" title="hongji.eo.kim@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Hongjikim/" title="hongji github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/Hongjikim/" title="hongji github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
 </div>
@@ -165,19 +170,21 @@ subtitle: Cocoan lab members
 
 
 
+<br>
+<br>
 
 <p id="Sooan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Sooan Lee
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:pbc1159@gmail.com"  target="_top" title="pbc1159@gmail.com" style="margin-right: 10px">
+	<a href="mailto:pbc1159@gmail.com"  target="_top" title="pbc1159@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Soo-an/" title="sooan github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/Soo-an/" title="sooan github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/pbc1159/" title="sooan twitter" target="_blank" style="margin-right: 10px">
+	<a href="https://twitter.com/pbc1159/" title="sooan twitter" target="_blank" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
@@ -199,13 +206,13 @@ subtitle: Cocoan lab members
 	Sungwoo Lee
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com" style="margin-right: 10px">
+	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank" style="margin-right: 10px">
+	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
@@ -218,22 +225,25 @@ subtitle: Cocoan lab members
 <br>
 
 
+<br>
+
+
 
 <p id="Donghee"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Donghee Lee
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" style="margin-right: 10px">
+	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/leedh/" title="donghee github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/leedh/" title="donghee github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank" style="margin-right: 10px">
+	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a>
-	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank" style="margin-right: 10px">
+	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank" style="margin-right: 8px">
 		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
 	</a> 
 </div>
@@ -252,7 +262,7 @@ subtitle: Cocoan lab members
 	Jungwoo Kim
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com" style="margin-right: 10px">
+	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -277,7 +287,7 @@ subtitle: Cocoan lab members
 	Hyebin Kim
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:nutri0703@naver.com"  target="_top" title="nutri0703@naver.com" style="margin-right: 10px">
+	<a href="mailto:nutri0703@naver.com"  target="_top" title="nutri0703@naver.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -290,6 +300,8 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+
+
 
 
 
@@ -306,18 +318,20 @@ subtitle: Cocoan lab members
 
 
 
+
+
 <p id="Jihoon"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jihoon Han
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com" style="margin-right: 10px">
+	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com" style="margin-right: 8px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 10px">
+	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 10px">
+	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 8px">
 		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
 	</a> 
 </div>
