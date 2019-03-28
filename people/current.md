@@ -12,13 +12,13 @@ subtitle: Cocoan lab members
 	Choong-Wan Woo
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com" style="margin-right: 15px">
-		<img src="/img/email-icon.png" width="auto" height="20" alt="email"/>
+	<a href="mailto:choongwan.woo@gmail.com"  target="_top" title="choongwan.woo@gmail.com" style="margin-right: 10px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 15px">
+	<a href="https://github.com/wanirepo/" target="_blank" title="wani github" style="margin-right: 10px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter" style="margin-right: 15px">
+	<a href="https://twitter.com/choongwanwoo/" target="_blank" title="wani twitter" style="margin-right: 10px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
