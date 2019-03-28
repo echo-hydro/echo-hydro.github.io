@@ -14,10 +14,10 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
-<h2><span style="color: #0055A9;">preprint</span></h2>
-
-<p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding."<br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, <b>Jihoon Han</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b> &nbsp; <a href="https://www.biorxiv.org/content/10.1101/514521v2">bioRxiv</a> 
+<p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding."<br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, <b>Jihoon Han</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b>, <i>NeuroImage</i> &nbsp; <a href="https://www.biorxiv.org/content/10.1101/514521v2">bioRxiv</a> | <a href="https://github.com/cocoanlab/falsepositiveneuroimaging">Code</a> | <a href="http://cocoanlab.skku.edu/bayes_factor_bayesian_manova/">Web-based bayes factor calculator for MANOVA</a> 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/514521" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
+
+<h2><span style="color: #0055A9;">preprint</span></h2>
 
 
 <p id="Gordon2018"><b>2018</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*<sup>&para;</sup>, Marianne C. Reddan, Tor D. Wager<sup>&para;</sup> &nbsp; <a href="https://www.biorxiv.org/content/early/2018/07/04/361519">bioRxiv</a> 
