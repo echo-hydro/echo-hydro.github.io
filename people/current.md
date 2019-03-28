@@ -33,17 +33,16 @@ subtitle: Cocoan lab members
 
 
 <br>
-<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Graduate students</span></b>
 <hr>
 <p id="Lada"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20x; font-weight: bold;">
 	Lada Kohoutová
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:ladakohoutova@gmail.com"  target="_top" title="ladakohoutova@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:ladakohoutova@gmail.com"  target="_top" title="ladakohoutova@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -53,20 +52,17 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
 
 <br>
-<br>
 
 <p id="Jaejoong"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jae-joong Lee
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:jaejoonglee92@gmail.com"  target="_top" title="jaejoonglee92@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:jaejoonglee92@gmail.com"  target="_top" title="jaejoonglee92@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
-<br>
-<br>
 <br>
 
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
@@ -74,11 +70,11 @@ subtitle: Cocoan lab members
 <br>
 <p id="YongWook"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	YongWook Hong
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -88,22 +84,21 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
 
 <br>
-<br>
 
 
 <p id="Byeol"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Byeol Kim
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
+<div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank">
-		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank" style="margin-right: 10px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 	
 </div>
@@ -117,18 +112,18 @@ subtitle: Cocoan lab members
 <br>
 
 <p id="Suhwan"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Suhwan Gim
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:suhwan.gim.psych@gmail.com"  target="_top" title="suhwan.gim.psych@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:suhwan.gim.psych@gmail.com"  target="_top" title="suhwan.gim.psych@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/suhwangim/" title="suhwan github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/suhwangim/" title="suhwan github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter" target="_blank">
-		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	<a href="https://twitter.com/SuhwanGim/" title="suhwan twitter" target="_blank" style="margin-right: 10px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
 <br>
@@ -144,15 +139,15 @@ subtitle: Cocoan lab members
 <br>
 
 <p id="Hongji"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Hong Ji Kim
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:hongji.eo.kim@gmail.com"  target="_top" title="hongji.eo.kim@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hongji.eo.kim@gmail.com"  target="_top" title="hongji.eo.kim@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Hongjikim/" title="hongji github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/Hongjikim/" title="hongji github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
 </div>
 <br>
@@ -161,23 +156,21 @@ subtitle: Cocoan lab members
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
 <br>
-<br>
-<br>
 
 
 <p id="Sooan"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Sooan Lee
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:pbc1159@gmail.com"  target="_top" title="pbc1159@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:pbc1159@gmail.com"  target="_top" title="pbc1159@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Soo-an/" title="sooan github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/Soo-an/" title="sooan github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/pbc1159/" title="sooan twitter" target="_blank">
-		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	<a href="https://twitter.com/pbc1159/" title="sooan twitter" target="_blank" style="margin-right: 10px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
 <br>
@@ -194,18 +187,18 @@ subtitle: Cocoan lab members
 <hr>
 
 <p id="SungWoo"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Sungwoo Lee
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank">
-		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank" style="margin-right: 10px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a> 
 </div>
 <br>
@@ -215,24 +208,23 @@ subtitle: Cocoan lab members
 
 <br>
 <br>
-<br>
 
 <p id="Donghee"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Donghee Lee
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" >
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/leedh/" title="donghee github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/leedh/" title="donghee github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank">
-		<img src="/img/twitter-icon.png" width="auto" height="15" alt="twitter"/>
+	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank" style="margin-right: 10px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
 	</a>
-	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank">
-		<img src="/img/home-icon.png" width="auto" height="15" alt="personal website"/>
+	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank" style="margin-right: 10px">
+		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
 	</a> 
 </div>
 <br>
@@ -246,11 +238,11 @@ subtitle: Cocoan lab members
 
 <p id="JungWoo"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jungwoo Kim
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -271,11 +263,11 @@ subtitle: Cocoan lab members
 
 <p id="Hyebin"></p>
 
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Hyebin Kim
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:nutri0703@naver.com"  target="_top" title="nutri0703@naver.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:nutri0703@naver.com"  target="_top" title="nutri0703@naver.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
@@ -303,18 +295,18 @@ subtitle: Cocoan lab members
 
 
 <p id="Jihoon"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 10px; font-weight: bold;">
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jihoon Han
 </div>
-<div style="font-size: 15px !important; color: #555; float:left; margin-right: 10px;">
-	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com">
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com" style="margin-right: 10px">
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank">
-		<img src="/img/github-brands.png" width="auto" height="15" alt="github"/>
+	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 10px">
+		<img src="/img/github-brands.png" width="auto" height="25" alt="github"/>
 	</a>
-	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank">
-		<img src="/img/home-icon.png" width="auto" height="15" alt="personal website"/>
+	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 10px">
+		<img src="/img/homepage-icon.png" width="auto" height="25" alt="personal website"/>
 	</a> 
 </div>
 <br>
