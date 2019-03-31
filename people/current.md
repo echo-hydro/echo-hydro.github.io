@@ -399,9 +399,6 @@ subtitle: Cocoan lab members
 	Junhyeok Park
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:"  target="_top" title="" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
 </div>
 <br>
 
@@ -412,8 +409,6 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-<br>
-
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
