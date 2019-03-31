@@ -389,6 +389,27 @@ subtitle: Cocoan lab members
 <br>
 
 
+<p id="Junhyeok"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Junhyeok Park
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:"  target="_top" title="" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jun Hyeok is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University (SKKU). He is interested in studying how the human brain consciously plans and practices and he wants to try applying it to artificial intelligence based on research.</span>
+
+<br>
+<br>
+<br>
+<br>
+
+
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
