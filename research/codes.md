@@ -32,8 +32,10 @@ Codes for preprocessing human fmri data collected in the cocoanlab (Matlab)<br>
 <h4>Publications</h4>
 <br>
 
-<span style="font-size: 15px !important;">
-Woo, C.-W. & Wager, T. D. 2015, What reliability can and cannot tell us about pain report and pain neuroimaging. <i>PAIN.</i> <a href="https://github.com/wanirepo/Woo_TRR_commentary_PAIN">Code</a> | <a href="/pdfs/Woo_2015_PAIN_TRR.pdf">Paper</a><br>
+Hong, Y., Yoo, Y., Han, J. Wager, T. D., & Woo, C.-W. 2019, False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding. <i>NeuroImage</i> <a href="https://github.com/cocoanlab/falsepositiveneuroimaging">Code</a> | <a href="https://doi.org/10.1016/j.neuroimage.2019.03.070">Paper</a><br>
+<br>
+Woo, C.-W. & Wager, T. D. 2015, What reliability can and cannot tell us about pain report and 
+pain neuroimaging. <i>PAIN.</i> <a href="https://github.com/wanirepo/Woo_TRR_commentary_PAIN">Code</a> | <a href="/pdfs/Woo_2015_PAIN_TRR.pdf">Paper</a><br>
 <br>
 Woo et al. 2014, Cluster-extent based thresholding in fMRI analyses: Pitfalls and recommendations. <i>NeuroImage.</i> <a href="https://github.com/wanirepo/Woo_2014_Neuroimage">Code</a> | <a href="/pdfs/Woo_2014_Neuroimage.pdf">Paper</a><br>
 <br></span>  
