@@ -332,11 +332,11 @@ subtitle: Cocoan lab members
 	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 8px">
 		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
 	</a>
-	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 8px">
-		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
-	</a>
 	<a href="https://twitter.com/hahnz_/" title="jihoon twitter" target="_blank" style="margin-right: 8px">
 		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
+	</a>
+	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 8px">
+		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
 	</a>
 </div>
 <br>
