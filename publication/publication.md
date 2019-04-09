@@ -19,12 +19,14 @@ subtitle: Cocoan lab publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neuroimage.2019.03.070" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.03.070" data-style="small_circle" style="display: inline-block;"></span></p> 
 
+
+<p id="Gordon2019"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager, <i>PAIN</i>  &nbsp; <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> 
+<br>*co-first authors
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
+
 <h2><span style="color: #0055A9;">preprint</span></h2>
 
 
-<p id="Gordon2018"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager &nbsp; <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> 
-<br>*co-first authors
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
 
 <h2><span style="color: #0055A9;">2019</span></h2>
 
