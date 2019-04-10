@@ -24,7 +24,7 @@ subtitle: Cocoan lab publications and links to papers
 <br>*co-first authors
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed"></div> </span></p> 
 
-<h2><span style="color: #0055A9;">preprint</span></h2>
+<!--<h2><span style="color: #0055A9;">preprint</span></h2>-->
 
 
 
