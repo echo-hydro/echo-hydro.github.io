@@ -414,6 +414,28 @@ subtitle: Cocoan lab members
 <br>
 <br>
 
+
+<p id="Eunjin"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Eunjin Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:gracelee98@naver.com"  target="_top" title="gracelee98@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Eun Jin is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Child Psychology & Education at Sungkyunkwan University. She is broadly interested in human behavior and neuroscience. She wants to study neuro mechanisms which are related to negative emotions.</span>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
 
