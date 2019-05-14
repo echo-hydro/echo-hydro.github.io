@@ -362,7 +362,7 @@ subtitle: Cocoan lab members
 </div>
 <br>
 
-<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/SongSH.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">SeokHo is an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is interested in human psychology, especially emotions and social relationships.</span>
 
 <br>
@@ -405,7 +405,7 @@ subtitle: Cocoan lab members
 </div>
 <br>
 
-<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/ParkJH.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jun Hyeok is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in how the human brain performs day-to-day planning and execution to achieve goals. He also wants to build better artificial intelligence based on neuroscience research.</span>
 
 <br>
