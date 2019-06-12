@@ -202,6 +202,23 @@ subtitle: Cocoan lab members
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
 
+
+<p id="Nicky"></p>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Nicolette Boesen
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+
+</div>
+<br>
+
+<img src="/people/images/Nicky.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;"> Nicolette(Nicky) is a post-master research assistant in the Cocoan lab. She joined in the summer of 2019. She received her BS in cognitive and clinical neuropsychology and her MS in neurosciences from VU University Amsterdam. She is interested in a broad range of research topics within the fields of psychology and neurosciences and hopes to acquire new skills and develop herself within the research field.</span>
+
+<br>
+<br>
+<br>
+
 <p id="SungWoo"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Sungwoo Lee
