@@ -12,6 +12,8 @@ subtitle: Cocoan lab publications and links to papers
 <br><sup>u</sup> undergrad students
 </span>
 
+
+
 <h2><span style="color: #BD0026;">in press</span></h2>
 
 <p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding."<br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, <b>Jihoon Han</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b>, <i>NeuroImage</i> &nbsp; <a href="https://doi.org/10.1016/j.neuroimage.2019.03.070">NeuroImage</a> | <a href="/pdfs/Hong2019_NeuroImage.pdf">PDF</a> | <a href="https://www.biorxiv.org/content/10.1101/514521v2">bioRxiv</a> | <a href="https://github.com/cocoanlab/falsepositiveneuroimaging">Code</a> | <a href="http://cocoanlab.skku.edu/bayes_factor_bayesian_manova/">Web-based bayes factor calculator for MANOVA</a></span> 
