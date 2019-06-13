@@ -219,7 +219,7 @@ subtitle: Cocoan lab members
 
 <p>
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Nicky_201906.pdf" target="_blank">CV</a></span>
-
+</p>	
 <br>
 <br>
 <br>
