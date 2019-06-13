@@ -208,12 +208,17 @@ subtitle: Cocoan lab members
 	Nicolette Boesen
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-
+	<a href="mailto:nickyboesen95@gmail.com"  target="_top" title="nickyboesen95@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
 </div>
 <br>
 
 <img src="/people/images/Nicky.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;"> Nicolette(Nicky) is a post-master research assistant in the Cocoan lab. She joined in the summer of 2019. She received her BS in cognitive and clinical neuropsychology and her MS in neurosciences from VU University Amsterdam. She is interested in a broad range of research topics within the fields of psychology and neurosciences and hopes to acquire new skills and develop herself within the research field.</span>
+
+<p>
+	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Nicky_201906.pdf" target="_blank">CV</a></span>
 
 <br>
 <br>
