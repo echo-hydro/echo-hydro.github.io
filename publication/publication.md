@@ -28,6 +28,12 @@ subtitle: Cocoan lab publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1097/j.pain.0000000000001621" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1097/j.pain.0000000000001621" data-style="small_circle" style="display: inline-block;"></span></p> 
 
+
+<span style="font-size: 15px !important; color: #BD0026;">Video abstract</span>
+
+<center><iframe width="600" height="338" src="https://www.youtube.com/embed/R1QtvyAt-F8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+
 <!--<h2><span style="color: #0055A9;">preprint</span></h2>-->
 
 
