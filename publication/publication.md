@@ -16,12 +16,6 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
-<p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding."<br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, <b>Jihoon Han</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b>, <i>NeuroImage</i>, <b>195</b>, 384-395 &nbsp; <a href="https://doi.org/10.1016/j.neuroimage.2019.03.070">NeuroImage</a> | <a href="/pdfs/Hong2019_NeuroImage.pdf">PDF</a> | <a href="https://www.biorxiv.org/content/10.1101/514521v2">bioRxiv</a> | <a href="https://github.com/cocoanlab/falsepositiveneuroimaging">Code</a> | <a href="http://cocoanlab.skku.edu/bayes_factor_bayesian_manova/">Web-based bayes factor calculator for MANOVA</a></span> 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/514521" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neuroimage.2019.03.070" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.03.070" data-style="small_circle" style="display: inline-block;"></span></p> 
-
-
 <p id="Gordon2019"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 13px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager, <i>PAIN</i>  &nbsp; <a href="https://journals.lww.com/pain/Abstract/publishahead/Cognitive_self_regulation_influences_pain_related.98669.aspx">PAIN</a> | <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> | <a href="https://www.youtube.com/watch?v=R1QtvyAt-F8">Video abstract</a> | <a href="https://github.com/canlab/cognitive_regulation_physiology">Code</a>
 <br>*co-first authors</span>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/361519" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
@@ -39,6 +33,12 @@ subtitle: Cocoan lab publications and links to papers
 
 
 <h2><span style="color: #0055A9;">2019</span></h2>
+
+<p id="Hong2019"><b>2019</b> "False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding."<br><span style="font-size: 13px !important; color: #555;"><b>YongWook Hong</b><sup>g</sup>, <b>Yejong Yoo</b><sup>u</sup>, <b>Jihoon Han</b><sup>u</sup>, Tor D. Wager, <b>Choong-Wan Woo</b>, <i>NeuroImage</i>, <b>195</b>, 384-395 &nbsp; <a href="https://doi.org/10.1016/j.neuroimage.2019.03.070">NeuroImage</a> | <a href="/pdfs/Hong2019_NeuroImage.pdf">PDF</a> | <a href="https://www.biorxiv.org/content/10.1101/514521v2">bioRxiv</a> | <a href="https://github.com/cocoanlab/falsepositiveneuroimaging">Code</a> | <a href="http://cocoanlab.skku.edu/bayes_factor_bayesian_manova/">Web-based bayes factor calculator for MANOVA</a></span> 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/514521" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neuroimage.2019.03.070" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.03.070" data-style="small_circle" style="display: inline-block;"></span></p> 
+
 
 <p id="Neuron_Jeong2019"><b>2019</b> "Korea Brain Initiative: Emerging Issues and Institutionalization of Neuroethics."<br><span style="font-size: 13px !important; color: #555;">Sung-Jin Jeong, In Young Lee, Bang Ook Jun, Young-Joon Ryu, Jeong-woo Sohn, Sung-Phil Kim, <b>Choong-Wan Woo</b>, Ja Wook Koo, Il-Joo Cho, Uhtaek Oh, Kyungjin Kim, and Pann-Ghill Suh, <i>Neuron</i>, <b>101</b> (3), 390-393 &nbsp; <a href="https://www.cell.com/neuron/fulltext/S0896-6273(19)30069-8">Neuron</a> | <a href="/pdfs/Jeong_et_al_2019_Neuron.pdf">PDF</a> </span></p>
 
