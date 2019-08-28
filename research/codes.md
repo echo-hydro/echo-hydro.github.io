@@ -13,6 +13,9 @@ subtitle: Tools and codes
 <h4>Neuroimaging analyses</h4>
 <br>
 <span style="font-size: 15px !important;">
+<a href="https://github.com/cocoanlab/khbm2019_RSA_tutorial">RSA tutorial</a>: Slides, codes, and data for a tutorial session at 2019 KHBM summer school<br>
+<br>
+
 <a href="http://cocoanlab.skku.edu/bayes_factor_bayesian_manova/">Bayes Factor Calculator</a> for Bayesian MANOVA: This is designed for a specific type of data--x, y, z, and group information. We made this for fMRI data to test whether two conditions or studies activate same or different peak locations.<br>
 <br>
 <a href="https://github.com/cocoanlab/humanfmri_preproc_bids">CocoPrep</a>: 
