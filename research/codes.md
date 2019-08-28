@@ -38,6 +38,9 @@ Codes for preprocessing human fmri data collected in the cocoanlab (Matlab)<br>
 <br>
 
 <span style="font-size: 15px !important;">
+Matthewson, G., Woo, C.-W., Reddan, M. C., & Wager, T. D. (2019). Cognitive self-regulation influences pain-related physiology. <i>Pain</i>. <a href="https://github.com/canlab/cognitive_regulation_physiology">Code</a> | <a href="https://journals.lww.com/pain/Abstract/publishahead/Cognitive_self_regulation_influences_pain_related.98669.aspx">Paper</a> | <a href="https://www.youtube.com/watch?v=R1QtvyAt-F8">Video abstract</a>
+<br>
+<br>
 Hong, Y., Yoo, Y., Han, J. Wager, T. D., & Woo, C.-W. 2019, False-positive neuroimaging: Undisclosed flexibility in testing spatial hypotheses allows presenting anything as a replicated finding. <i>NeuroImage</i> <a href="https://github.com/cocoanlab/falsepositiveneuroimaging">Code</a> | <a href="https://doi.org/10.1016/j.neuroimage.2019.03.070">Paper</a><br>
 <br>
 Woo, C.-W. & Wager, T. D. 2015, What reliability can and cannot tell us about pain report and 
