@@ -147,6 +147,31 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+
+
+<p id="SungWoo"></p>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Sungwoo Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
+	</a>
+	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank" style="margin-right: 8px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
+	</a> 
+</div>
+<br>
+
+<img src="/people/images/LeeSW.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Sungwoo is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2018 summer and entered the graduate school 2019 summer. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in deep learning and computational models of pain and emotions. He is currently leading a project, called the Midnight Pain Club! </span>
+
+<br>
+<br>
+<br>
 <br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
@@ -199,34 +224,6 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-
-
-<p id="SungWoo"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Sungwoo Lee
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:sungwoo320@gmail.com"  target="_top" title="sungwoo320@gmail.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/sungwoo320/" title="sungwoo github" target="_blank" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/sungwoo320/" title="sungwoo twitter" target="_blank" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
-	</a> 
-</div>
-<br>
-
-<img src="/people/images/LeeSW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Sungwoo is a postbac RA in the Cocoan lab. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in computational mechanism of neural activity such as pain and pleasure. He wants to build computational predictive models of emotions.</span>
-
-<br>
-<br>
-
-
-<br>
-
 
 
 <p id="Donghee"></p>
