@@ -73,56 +73,6 @@ subtitle: Cocoan lab members
 
 <br>
 
-<p id="YongWook"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	YongWook Hong
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-</div>
-<br>
-
-<img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">YongWook is a graduate student in the Cocoan lab. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is currently working on a project highlighting an important methodological issue related to replicability crisis in human fMRI neuroimaging studies. </span>
-
-<br>
-
-<br>
-
-
-
-<p id="Byeol"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Byeol Kim
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
-	</a> 
-	
-</div>
-<br>
-
-<img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
-
-<br>
-<br>
-<br>
-
-
-
-<br>
-
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Suhwan Gim
@@ -223,6 +173,33 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+
+
+<p id="Byeol"></p>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Byeol Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:roadndream@naver.com"  target="_top" title="roadndream@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/ByeolEtoileKim/" title="byeol github" target="_blank" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
+	</a>
+	<a href="https://twitter.com/ByeolEtoileKim/" title="byeol twitter" target="_blank" style="margin-right: 8px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
+	</a> 
+	
+</div>
+<br>
+
+<img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer and received a Master's degree 2019 summer. She will stay in the lab as a post-master research assistant for a while. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
+
+<br>
+<br>
+<br>
+
 
 <p id="SungWoo"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">

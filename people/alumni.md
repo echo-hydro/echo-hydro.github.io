@@ -8,6 +8,30 @@ subtitle: Cocoan lab alumni
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
 
+<p id="YongWook"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	YongWook Hong
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<br>
+
+<img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">YongWook was a graduate student in the Cocoan lab and received a Master's degree 2019 summer. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is planning to apply for graduate schools in the US.</span>
+
+<br>
+
+<br>
+
+
+
+<br>
+
+
 <p id="Jinwon"></p>
 
 <b><span style="font-size: 20px !important; color: #0055A9;">Jinwon Park</span></b>
