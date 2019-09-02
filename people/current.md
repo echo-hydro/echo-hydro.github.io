@@ -247,7 +247,7 @@ subtitle: Cocoan lab members
 <br>
 
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Donghee is a lab manager of the Cocoan Lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
+<span style="font-size: 15px !important; color: #555;">Donghee was a lab manager of the Cocoan Lab. Now He is a postbac RA in the Cocoan lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
 <br>
 <br>
@@ -266,7 +266,7 @@ subtitle: Cocoan lab members
 <br>
 
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jungwoo is a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
+<span style="font-size: 15px !important; color: #555;">Jungwoo is a lab manager and a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
 <br>
 <br>
