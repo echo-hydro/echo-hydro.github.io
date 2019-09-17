@@ -12,7 +12,6 @@
 - Easy to collect new data and test new ideas
 - Independence 
 
-<br>
 ### Weaknesses
 * Independence again, a small number of collaborations going on within the lab; not enough intergroup discussions, lack of inter-lab collaborations
 * not many experts in the lab (e.g., no postdocs), and our group is already big (a bottleneck exists)
@@ -22,14 +21,12 @@
 * A majority of projects are at the same stage (the “analysis” phase)
 * Each research has different perspectives and goals; difficult to be integrated into one big picture
 
-<br>
 ### Threats
 * Each project takes long time, while the field is changing rapidly; difficult to catch up
 * Data—storage and computational resources
 * Analysis tools are changing too rapidly
 * Difficult to know what is going on at the center of the field
 
-<br>
 ### Opportunities
 * We're a part of a big center; we can easily collect large data and have an access to good computing resources
 * Collaborations with many other researchers with different modalities can be possible
@@ -39,10 +36,8 @@
 * Good networking in the field 
 
 
-<br>
 ### BIG questions 
 
-<br>
 #### that We ARE asking:
 * Can we accurately measure pain and emotions through the brain; what is the upper bound of model performance?
 * Can we make brain models of emotions, affects, and concepts that are subjective and abstract?
@@ -51,7 +46,6 @@
 * Building personalized models of pain and emotions
 * real-life pain and emotions
 
-<br>
 #### that we WILL be asking
 * (we ended this lab activity with the promise that we will keep thinking about this question, what are the big questions that we will be asking!)
 
