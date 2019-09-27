@@ -31,3 +31,9 @@ subtitle: Computational Cognitive Affective Neuroscience Laboratory
 	- <span style="font-size: 15px !important;">Feel free to email Wani to ask about job openings in the lab.</span>
 
 <span style="font-size: 16px !important;">If you are interested in participating our experiments, [please visit here.](/research/participation)</span>
+
+<br>
+
+<span style="font-size: 16px !important;"><u>Cocoan Lab Research Diagram</u></span>
+
+<center><img src="img/cocoan_research_diagram.jpg" width="350" align="center"/></center>
