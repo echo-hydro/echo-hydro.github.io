@@ -61,6 +61,7 @@ subtitle: Useful materials and links
 <a href="https://statweb.stanford.edu/~tibs/ElemStatLearn/">The Elements of Statistical Learning (Hastie, Tibshirani, Friedman, 2009)</a>: Good textbook for statistical/machine learning<br>
 <a href="https://www.youtube.com/channel/UC4OWDcPB1peiBXDfCSZ3h-w">Video lectures for Statistical Learning (youtube)</a> (by Hastie and Tibshirani)<br>
 <a href="https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8">Video lectures for Linear Algebra (youtube)</a> taught by Prof. Gilbert Strang<br>
+<a href="https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k">MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning</a> taught by Prof. Gilbert Strang<br>
 
 <a href="https://www.mathworks.com/campaigns/products/offer/machine-learning-with-matlab.html?s_tid=%20nd_bb15">Machine learning with Matlab</a>: free ebook (it's more like a brochure, though).<br>
 <a href="http://scikit-learn.org/stable/">Scikit-learn</a>: Machine Learning in Python<br>
@@ -74,6 +75,7 @@ subtitle: Useful materials and links
 
 <span style="font-size: 15px !important;">
 
+<a href="https://braininspired.co/">Brain Inspired</a>: My favorite! "A podcast where neuroscience and AI converge." <br>
 <a href="http://brainpodcast.com">Brain Matters</a>: This podcast is so much fun. This podcast provides interesting interviews with real neuroscientists.<br>
 <a href="http://www.thetalkingmachines.com/">Talking Machines</a>: Podcast about machine learning<br>
 <a href="http://www.npr.org/programs/invisibilia/">Invisibilia</a>: NPR podcast about invisible forces that control human behavior – ideas, beliefs, assumptions and emotions.<br>
