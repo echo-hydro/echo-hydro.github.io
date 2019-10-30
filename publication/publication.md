@@ -16,6 +16,15 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
+<p id="Lada2019"><b>2019</b> "Interpreting machine learning models in neuroimaging: Towards a unified framework" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>
+<br>*co-corresponding authors</span></p> 
+
+
+<p id="Losin2019"><b>2019</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager</span></p> 
+
+
+<p id="Lim2019"><b>2019</b> "Individual-level lesion-network mapping to visualize stroke lesion effects on the brain network" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim, <b>Jae-Joong Lee <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee</span></p> 
+
 <h2><span style="color: #0055A9;">2019</span></h2>
 
 <p id="Gordon2019"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 14px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager, <i>PAIN</i>, <b>160</b>, 2338–2349  &nbsp; <a href="https://journals.lww.com/pain/Abstract/publishahead/Cognitive_self_regulation_influences_pain_related.98669.aspx">PAIN</a> | <a href="/pdfs/Matthewson_etal_2019.pdf">PDF</a> | <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> | <a href="https://www.youtube.com/watch?v=R1QtvyAt-F8">Video abstract</a> | <a href="https://github.com/canlab/cognitive_regulation_physiology">Code & Data</a>
