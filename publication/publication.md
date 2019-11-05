@@ -23,7 +23,8 @@ subtitle: Cocoan lab publications and links to papers
 <p id="Losin2019"><b>2019</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager</span></p> 
 
 
-<p id="Lim2019"><b>2019</b> "Individual-level lesion-network mapping to visualize stroke lesion effects on the brain network" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim, <b>Jae-Joong Lee <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee</span></p> 
+<p id="Lim2019"><b>2019</b> "Individual-level lesion-network mapping to visualize stroke lesion effects on the brain network" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee
+<br>*co-first authors</span></p> </span></p> 
 
 <h2><span style="color: #0055A9;">2019</span></h2>
 
