@@ -24,7 +24,10 @@ subtitle: Cocoan lab publications and links to papers
 
 
 <p id="Lim2019"><b>2019</b> "Individual-level lesion-network mapping to visualize stroke lesion effects on the brain network" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee
-<br>*co-first authors</span></p> </span></p> 
+<br>*co-first authors</span></p>
+
+<p id="Zheng2019"><b>2019</b> "Pain-Evoked Reorganization in Functional
+Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i></span></p> 
 
 <h2><span style="color: #0055A9;">2019</span></h2>
 
