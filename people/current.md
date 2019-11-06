@@ -381,7 +381,7 @@ subtitle: Cocoan lab members
 </div>
 <br>
 
-<img src="/people/images/HanJY.jpg" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/HanJY.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Ji Yoon is an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is broadly interested in fMRI, cognitive science and neuroscience. Now her goal is to apply computational methods to neuroscience research.</span>
 
 <br>
