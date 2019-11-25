@@ -8,6 +8,30 @@ subtitle: Cocoan lab alumni
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
 
+
+<p id="Jiyoon"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jiyoon Han
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hanjiyoon1104@gmail.com"  target="_top" title="hanjiyoon1104@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<br>
+
+<img src="/people/images/HanJY.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Ji Yoon is an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is broadly interested in fMRI, cognitive science and neuroscience. Now her goal is to apply computational methods to neuroscience research.</span>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <p id="YongWook"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
