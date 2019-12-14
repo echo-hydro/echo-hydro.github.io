@@ -31,6 +31,8 @@ subtitle: Cocoan lab publications and links to papers
 <p id="Zheng2019"><b>2019</b> "Pain-Evoked Reorganization in Functional
 Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i> &nbsp; <a href="https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhz276/5669985?redirectedFrom=fulltext">Cerebral Cortex</a> | <a href="/pdfs/Zheng2019_CerCor.pdf">PDF</a>
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/cercor/bhz276" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhz276" data-style="small_circle" style="display: inline-block;"></span></p> 
 
 
 <p id="Gordon2019"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 14px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager, <i>PAIN</i>, <b>160</b>, 2338–2349  &nbsp; <a href="https://journals.lww.com/pain/Abstract/publishahead/Cognitive_self_regulation_influences_pain_related.98669.aspx">PAIN</a> | <a href="/pdfs/Matthewson_etal_2019.pdf">PDF</a> | <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> | <a href="https://www.youtube.com/watch?v=R1QtvyAt-F8">Video abstract</a> | <a href="https://github.com/canlab/cognitive_regulation_physiology">Code & Data</a>
