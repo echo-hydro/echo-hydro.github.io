@@ -29,7 +29,7 @@ subtitle: Cocoan lab publications and links to papers
 <h2><span style="color: #0055A9;">2019</span></h2>
 
 <p id="Zheng2019"><b>2019</b> "Pain-Evoked Reorganization in Functional
-Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i> &nbsp; <a href="https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhz276/5669985?redirectedFrom=fulltext">Cerebral Cortex</a> | <a href="/pdfs/Zheng2019_CerCor.pdf">PDF</a>
+Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i> &nbsp; <a href="https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhz276/5669985?redirectedFrom=fulltext">Cerebral Cortex</a> | <a href="/pdfs/Zheng2019_CerCor.pdf">PDF</a></span>
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/cercor/bhz276" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhz276" data-style="small_circle" style="display: inline-block;"></span></p> 
