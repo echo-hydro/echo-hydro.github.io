@@ -24,12 +24,14 @@ subtitle: Cocoan lab publications and links to papers
 
 
 <p id="Lim2019"><b>2019</b> "Individual-level lesion-network mapping to visualize stroke lesion effects on the brain network" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee
-<br>*co-first authors</span></p>
-
-<p id="Zheng2019"><b>2019</b> "Pain-Evoked Reorganization in Functional
-Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i></span></p> 
+<br>*co-first authors</span></p> 
 
 <h2><span style="color: #0055A9;">2019</span></h2>
+
+<p id="Zheng2019"><b>2019</b> "Pain-Evoked Reorganization in Functional
+Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i> &nbsp; <a href="https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhz276/5669985?redirectedFrom=fulltext">Cerebral Cortex</a> | <a href="/pdfs/Zheng2019_CerCor.pdf">PDF</a>
+
+
 
 <p id="Gordon2019"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 14px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager, <i>PAIN</i>, <b>160</b>, 2338–2349  &nbsp; <a href="https://journals.lww.com/pain/Abstract/publishahead/Cognitive_self_regulation_influences_pain_related.98669.aspx">PAIN</a> | <a href="/pdfs/Matthewson_etal_2019.pdf">PDF</a> | <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> | <a href="https://www.youtube.com/watch?v=R1QtvyAt-F8">Video abstract</a> | <a href="https://github.com/canlab/cognitive_regulation_physiology">Code & Data</a>
 <br>*co-first authors</span>
