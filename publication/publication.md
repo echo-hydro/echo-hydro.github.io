@@ -16,7 +16,8 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
-<p id="Lada2019"><b>2019</b> "Interpreting machine learning models in neuroimaging: Towards a unified framework" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>
+<p id="Lada2019"><b>2019</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
+
 <br>*co-corresponding authors</span></p> 
 
 
