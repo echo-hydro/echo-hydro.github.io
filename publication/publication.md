@@ -27,8 +27,8 @@ subtitle: Cocoan lab publications and links to papers
 
 <p id="Lim2019"><b>2020</b> "Individual-Level Lesion-Network Mapping to Visualize the Effects of a Stroke Lesion on the Brain Network: Connectograms in Stroke Syndromes" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee, <i>Journal of Clinical Neurology</i> &nbsp; <a href="https://thejcn.com/DOIx.php?id=10.3988/jcn.2020.16.1.116">JCN</a> | <a href="/pdfs/Lim2020_JCN.pdf">PDF</a>
 <br>*co-first authors</span>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3988/jcn.2020.16.1.116" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.3988/jcn.2020.16.1.116" data-style="small_circle" style="display: inline-block;"></span></p> 
+<!--<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3988/jcn.2020.16.1.116" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.3988/jcn.2020.16.1.116" data-style="small_circle" style="display: inline-block;"></span></p> -->
 
 <h2><span style="color: #0055A9;">2019</span></h2>
 
