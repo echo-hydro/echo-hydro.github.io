@@ -16,16 +16,19 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
-<p id="Lada2019"><b>2019</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
+<p id="Lada2019"><b>2020</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
 
 <br>*co-corresponding authors</span></p> 
 
 
-<p id="Losin2019"><b>2019</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i></span></p> 
+<p id="Losin2019"><b>2020</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i></span></p> 
 
+<h2><span style="color: #0055A9;">2020</span></h2>
 
-<p id="Lim2019"><b>2019</b> "Individual-level lesion-network mapping to visualize stroke lesion effects on the brain network" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee, <i>Journal of Clinical Neurology</i>
-<br>*co-first authors</span></p> 
+<p id="Lim2019"><b>2020</b> "Individual-Level Lesion-Network Mapping to Visualize the Effects of a Stroke Lesion on the Brain Network: Connectograms in Stroke Syndromes" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee, <i>Journal of Clinical Neurology</i> &nbsp; <a href="https://thejcn.com/DOIx.php?id=10.3988/jcn.2020.16.1.116">JCN</a> | <a href="/pdfs/Lim2020_JCN.pdf">PDF</a>
+<br>*co-first authors</span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3988/jcn.2020.16.1.116" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.3988/jcn.2020.16.1.116" data-style="small_circle" style="display: inline-block;"></span></p> 
 
 <h2><span style="color: #0055A9;">2019</span></h2>
 
