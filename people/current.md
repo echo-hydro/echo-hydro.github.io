@@ -51,10 +51,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/Lada.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Lada is a graduate student in the Cocoan lab. She joined the lab in summer 2017 as a post-master researcher, and she decided to do her PhD here starting in spring 2019. She received her BS and MS in electrical engineering from Czech Technical University. Her research interests include computational methods in neuroscience and their application in biomarker development. She is also interested in individual variations in brain activity. She is currently working on a project aimed to enhance interpretability of computational models in neuroimaging.</span>
 
-<br>
-<br>
-
-
+<br><br><br><br><br>
 
 <p id="Jaejoong"></p>
 
@@ -70,8 +67,8 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
-<br>
-<br>
+
+<br><br><br><br><br>
 
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -96,9 +93,8 @@ subtitle: Cocoan lab members
 <p>
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf" target="_blank">CV</a></span>
 </p>
-<br>
-<br>
-<br>
+
+<br><br><br><br><br>
 
 <p id="Hongji"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -117,12 +113,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimHJ.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Hong Ji is a graduate student in the Cocoan lab. During undergrad, she double-majored in Biological science and Psychology. She is currently interested in understanding the links between neuroscience and social psychology, especially human motivation such as belonging motivation, self, intrinsic motivation, and regulatory fit. Understanding differences in neural representations of different types of pain--e.g., psychological, social, and physical--is also her interest.</span>
 
-<br>
-
-
-
-<br>
-<br>
+<br><br><br><br><br>
 
 <p id="Sooan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -147,7 +138,8 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 <p id="SungWoo"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -169,6 +161,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeSW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sungwoo is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2018 summer and entered the graduate school 2019 summer. He received B.A. in Psychology at Catholic University of Korea and is taking another B.S. course in Computer science and Statistics at Korea National Open University. He is interested in deep learning and computational models of pain and emotions. He is currently leading a project, called the Midnight Pain Club! </span>
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -195,10 +189,12 @@ subtitle: Cocoan lab members
 <p>
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Nicky_201906.pdf" target="_blank">CV</a></span>
 </p>	
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p id="Byeol"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -221,6 +217,8 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimB.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Byeol joined the Cocoan lab as a graduate student since the 2017 summer and received a Master's degree 2019 summer. She will stay in the lab as a post-master research assistant for a while. She majored in astronomy and psychology at Yonsei University. She is interested in the neural mechanisms underlying the effects of social contexts and factors on subjective pain. She is currently working on a project developing computational models for the dynamics of internal thoughts. </span>
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -252,6 +250,8 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <p id="JungWoo"></p>
 
@@ -268,7 +268,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a lab manager and a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
-<br>
 <br>
 <br>
 <br>
@@ -299,7 +298,7 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-<br>
+
 
 <p id="Jihoon"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -364,7 +363,12 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeEJ.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Eun Jin is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Child Psychology & Education at Sungkyunkwan University. She is broadly interested in human behavior and neuroscience. She wants to study neuro mechanisms which are related to negative emotions.</span>
 
-<br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
