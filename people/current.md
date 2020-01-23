@@ -256,6 +256,8 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
