@@ -9,6 +9,61 @@ subtitle: Cocoan lab alumni
 <hr>
 
 
+<p id="Myeonghun"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Myeonghun Beak</span></b>
+
+<img src="/people/images/MBeak.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Myeonghun is an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
+
+<br>
+<br>
+<br>
+<br>
+
+<p id="Seokho"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Seokho Song
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:tjrgh08@naver.com"  target="_top" title="tjrgh08@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<br>
+
+<img src="/people/images/SongSH.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">SeokHo is an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is interested in human psychology, especially emotions and social relationships.</span>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p id="Minseo"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Minseo Shin
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:imsms1465@naver.com"  target="_top" title="imsms1465@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">MinSeo is an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is interested in fMRI and effect of drugs on the brain.</span>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p id="Jiyoon"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
