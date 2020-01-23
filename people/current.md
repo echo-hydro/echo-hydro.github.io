@@ -298,6 +298,8 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+<br>
+
 
 <p id="Jihoon"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -369,8 +371,9 @@ subtitle: Cocoan lab members
 <br>
 
 
-<hr>
+
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
+<hr>
 <span style="font-size: 15px !important; color: #0055A9;">Within CNIR</span>
 
 <li><span style="font-size: 15px !important; color: #555;">Dr. Yubu Lee, Research professor: Affective computing, fMRI data analysis, facial expression analyses</span></li>
