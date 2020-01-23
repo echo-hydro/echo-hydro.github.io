@@ -149,7 +149,7 @@ Catherine was a postdoc in the Cocoan lab. She was interested in identifying neu
 <img src="/people/images/TKim.JPG" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Taenyun was an undergrad research assistant in the Cocoan lab. He majored Psychology at Sungkyunkwan University. He is interested in human decision-making processes and social cognition, and their neural basis. He also wants to know about the interference of pains when persons make choices. His goal is to identify the mechanisms of human decision-making processes and find the way to improve them for better outcomes. </span>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Jin"></p>
 
