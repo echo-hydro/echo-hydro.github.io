@@ -363,9 +363,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeEJ.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Eun Jin is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Child Psychology & Education at Sungkyunkwan University. She is broadly interested in human behavior and neuroscience. She wants to study neuro mechanisms which are related to negative emotions.</span>
 
-<br>*5
-
-
+<br><br><br><br><br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Collaborators</span></b>
 <hr>
