@@ -337,7 +337,70 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/LeeEJ.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Eun Jin is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Child Psychology & Education at Sungkyunkwan University. She is broadly interested in human behavior and neuroscience. She wants to study neuro mechanisms which are related to negative emotions.</span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<p id="Jisu"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jisu Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jisu is an undergrad RA in the cocoan lab. More details about Jisu will be added soon. </span>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p id="Sueyoung"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Sueyoung Park
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Sueyoung is an undergrad RA in the cocoan lab. More details about Sueyoung will be added soon. </span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p id="Suyoung"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Suyoung Oh
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Suyoung is an undergrad RA in the cocoan lab. More details about Suyoung will be added soon. </span>
+
+<br>
+<br>
 <br>
 <br>
 <br>
