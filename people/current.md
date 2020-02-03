@@ -364,11 +364,14 @@ subtitle: Cocoan lab members
 	Jisu Lee
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:zsu904@gmail.com"  target="_top" title="zsu904@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
 </div>
 <br>
 
-<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jisu is an undergrad RA in the cocoan lab. More details about Jisu will be added soon. </span>
+<img src="/people/images/LeeJS.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;"> Jisu is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Brain&cognitive engineering at Chungbuk National University. She is interested in Psychopathology and underlying neural systems specifically about depression. </span>
 
 <br>
 <br>
@@ -410,11 +413,14 @@ subtitle: Cocoan lab members
 	Suyoung Oh
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="dhtndud1@g.skku.edu "  target="_top" title="dhtndud1@g.skku.edu" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
 </div>
 <br>
 
-<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Suyoung is an undergrad RA in the cocoan lab. More details about Suyoung will be added soon. </span>
+<img src="/people/images/OhSY.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;"> Su Young is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in Brain-Machine Interface(BMI) technology. He also wants to develop a technique which artificial skin can feel pain more elaborately. </span>
 
 <br>
 <br>
