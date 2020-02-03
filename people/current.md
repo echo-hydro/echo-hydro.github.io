@@ -68,7 +68,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeJJ_cnir.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jae-joong is a graduate student in the Cocoan lab. He received IBS director's fellowship, which allowed him to do a lab rotation during his first-year graduate study. After a few-month search, he finally chose to join the Cocoan lab!! In 2018 summer, Jaejoong was selected to receive the Global PhD Fellowship (GPF, 글로벌박사펠로우십) from Korean National Research Foundation. He is interested in developing fMRI-based biomarkers for basic neural processes, and ultimately wants to find building blocks of psychiatric diseases. He is currently working on a project developing pain predictive models based on fMRI dynamic connectivity patterns. He recevied his M.D. in Hanyang University.</span>
 
-<br><br><br><br>
+<br><br><br>
 
 <p id="Suhwan"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -94,7 +94,7 @@ subtitle: Cocoan lab members
 	<span style="font-size: 14px !important; color: #555;"><a href="/pdfs/CV_Suhwan_Gim_public.pdf" target="_blank">CV</a></span>
 </p>
 
-<br><br><br><br>
+<br><br><br>
 
 <p id="Hongji"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -135,7 +135,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeSA.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sooan is a graduate student in the Cocoan Lab. She joined the Cocoan Lab as a undergrad RA since June 2017, and now became a graduate student in the lab. Her undergrad major is Psychology, and she is interested in positive psychology. She wants to study psychological mechanisms and methods to enhance people's mental health and well-being.</span>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p id="SungWoo"></p>
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
@@ -321,7 +321,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p id="Junhyeok"></p>
 
@@ -351,7 +351,7 @@ subtitle: Cocoan lab members
 
 <img src="/people/images/LeeEJ.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Eun Jin is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Child Psychology & Education at Sungkyunkwan University. She is broadly interested in human behavior and neuroscience. She wants to study neuro mechanisms which are related to negative emotions.</span>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <p id="Jisu"></p>
 
@@ -368,7 +368,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/LeeJS.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;"> Jisu is an undergrad research assistant in the Cocoan lab. She is double majoring in Psychology and Brain&cognitive engineering at Chungbuk National University. She is interested in Psychopathology and underlying neural systems specifically about depression. </span>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p id="Sueyoung"></p>
 
@@ -385,7 +385,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/ParkSY.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Sue young is undergraduate research assistant in Cocoan lab. She is double majoring in integrative biotechnology and psychology. She is interested in emotion mechanisms related with attatchment theory. And also wants to study the methods to enhance people’s mental health.  </span>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p id="Suyoung"></p>
 
@@ -402,7 +402,6 @@ subtitle: Cocoan lab members
 <img src="/people/images/OhSY.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;"> Su Young is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in Brain-Machine Interface(BMI) technology. He also wants to develop a technique which artificial skin can feel pain more elaborately. </span>
 
-<br>
 <br>
 <br>
 <br>
