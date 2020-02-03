@@ -246,7 +246,9 @@ subtitle: Cocoan lab members
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
+
 <br>
+
 <img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Jungwoo is a lab manager and a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
 
@@ -262,7 +264,9 @@ subtitle: Cocoan lab members
 		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
+
 <br>
+
 <img src="/people/images/JeonJY.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Ji Won is a graduate student in the Cocoan lab. She joined the lab in 2020 as a master researcher. During undergrad, she double majored in Counseling Psychology and Applied Data Science. Her research interest is manifold learning and natural language processing. She aims to help to better understand the human brain by analyzing written language, such as finding patterns in people’s words to predict and monitor various mental disorders. </span>
 
