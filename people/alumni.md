@@ -8,6 +8,61 @@ subtitle: Cocoan lab alumni
 <b><span style="font-size: 25px !important; color: #BD0026;">Alumni</span></b>
 <hr>
 
+<b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
+<hr>
+
+<p id="Catherine"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
+
+<img src="/people/images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
+Catherine was a postdoc in the Cocoan lab. She was interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. </span>
+
+<br><br><br><br><br><br><br>
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Master's student</span></b>
+<hr>
+
+
+<p id="YongWook"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	YongWook Hong
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+<br>
+
+<img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">YongWook was a graduate student in the Cocoan lab and received a Master's degree 2019 summer. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is planning to apply for graduate schools in the US.</span>
+
+<br><br><br><br><br><br>
+
+<b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
+<hr>
+
+
+<p id="Jinwon"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Jinwon Park</span></b>
+
+<img src="/people/images/ParkJW.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jinwon helped many projects while she was working as an undergrad research assistant in the Cocoan Lab for more than one year. She majored in Psychology at Sungkyunkwan University. She wanted to investigate the physical and mental functions of human individuals. She was also interested in clinical psychology and the understanding of pain and emotions.</span>
+
+<br><br><br><br>
+
+<p id="Minie"></p>
+
+<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
+
+<img src="/people/images/MJeong.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Minie was an undergrad research assistant in the Cocoan lab. She did a double major in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She helped many fMRI experiments (almost 3 or 4) in the lab. She left the lab because she wants to major bioinformatics. I wish you the best of luck, Minie!</span>
+
+<br><br><br><br>
+
 
 <p id="Myeonghun"></p>
 
@@ -17,7 +72,7 @@ subtitle: Cocoan lab alumni
 <br> 
 
 <img src="/people/images/MBeak.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Myeonghun is an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
+<span style="font-size: 15px !important; color: #555;">Myeonghun waas an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
 
 <br>
 <br>
@@ -38,14 +93,14 @@ subtitle: Cocoan lab alumni
 <br>
 
 <img src="/people/images/SongSH.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">SeokHo is an undergrad research assistant in the Cocoan lab. He majors in Biomedical Engineering at Sungkyunkwan University. He is interested in human psychology, especially emotions and social relationships.</span>
+<span style="font-size: 15px !important; color: #555;">SeokHo worked as an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in human psychology, especially emotions and social relationships. He is taking a break from school to figure out his future. </span>
 
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
+
 
 <p id="Minseo"></p>
 
@@ -60,7 +115,7 @@ subtitle: Cocoan lab alumni
 <br>
 
 <img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">MinSeo is an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is interested in fMRI and effect of drugs on the brain.</span>
+<span style="font-size: 15px !important; color: #555;">MinSeo was an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is interested in fMRI and effect of drugs on the brain. She is taking a break from school to figure out his future.</span>
 
 <br>
 <br>
@@ -82,7 +137,7 @@ subtitle: Cocoan lab alumni
 <br>
 
 <img src="/people/images/HanJY.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Ji Yoon is an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is broadly interested in fMRI, cognitive science and neuroscience. Now her goal is to apply computational methods to neuroscience research.</span>
+<span style="font-size: 15px !important; color: #555;">Ji Yoon was an undergrad research assistant in the Cocoan lab. She is majoring in Biomedical Engineering at Sungkyunkwan University. She is broadly interested in fMRI, cognitive science and neuroscience. She left the lab to fulfill her dream.</span>
 
 <br>
 <br>
@@ -91,48 +146,6 @@ subtitle: Cocoan lab alumni
 <br>
 <br>
 
-
-<p id="YongWook"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	YongWook Hong
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:sinabro.yong@gmail.com"  target="_top" title="sinabro.yong@gmail.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-</div>
-<br>
-
-<img src="/people/images/HongYW_cnir.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">YongWook was a graduate student in the Cocoan lab and received a Master's degree 2019 summer. He received B.A. in psychology at Taylor University.  He is interested in the mind-body-brain interactions and wants to study the relationships between pain and its psychology aspects. He is also passionate about projects that will improve people’s physical and psychological well-being. He is planning to apply for graduate schools in the US.</span>
-
-<br>
-
-<br>
-
-
-
-<br>
-
-
-<p id="Jinwon"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Jinwon Park</span></b>
-
-<img src="/people/images/ParkJW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jinwon helped many projects while she was working as an undergrad research assistant in the Cocoan Lab for more than one year. She majored in Psychology at Sungkyunkwan University. She wanted to investigate the physical and mental functions of human individuals. She was also interested in clinical psychology and the understanding of pain and emotions.</span>
-
-<br><br><br><br>
-
-<p id="Minie"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Minie Jung</span></b>
-
-<img src="/people/images/MJeong.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Minie was an undergrad research assistant in the Cocoan lab. She did a double major in Genetic engineering and Convergence software (Samsung Convergence Software Course, SCSC) as Sungkyunkwan University. She helped many fMRI experiments (almost 3 or 4) in the lab. She left the lab because she wants to major bioinformatics. I wish you the best of luck, Minie!</span>
-
-<br><br><br><br>
 
 <p id="Jongyun"></p>
 
@@ -182,14 +195,6 @@ subtitle: Cocoan lab alumni
 
 <br><br><br><br><br>
 
-<p id="Catherine"></p>
-
-<b><span style="font-size: 20px !important; color: #0055A9;">Catherine Cho</span></b>
-
-<img src="/people/images/CatherineCho.png" width="150" height="215" align="left" hspace="20" /><span style="font-size: 15px !important; color: #555;">
-Catherine was a postdoc in the Cocoan lab. She was interested in identifying neural markers associated with affective and cognitive constructs and developing a framework for psychological components. </span>
-
-<br><br><br><br><br>
 
 <p id="SeongJae"></p>
 
