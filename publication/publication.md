@@ -20,6 +20,11 @@ subtitle: Cocoan lab publications and links to papers
 
 <br>*co-corresponding authors</span></p> 
 
+<!--<span style="font-size: 15px !important; color: #555;">Video abstract for Kohoutová et al. 2020</span>
+
+<center><iframe width="600" height="338" src="https://www.youtube.com/embed/k1y5rPMGO4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+-->
 
 <p id="Losin2019"><b>2020</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i></span></p> 
 
