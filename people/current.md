@@ -375,8 +375,8 @@ subtitle: Cocoan lab members
 </div>
 <br>
 
-<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Sueyoung is an undergrad RA in the cocoan lab. More details about Sueyoung will be added soon. </span>
+<img src="/people/images/ParkSY.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Sue young is undergraduate research assistant in Cocoan lab. She is double majoring in integrative biotechnology and psychology. She is interested in emotion mechanisms related with attatchment theory. And also wants to study the methods to enhance people’s mental health.  </span>
 <br>
 <br>
 <br>
@@ -393,6 +393,9 @@ subtitle: Cocoan lab members
 	Suyoung Oh
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="sonia7068@naver.com"  target="_top" title="sonia7068@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
 </div>
 <br>
 
