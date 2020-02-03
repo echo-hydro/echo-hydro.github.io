@@ -229,6 +229,8 @@ subtitle: Cocoan lab members
 	</a> 
 </div>
 
+<br>
+
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Donghee was a lab manager of the Cocoan Lab. Now He is a postbac RA in the Cocoan lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
 
@@ -261,6 +263,7 @@ subtitle: Cocoan lab members
 	</a>
 </div>
 
+<br>
 <img src="/people/images/JeonJY.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;">Ji Won is a graduate student in the Cocoan lab. She joined the lab in 2020 as a master researcher. During undergrad, she double majored in Counseling Psychology and Applied Data Science. Her research interest is manifold learning and natural language processing. She aims to help to better understand the human brain by analyzing written language, such as finding patterns in people’s words to predict and monitor various mental disorders. </span>
 
