@@ -372,6 +372,9 @@ subtitle: Cocoan lab members
 	Sueyoung Park
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="sonia7068@naver.com"  target="_top" title="sonia7068@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
 </div>
 <br>
 
@@ -393,9 +396,6 @@ subtitle: Cocoan lab members
 	Suyoung Oh
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="sonia7068@naver.com"  target="_top" title="sonia7068@naver.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>	
 </div>
 <br>
 
