@@ -159,6 +159,100 @@ subtitle: Cocoan lab members
 
 <br><br><br><br><br>
 
+<p id="Donghee"></p>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Donghee Lee
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/leedh/" title="donghee github" target="_blank" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
+	</a>
+	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank" style="margin-right: 8px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
+	</a>
+	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank" style="margin-right: 8px">
+		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
+	</a> 
+</div>
+
+<br>
+
+<img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Donghee is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2019 spring and entered the graduate school 2020 spring. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
+
+<br><br><br><br><br>
+
+<p id="JungWoo"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jungwoo Kim
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+
+<br>
+
+<img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Jungwoo is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2019 spring and entered the graduate school 2020 spring. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
+
+<br><br><br><br><br><br>
+
+<p id="Jiwon"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jiwon Jeon
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:eigen@kakao.com"  target="_top" title="eigen@kakao.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+</div>
+
+<br>
+
+<img src="/people/images/JeonJY.png" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">
+Ji Won is a graduate student in the Cocoan lab. She was a summer internship student for 2019 summer and decided to enter the graduate school 2020 spring. During undergrad, she double majored in Counseling Psychology and Applied Data Science at the Handong University. Her research interest is in manifold learning and natural language processing. She aims to help to better understand the human brain by analyzing written language, such as finding patterns in people’s words to predict and monitor various mental disorders. </span>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p id="Jihoon"></p>
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jihoon Han
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>
+	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 8px">
+		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
+	</a>
+	<a href="https://twitter.com/hahnz_/" title="jihoon twitter" target="_blank" style="margin-right: 8px">
+		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
+	</a>
+	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 8px">
+		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
+	</a>
+</div>
+<br>
+
+<img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">
+Jihoon is a graduate student in the Cocoan lab. He joined the lab as an undergrad RA at 2018 summer and entered the graduate school 2020 spring. He majored in Computer Sciences at the Hongik University. He previously worked with Prof. Yongseok Yoo at the Brain & Information Lab in Incheon University. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
+
+<br><br><br><br><br>
+
 <b><span style="font-size: 25px !important; color: #BD0026;">Research staffs</span></b>
 <hr>
 
@@ -206,72 +300,6 @@ subtitle: Cocoan lab members
 
 <br><br><br><br>
 
-<p id="Donghee"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Donghee Lee
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:donghee@skku.edu"  target="_top" title="donghee@skku.edu" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/leedh/" title="donghee github" target="_blank" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/lxxdh/" title="donghee twitter" target="_blank" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
-	</a>
-	<a href="https://leedh.github.io/" title="donghee personal website" target="_blank" style="margin-right: 8px">
-		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
-	</a> 
-</div>
-
-<br>
-
-<img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Donghee was a lab manager of the Cocoan Lab. Now He is a postbac RA in the Cocoan lab. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
-
-<br><br><br><br>
-
-<p id="JungWoo"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Jungwoo Kim
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:rwd_@naver.com"  target="_top" title="rwd_@naver.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-</div>
-
-<br>
-
-<img src="/people/images/KimJW.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jungwoo is a lab manager and a postbac RA in the Cocoan lab. He majored systems biology and minoring philosophy at Yonsei University. He is interested in how emotions are made, especially about negative emotions such as anxiety and anger. </span>
-
-<br><br><br><br><br><br>
-
-<p id="Jiwon"></p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Jiwon Jeon
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:eigen@kakao.com"  target="_top" title="eigen@kakao.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-</div>
-
-<br>
-
-<img src="/people/images/JeonJY.png" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Ji Won is a graduate student in the Cocoan lab. She joined the lab in 2020 as a master researcher. During undergrad, she double majored in Counseling Psychology and Applied Data Science. Her research interest is manifold learning and natural language processing. She aims to help to better understand the human brain by analyzing written language, such as finding patterns in people’s words to predict and monitor various mental disorders. </span>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <b><span style="font-size: 25px !important; color: #BD0026;">Undergraduate students</span></b>
 <hr>
@@ -297,31 +325,6 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
-
-<p id="Jihoon"></p>
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Jihoon Han
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:hahnnz@naver.com"  target="_top" title="hahnnz@naver.com" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://github.com/Hahnnz/" title="jihoon github" target="_blank" style="margin-right: 8px">
-		<img src="/img/github-brands.png" width="auto" height="20" alt="github"/>
-	</a>
-	<a href="https://twitter.com/hahnz_/" title="jihoon twitter" target="_blank" style="margin-right: 8px">
-		<img src="/img/twitter-icon.png" width="auto" height="20" alt="twitter"/>
-	</a>
-	<a href="https://hahnnz.github.io" title="jihoon personal website" target="_blank" style="margin-right: 8px">
-		<img src="/img/homepage-icon.png" width="auto" height="20" alt="personal website"/>
-	</a>
-</div>
-<br>
-
-<img src="/people/images/HahnJH.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Jihoon is currently an undergrad student at the Hongik University. He is majorining in Computer Sciences. He is working in two labs: Brain & Information Lab in Incheon University (Prof. Yongseok Yoo) and the Cocoan lab. His research interests include computational neuroscience and artificial intelligence (esp. deep learning models). </span>
-
-<br><br><br><br><br>
 
 <p id="Junhyeok"></p>
 
@@ -402,6 +405,7 @@ subtitle: Cocoan lab members
 <img src="/people/images/OhSY.png" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;"> Su Young is an undergrad research assistant in the Cocoan lab. He is majoring in Biomedical Engineering at Sungkyunkwan University. He is interested in Brain-Machine Interface(BMI) technology. He also wants to develop a technique which artificial skin can feel pain more elaborately. </span>
 
+<br>
 <br>
 <br>
 <br>
