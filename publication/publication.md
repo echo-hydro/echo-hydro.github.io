@@ -30,10 +30,10 @@ subtitle: Cocoan lab publications and links to papers
 <h2><span style="color: #0055A9;">2020</span></h2>
 
 <p id="Losin2020"><b>2020</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i>&nbsp; <a href="https://www.nature.com/articles/s41562-020-0819-8">Nature</a> | <a href="/pdfs/Losin2020.pdf">PDF</a>
-<br><b>Press (selected):</b> <a href="https://www.eurekalert.org/pub_releases/2020-02/uom-bsi020120.php">EurekaAlert</a> | <a href="https://www.natureasia.com/en/research/highlight/13202">Nature Asia</a> | <a href="https://www.statnews.com/2020/02/03/brain-imaging-study-may-explain-why-african-americans-feel-greater-pain/">STAT news</a>
+<br><b>Press (selected):</b> <a href="https://www.eurekalert.org/pub_releases/2020-02/uom-bsi020120.php">EurekaAlert</a> | <a href="https://www.natureasia.com/en/research/highlight/13202">Nature Asia</a> | <a href="https://www.statnews.com/2020/02/03/brain-imaging-study-may-explain-why-african-americans-feel-greater-pain/">STAT news</a></span>
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-020-0819-8" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-020-0819-8" data-style="small_circle" style="display: inline-block;"></span> </p>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-020-0819-8" data-style="small_circle" style="display: inline-block;"></span></p>
 
 
 <p id="Lim2020"><b>2020</b> "Individual-Level Lesion-Network Mapping to Visualize the Effects of a Stroke Lesion on the Brain Network: Connectograms in Stroke Syndromes" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee, <i>Journal of Clinical Neurology</i>, 16(1), 116-123 &nbsp; <a href="https://thejcn.com/DOIx.php?id=10.3988/jcn.2020.16.1.116">JCN</a> | <a href="/pdfs/Lim2020_JCN.pdf">PDF</a>
