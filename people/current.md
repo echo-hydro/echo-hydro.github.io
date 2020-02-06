@@ -406,6 +406,21 @@ subtitle: Cocoan lab members
 <br>
 <br>
 <br>
+
+<p id="Myeonghun"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Myeonghun Beak
+</div>
+<br> 
+
+<img src="/people/images/MBeak.JPG" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;">Myeonghun waas an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
+
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
