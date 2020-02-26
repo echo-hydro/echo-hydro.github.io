@@ -437,7 +437,7 @@ Jihoon is a graduate student in the Cocoan lab. He joined the lab as an undergra
 </div>
 <br>
 
-<img src="/people/images/default.png" width="150" height="215" align="left" hspace="20" />
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
 <span style="font-size: 15px !important; color: #555;"> Hyemin is an undergrad research assistant in the Cocoan lab. She is majoring in Psychology at Sungkyunkwan University. She is interested in positive psychology and neuroscience. She wants to study neural mechanisms of pain and emotions to enhance people’s well-being. </span>
 
 <br>
