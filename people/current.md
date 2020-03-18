@@ -181,7 +181,9 @@ subtitle: Cocoan lab members
 <br>
 
 <img src="/people/images/LeeDH.jpg" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Donghee is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2019 spring and entered the graduate school 2020 spring. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. Due to his interests in the human mind, he decided to change his major to computational neuroscience. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. His research interests include human emotions and computational modeling.</span>
+<span style="font-size: 15px !important; color: #555;">Donghee is a graduate student in the Cocoan lab. He joined the lab as a postbac RA 2019 spring and entered the graduate school 2020 spring. He double majored in Consumer & Family Science and Data Science at Sungkyunkwan University. He is broadly interested in cognitive science, computational neuroscience and artificial intelligence. </span>
+
+
 
 <br><br><br><br><br>
 
@@ -419,7 +421,24 @@ Jihoon is a graduate student in the Cocoan lab. He joined the lab as an undergra
 <br> 
 
 <img src="/people/images/MBeak.JPG" width="150" height="215" align="left" hspace="20" />
-<span style="font-size: 15px !important; color: #555;">Myeonghun waas an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
+<span style="font-size: 15px !important; color: #555;">Myeonghun was an undergrad research assistant in the Cocoan lab. He is majoring in medicine and minoring in cognitive science at Gachon University. He is interested in clinical applications (e.g., diagnosis, prevention, treatment, etc.) of computational methodologies for neurological diseases, especially related to cognitive dysfunctions and impairments. </span>
+
+<br><br><br><br><br><br><br>
+
+<p id="Hyemin"></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Hyemin Shin
+</div>
+<div style="font-size: 15px !important; color: #555; float:left;">
+	<a href="shinhm0401@gmail.com"  target="_top" title="shinhm0401@gmail.com" style="margin-right: 8px">
+		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+	</a>	
+</div>
+<br>
+
+<img src="/people/images/default.jpg" width="150" height="215" align="left" hspace="20" />
+<span style="font-size: 15px !important; color: #555;"> Hyemin is an undergrad research assistant in the Cocoan lab. She is majoring in Psychology at Sungkyunkwan University. She is interested in positive psychology and neuroscience. She wants to study neural mechanisms of pain and emotions to enhance people’s well-being. </span>
 
 <br>
 <br>
