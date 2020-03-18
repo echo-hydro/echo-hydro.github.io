@@ -16,6 +16,8 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
+<h2><span style="color: #0055A9;">2020</span></h2>
+
 <p id="Lada2019"><b>2020</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://www.nature.com/articles/s41596-019-0289-5">Nature</a> | <a href="/pdfs/Kohoutova2020.pdf">PDF</a> | <a href="https://rdcu.be/b26uh">SharedIt</a> | <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
 
 <br>*co-corresponding authors</span> 
@@ -28,9 +30,6 @@ subtitle: Cocoan lab publications and links to papers
 
 <center><iframe width="600" height="338" src="https://www.youtube.com/embed/kcDfEkoQa7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br>
-
-
-<h2><span style="color: #0055A9;">2020</span></h2>
 
 <p id="Losin2020"><b>2020</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i>&nbsp; <a href="https://www.nature.com/articles/s41562-020-0819-8">Nature</a> | <a href="/pdfs/Losin2020.pdf">PDF</a>
 <br><b>Press (selected):</b> <a href="https://www.eurekalert.org/pub_releases/2020-02/uom-bsi020120.php">EurekaAlert</a> | <a href="https://www.natureasia.com/en/research/highlight/13202">Nature Asia</a> | <a href="https://www.statnews.com/2020/02/03/brain-imaging-study-may-explain-why-african-americans-feel-greater-pain/">STAT news</a> | <a href="http://m.dongascience.donga.com/news.php?idx=34120">동아사이언스</a></span>
