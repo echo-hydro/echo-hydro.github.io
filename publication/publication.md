@@ -18,7 +18,7 @@ subtitle: Cocoan lab publications and links to papers
 
 <p id="Lada2019"><b>2020</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://www.nature.com/articles/s41596-019-0289-5">Nature</a> | <a href="/pdfs/Kohoutova2020.pdf">PDF</a> | <a href="https://rdcu.be/b26uh">SharedIt</a> | <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
 
-<br>*co-corresponding authors</span></p> 
+<br>*co-corresponding authors</span> 
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41596-019-0289-5" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41596-019-0289-5" data-style="small_circle" style="display: inline-block;"></span></p>
