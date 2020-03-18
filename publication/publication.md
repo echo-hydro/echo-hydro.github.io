@@ -16,15 +16,18 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
-<p id="Lada2019"><b>2020</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
+<p id="Lada2019"><b>2020</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://www.nature.com/articles/s41596-019-0289-5">Nature</a> | <a href="/pdfs/Kohoutova2020.pdf">PDF</a> | <a href="https://rdcu.be/b26uh">SharedIt</a> | <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
 
 <br>*co-corresponding authors</span></p> 
 
-<!--<span style="font-size: 15px !important; color: #555;">Video abstract for Kohoutová et al. 2020</span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41596-019-0289-5" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41596-019-0289-5" data-style="small_circle" style="display: inline-block;"></span></p>
 
-<center><iframe width="600" height="338" src="https://www.youtube.com/embed/k1y5rPMGO4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<span style="font-size: 15px !important; color: #555;">Video abstract for Kohoutová et al. 2020</span>
+
+<center><iframe width="600" height="338" src="https://www.youtube.com/embed/kcDfEkoQa7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br>
--->
 
 
 <h2><span style="color: #0055A9;">2020</span></h2>
