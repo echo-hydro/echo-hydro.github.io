@@ -21,9 +21,13 @@ subtitle: Eunsang Cho publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR025813" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR025813" data-style="small_circle" style="display: inline-block;"></span>
 
+<p id="Cho_etal_2019_WRR"><b>12.</b> "Identifying Subsurface Drainage using Satellite Big Data and Machine Learning via Google Earth Engine" Simon Kraatz, Jennifer M.Jacobs, Ronny Schröder, <br><span style="font-size: 14px !important; color: #555;"><b><i>Eunsang Cho</i></b>, Heather J. Miller, Carrie M. Vuyovich, <i>Remote Sensing of Environment</i> &nbsp; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425719305656">RSE</a> | <a href="/pdfs/Kraatz_etal_2020_RSE_SMAP_FT_road_CONUS.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rse.2019.111545" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2019.111545" data-style="small_circle" style="display: inline-block;"></span>
+
 <h2><span style="color: #0055A9;">2019</span></h2>
 
-<p id="Cho_etal_2019_WRR"><b>11.</b> "Identifying Subsurface Drainage using Satellite Big Data and Machine Learning via Google Earth Engine" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs, Xinhua Jia, Simon Kraatz, <span style="font-size: 14px !important; color: #2a2eba;"><i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024892">WRR</a> | <a href="/pdfs/Cho_etal_2019_WRR_SSD.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR024892&file=wrcr24172-sup-0001-2019WR024892-SI.pdf">Supporting Information</a>
+<p id="Cho_etal_2019_WRR"><b>11.</b> "Identifying Subsurface Drainage using Satellite Big Data and Machine Learning via Google Earth Engine" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs, Xinhua Jia, Simon Kraatz, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024892">WRR</a> | <a href="/pdfs/Cho_etal_2019_WRR_SSD.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR024892&file=wrcr24172-sup-0001-2019WR024892-SI.pdf">Supporting Information</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR024892" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR024892" data-style="small_circle" style="display: inline-block;"></span>
 
