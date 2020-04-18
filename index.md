@@ -1,8 +1,8 @@
 ---
 layout: page
-title: COCOAN lab
+title: Eunsang Cho
 permalink: /
-subtitle: Computational Cognitive Affective Neuroscience Laboratory
+subtitle: Cho's Research Website
 ---
 
 <img src="img/feature3.png" width="820" align="center"/>
