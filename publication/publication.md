@@ -6,24 +6,20 @@ subtitle: Eunsang Cho publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<br>*co-corresponding authors</span> 
 
 <h2><span style="color: #BD0026;">in press</span></h2>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
 
-<p id="Cho_etal_2020"><b>2020</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">AGU WRR</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>
-<br>*co-corresponding authors</span> 
+<p id="Cho_etal_2020_RSE"><b>14.</b> "Improvement of airborne gamma radiation snow water equivalent measurements using SMAP soil moisture" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs, Ronny Schroeder, Samuel E. Tuttle, Carrie Olheiser <i>Remote Sensing of Environment</i> &nbsp; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720300377?via%3Dihub">RSE</a> | <a href="/pdfs/Cho_etal_2020_RSE.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rse.2020.111668" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2020.111668" data-style="small_circle" style="display: inline-block;"></span></p>
 
+
+<p id="Cho_etal_2020_WRR"><b>13.</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">WRR</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>  <b><i><span style="font-size: 16px !important; color: #555;">This work featured in <a href="https://eos.org/research-spotlights/snowpack-data-sets-put-to-the-test">AGU EOS Research Spotlight</a>!</span></b></i> <span style="font-size: 16px !important;"> 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR025813" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR025813" data-style="small_circle" style="display: inline-block;"></span></p>
-
-<b><span style="font-size: 16px !important; color: #555;">This work featured in <a href="https://eos.org/research-spotlights/snowpack-data-sets-put-to-the-test">AGU EOS Research Spotlight</a>!</span></b> <span style="font-size: 16px !important;"> 
-
-<p id="Losin2020"><b>2020</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i>&nbsp; <a href="https://www.nature.com/articles/s41562-020-0819-8">Nature</a> | <a href="/pdfs/Losin2020.pdf">PDF</a>
-<br><b>Press (selected):</b> <a href="https://www.eurekalert.org/pub_releases/2020-02/uom-bsi020120.php">EurekaAlert</a> | <a href="https://www.natureasia.com/en/research/highlight/13202">Nature Asia</a> | <a href="https://www.statnews.com/2020/02/03/brain-imaging-study-may-explain-why-african-americans-feel-greater-pain/">STAT news</a> | <a href="http://m.dongascience.donga.com/news.php?idx=34120">동아사이언스</a></span>
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-020-0819-8" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-020-0819-8" data-style="small_circle" style="display: inline-block;"></span></p>
 
 
 <p id="Lim2020"><b>2020</b> "Individual-Level Lesion-Network Mapping to Visualize the Effects of a Stroke Lesion on the Brain Network: Connectograms in Stroke Syndromes" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee, <i>Journal of Clinical Neurology</i>, 16(1), 116-123 &nbsp; <a href="https://thejcn.com/DOIx.php?id=10.3988/jcn.2020.16.1.116">JCN</a> | <a href="/pdfs/Lim2020_JCN.pdf">PDF</a>
