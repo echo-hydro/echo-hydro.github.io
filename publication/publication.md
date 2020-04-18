@@ -7,29 +7,18 @@ subtitle: Eunsang Cho publications and links to papers
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-<span style="font-size: 14px !important; color: #555;">
-<sup>g</sup> grad students
-<br><sup>u</sup> undergrad students
-</span>
-
-
-
 <h2><span style="color: #BD0026;">in press</span></h2>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
 
-<p id="Cho_etal_2020"><b>2020</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">Wiley</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>
+<p id="Cho_etal_2020"><b>2020</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">AGU WRR</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>
 
 <br>*co-corresponding authors</span> 
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR025813" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR025813" data-style="small_circle" style="display: inline-block;"></span></p>
 
-
-<span style="font-size: 15px !important; color: #555;">Video abstract for Kohoutová et al. 2020</span>
-
-<center><iframe width="600" height="338" src="https://www.youtube.com/embed/kcDfEkoQa7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br>
+<span style="font-size: 15px !important; color: #555;">This work featured in <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">AGU EOS Research Spotlight</a>!
 
 <p id="Losin2020"><b>2020</b> "Neural and Sociocultural Mediators of Ethnic Differences in Pain" <br><span style="font-size: 14px !important; color: #555;">Elizabeth A. Reynolds Losin, <b>Choong-Wan Woo</b>, Natalia Alina Medina, Jessica Andrews-Hanna, Hedwig Eisenbarth, Tor D. Wager, <i>Nature Human Behaviour</i>&nbsp; <a href="https://www.nature.com/articles/s41562-020-0819-8">Nature</a> | <a href="/pdfs/Losin2020.pdf">PDF</a>
 <br><b>Press (selected):</b> <a href="https://www.eurekalert.org/pub_releases/2020-02/uom-bsi020120.php">EurekaAlert</a> | <a href="https://www.natureasia.com/en/research/highlight/13202">Nature Asia</a> | <a href="https://www.statnews.com/2020/02/03/brain-imaging-study-may-explain-why-african-americans-feel-greater-pain/">STAT news</a> | <a href="http://m.dongascience.donga.com/news.php?idx=34120">동아사이언스</a></span>
