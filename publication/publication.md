@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
-subtitle: Cocoan lab publications and links to papers
+subtitle: Eunsang Cho publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -18,12 +18,12 @@ subtitle: Cocoan lab publications and links to papers
 
 <h2><span style="color: #0055A9;">2020</span></h2>
 
-<p id="Lada2019"><b>2020</b> "Towards a unified framework for interpreting machine learning models in neuroimaging" <br><span style="font-size: 14px !important; color: #555;"><b>Lada Kohoutová <sup>g</sup></b>, Juyeon Heo, Sungmin Cha, <b>Sungwoo Lee <sup>g</sup></b>, Taesup Moon, Tor D. Wager*, <b>Choong-Wan Woo*</b>, <i>Nature Protocols</i> &nbsp; <a href="https://www.nature.com/articles/s41596-019-0289-5">Nature</a> | <a href="/pdfs/Kohoutova2020.pdf">PDF</a> | <a href="https://rdcu.be/b26uh">SharedIt</a> | <a href="https://github.com/cocoanlab/interpret_ml_neuroimaging">Code & Data</a>
+<p id="Cho_etal_2020"><b>2020</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">Nature</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>
 
 <br>*co-corresponding authors</span> 
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41596-019-0289-5" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41596-019-0289-5" data-style="small_circle" style="display: inline-block;"></span></p>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR025813" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR025813" data-style="small_circle" style="display: inline-block;"></span></p>
 
 
 <span style="font-size: 15px !important; color: #555;">Video abstract for Kohoutová et al. 2020</span>
