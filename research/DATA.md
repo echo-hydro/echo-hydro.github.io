@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Available data
+subtitle: Data
 ---
 Annual Subsurface Drainage Map (Red River of the North Basin; Cho et al., 2019)
 
