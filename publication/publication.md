@@ -7,11 +7,9 @@ subtitle: Eunsang Cho publications and links to papers
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <br>*co-corresponding authors
-
 <h2><span style="color: #BD0026;">in press</span></h2>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
-
 <p id="Cho_etal_2020_RSE"><b>14.</b> "Improvement of airborne gamma radiation snow water equivalent measurements using SMAP soil moisture " (2020) <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs, Ronny Schroeder, Samuel E. Tuttle, Carrie Olheiser, <i>Remote Sensing of Environment</i> &nbsp; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720300377?via%3Dihub">RSE</a> | <a href="/pdfs/Cho_etal_2020_RSE.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rse.2020.111668" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2020.111668" data-style="small_circle" style="display: inline-block;"></span>
