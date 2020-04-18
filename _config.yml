@@ -29,7 +29,7 @@ navbar-links:
   Publication: "publication"
   Research: 
     - Projects: "research/projects"
-    - Codes: "research/codes"
+   # - Codes: "research/codes"
     - Data: "research/data"
   CV: "https://drive.google.com/file/d/1NpR5zZ7UkJur0pQJS7CVD449IplAWqyh/view?usp=sharing"
 
