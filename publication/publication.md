@@ -18,7 +18,7 @@ subtitle: Eunsang Cho publications and links to papers
 
 <h2><span style="color: #0055A9;">2020</span></h2>
 
-<p id="Cho_etal_2020"><b>2020</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">Nature</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>
+<p id="Cho_etal_2020"><b>2020</b> "The Value of Long‐Term (40 years) Airborne Gamma Radiation SWE Record for Evaluating Three Observation‐Based Gridded SWE Data Sets by Seasonal Snow and Land Cover Classifications" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs,  Carrie M. Vuyovich, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025813">Wiley</a> | <a href="/pdfs/Cho_etal_2020_WRR_40yr_SWE.pdf">PDF</a> | <a href="https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2019WR025813&file=wrcr24376-sup-0001-Figure_SI-S01.docx">Supporting Information</a>
 
 <br>*co-corresponding authors</span> 
 
