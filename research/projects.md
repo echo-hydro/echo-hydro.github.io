@@ -6,7 +6,7 @@ subtitle: Ongoing and future research projects
 
 <span style="font-size: 15px !important; color: #ff0066;">If you want to find more recent research projects and directions, please check out our [news](/news/2020) page! </span>
 
-<span style="font-size: 16px !important; color: #BD0026;"><b> Satellite Enhanced Snowmelt Flood Predictions in the Red River of the North Basin supported by the <a href="https://appliedsciences.nasa.gov/what-we-do/water-resources">NASA Water Resources Applied Sciences Program </a> (Aug 2015 - Dec 2019)</b></span> 
+<span style="font-size: 16px !important; color: #002dbd;"><b> Satellite Enhanced Snowmelt Flood Predictions in the Red River of the North Basin supported by the <a href="https://appliedsciences.nasa.gov/what-we-do/water-resources">NASA Water Resources Applied Sciences Program </a> (Aug 2015 - Dec 2019)</b></span> 
 
 See <a href="https://appliedsciences.nasa.gov/what-we-do/projects/satellite-enhanced-snowmelt-flood-predictions-red-river-north-basin">here</a> for the NASA project's information. 
 
