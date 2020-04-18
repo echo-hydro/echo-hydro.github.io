@@ -21,19 +21,11 @@ subtitle: Eunsang Cho publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR025813" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR025813" data-style="small_circle" style="display: inline-block;"></span>
 
-
-<p id="Lim2020"><b>2020</b> "Individual-Level Lesion-Network Mapping to Visualize the Effects of a Stroke Lesion on the Brain Network: Connectograms in Stroke Syndromes" <br><span style="font-size: 14px !important; color: #555;">Jae-Sung Lim*, <b>Jae-Joong Lee* <sup>g</sup></b>, <b>Choong-Wan Woo</b>, Jooyeon Song, Mi-Sun Oh, Kyung-Ho Yu, Byung-Chul Lee, <i>Journal of Clinical Neurology</i>, 16(1), 116-123 &nbsp; <a href="https://thejcn.com/DOIx.php?id=10.3988/jcn.2020.16.1.116">JCN</a> | <a href="/pdfs/Lim2020_JCN.pdf">PDF</a>
-<br>*co-first authors</span>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3988/jcn.2020.16.1.116" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.3988/jcn.2020.16.1.116" data-style="small_circle" style="display: inline-block;"></span></p>
-
 <h2><span style="color: #0055A9;">2019</span></h2>
 
-<p id="Zheng2019"><b>2019</b> "Pain-Evoked Reorganization in Functional
-Brain Networks" <br><span style="font-size: 14px !important; color: #555;">Weihao Zheng, <b>Choong-Wan Woo</b>, Zhijun Yao, Pavel Goldstein, Lauren Y. Atlas, Mathieu Roy, Liane Schmidt, Anjali Krishnan, Marieke Jepma, Bin Hu and Tor D. Wager, <i>Cerebral Cortex</i> &nbsp; <a href="https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhz276/5669985?redirectedFrom=fulltext">Cerebral Cortex</a> | <a href="/pdfs/Zheng2019_CerCor.pdf">PDF</a></span>
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/cercor/bhz276" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhz276" data-style="small_circle" style="display: inline-block;"></span></p> 
+<p id="Cho_etal_2019_WRR"><b>11.</b> "Identifying Subsurface Drainage using Satellite Big Data and Machine Learning via Google Earth Engine" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Jennifer M. Jacobs, Xinhua Jia, Simon Kraatz <br><span style="font-size: 14px !important; color: #2a2eba;"><i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR024892">WRR</a> | <a href="/pdfs/Cho_etal_2019_WRR_SSD.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1029/2019WR024892" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR024892" data-style="small_circle" style="display: inline-block;"></span>
 
 
 <p id="Gordon2019"><b>2019</b> "Cognitive self-regulation influences pain-related physiology." <br><span style="font-size: 14px !important; color: #555;">Gordon Matthewson*, <b>Choong-Wan Woo</b>*, Marianne C. Reddan, Tor D. Wager, <i>PAIN</i>, <b>160</b>, 2338–2349  &nbsp; <a href="https://journals.lww.com/pain/Abstract/publishahead/Cognitive_self_regulation_influences_pain_related.98669.aspx">PAIN</a> | <a href="/pdfs/Matthewson_etal_2019.pdf">PDF</a> | <a href="/pdfs/Matthewson_etal_2019_supplement.pdf">Supplement</a> | <a href="https://www.biorxiv.org/content/10.1101/361519v2">bioRxiv</a> | <a href="https://www.youtube.com/watch?v=R1QtvyAt-F8">Video abstract</a> | <a href="https://github.com/canlab/cognitive_regulation_physiology">Code & Data</a>
