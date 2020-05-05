@@ -6,6 +6,7 @@ subtitle: Eunsang Cho publications and links to papers
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a href="https://scholar.google.co.kr/citations?user=G6CX5wsAAAAJ&hl=en">Eunsang Cho's Google Scholar</a>
 <br>*corresponding author
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
@@ -33,29 +34,46 @@ subtitle: Eunsang Cho publications and links to papers
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2019WR024892" data-style="small_circle" style="display: inline-block;"></span>
 
 <p id="Schroeder_etal_2019_IEEE"><b>10.</b> "Comparison of Satellite Passive Microwave With Modeled Snow Water Equivalent Estimates in the Red River of the North Basin" (2019)  <span style="font-size: 14px !important; color: #555;">Schroeder, Ronny, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, Carrie M. Olheiser, Michael M. DeWeese, Brian A. Connelly, Michael H. Cosh, Xinhua Jia, Carrie M. Vuyovich, and Samuel E. Tuttle, <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> &nbsp; <a href="https://ieeexplore.ieee.org/document/8771127">IEEE JSTARS</a> | <a href="/pdfs/Schroeder_etal_2019_IEEE.pdf">PDF</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1109/JSTARS.2019.2926058" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1109/JSTARS.2019.2926058" data-style="small_circle" style="display: inline-block;"></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1109/JSTARS.2019.2926058" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1109/JSTARS.2019.2926058" data-style="small_circle" style="display: inline-block;"></span>
 
 <h2><span style="color: #0055A9;">2018</span></h2>
 <p id="Kraatz_etal_2018_RS"><b>9.</b> "Evaluation of SMAP Freeze/Thaw Retrieval Accuracy at Core Validation Sites in the Contiguous United States" (2018)  <span style="font-size: 14px !important; color: #555;">Kraatz, Simon, Jennifer M. Jacobs, Ronny Schröder, <b><i>Eunsang Cho</i></b>, Michael Cosh, Mark Seyfried, John Prueger, and Stan Livingston, <i>Remote Sensing</i> &nbsp; <a href="https://www.mdpi.com/2072-4292/10/9/1483">RS</a> | <a href="/pdfs/Kraatz_etal_2018_RS.pdf">PDF</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.3390/rs10091483" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.3390/rs10091483" data-style="small_circle" style="display: inline-block;"></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/rs10091483" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.3390/rs10091483" data-style="small_circle" style="display: inline-block;"></span>
 
 <p id="Tuttle_etal_2018_HP"><b>8.</b> " Intercomparison of Snow Water Equivalent Observations in the Northern Great Plains" (2018)  <span style="font-size: 14px !important; color: #555;">Samuel E. Tuttle, Jennifer M. Jacobs, Carrie M. Vuyovich, Carrie Olheiser, <b><i>Eunsang Cho</i></b>, <i>Hydrological Processes</i> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.11459">RS</a> | <a href="/pdfs/Tuttle_etal_2018_HP.pdf">PDF</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1002/hyp.11459" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1002/hyp.11459" data-style="small_circle" style="display: inline-block;"></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/hyp.11459" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1002/hyp.11459" data-style="small_circle" style="display: inline-block;"></span>
 
 <h2><span style="color: #0055A9;">2017</span></h2>
 <p id="Cho_etal_2017_RS"><b>7.</b> "Evaluating Consistency of Snow Water Equivalent Retrievals from Passive Microwave Sensors over the North Central U. S.: SSM/I vs. SSMIS and AMSR-E vs. AMSR2" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Samuel E. Tuttle, Jennifer M. Jacobs, <i>Remote Sensing</i> &nbsp; <a href="https://www.mdpi.com/2072-4292/9/5/465">RS</a> | <a href="/pdfs/Cho_etal_2019_WRR_SSD.pdf">PDF</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.3390/rs9050465" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.3390/rs9050465" data-style="small_circle" style="display: inline-block;"></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/rs9050465" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.3390/rs9050465" data-style="small_circle" style="display: inline-block;"></span>
   
- <p id="Kim_etal_2018_HP"><b>6.</b> "Intercomparison of Snow Water Equivalent Observations in the Northern Great Plains" (2018)  <span style="font-size: 14px !important; color: #555;">Samuel E. Tuttle, Jennifer M. Jacobs, Carrie M. Vuyovich, Carrie Olheiser, <b><i>Eunsang Cho</i></b>, <i>Hydrological Processes</i> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.11459">RS</a> | <a href="/pdfs/Tuttle_etal_2018_HP.pdf">PDF</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1002/hyp.11459" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1002/hyp.11459" data-style="small_circle" style="display: inline-block;"></span>
-
-<p id="Kim_etal_2017_AM"><b>5.</b> "Development and assessment of the sand dust prediction model by utilizing microwave-based satellite soil moisture and reanalysis datasets in East Asian desert areas" (2017)  <br><span style="font-size: 14px !important; color: #555;">Kim, Hyunglok, Muhammad Zohaib, <b><i>Eunsang Cho</i></b>, Yann H. Kerr, and Minha Choi, <i>Advances in Meteorology</i> &nbsp; <a href="https://www.hindawi.com/journals/amete/2017/1917372/">AM</a> | <a href="/pdfs/Kim_etal_2017_AM.pdf">PDF</a>
+<p id="Kim_etal_2017_AM"><b>6.</b> "Development and assessment of the sand dust prediction model by utilizing microwave-based satellite soil moisture and reanalysis datasets in East Asian desert areas" (2017)  <br><span style="font-size: 14px !important; color: #555;">Hyunglok Kim, Muhammad Zohaib, <b><i>Eunsang Cho</i></b>, Yann H. Kerr, and Minha Choi, <i>Advances in Meteorology</i> &nbsp; <a href="https://www.hindawi.com/journals/amete/2017/1917372/">AM</a> | <a href="/pdfs/Kim_etal_2017_AM.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1155/2017/1917372" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1155/2017/1917372" data-style="small_circle" style="display: inline-block;"></span>
+ 
+<p id="Cho_etal_2017_RSE"><b>5.</b> "Does AMSR2 produce better soil moisture retrievals than AMSR-E over Australia?" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Chun-Hsu Su, Dongryeol Ryu, Hyunglok Kim, and Minha Choi, <i>Remote Sensing of Environment</i> &nbsp; <a href="https://www.sciencedirect.com/science/article/abs/pii/S003442571630428X">RSE</a> | <a href="/pdfs/Cho_etal_2017_RSE.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rse.2016.10.050" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2016.10.050" data-style="small_circle" style="display: inline-block;"></span>
   
- <h2><span style="color: #0055A9;">2017</span></h2>
+<h2><span style="color: #0055A9;">2016</span></h2>
+<p id="Cho_etal_2016_TAO"><b>4.</b> "Does AMSR2 produce better soil moisture retrievals than AMSR-E over Australia?" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Aoqi Zhang, and Minha Choi, <i>Terrestrial, Atmospheric and Oceanic Sciences</i> &nbsp; <a href="http://tao.cgu.org.tw/index.php/articles/archive/atmospheric-science/item/1467-2016071201a">TAO</a> | <a href="/pdfs/Cho_etal_2016_TAO.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3319/TAO.2016.07.12.01" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.3319/TAO.2016.07.12.01" data-style="small_circle" style="display: inline-block;"></span>
+  
+<h2><span style="color: #0055A9;">2015</span></h2>
+<p id="Cho_etal_2015_RSE"><b>3.</b> "An assessment of remotely sensed surface and root zone soil moisture through active and passive sensors in northeast Asia" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Minha Choi, and Wolfgang Wagner, <i>Remote Sensing of Environment</i> &nbsp; <a href="https://doi.org/10.1016/j.rse.2015.01.013">RSE</a> | <a href="/pdfs/Cho_etal_2017_RSE.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rse.2015.01.013" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.rse.2015.01.013" data-style="small_circle" style="display: inline-block;"></span>
+  
+<p id="Cho_etal_2015_JMSJ"><b>2.</b> "First assessment of the Advanced Microwave Scanning Radiometer 2 (AMSR2) soil moisture contents in Northeast Asia" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Heewon Moon, and Minha Choi, <i>Journal of the Meteorological Society of Japan. Ser. II</i> &nbsp; <a href="https://doi.org/10.1016/j.rse.2015.01.013">JMSJ</a> | <a href="/pdfs/Cho_etal_2015_JMSJ.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.2151/jmsj.2015-008" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.2151/jmsj.2015-008" data-style="small_circle" style="display: inline-block;"></span>
+
+<h2><span style="color: #0055A9;">2014</span></h2>
+<p id="Cho_etal_2014_JH"><b>1.</b> "Regional scale spatio-temporal variability of soil moisture and its relationship with meteorological factors over the Korean peninsula" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b> and Minha Choi, <i>Journal of Hydrology</i> &nbsp; <a href="https://www.sciencedirect.com/science/article/pii/S0022169414000055">JOH</a> | <a href="/pdfs/Cho_etal_2014_JH.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jhydrol.2013.12.053" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jhydrol.2013.12.053" data-style="small_circle" style="display: inline-block;"></span>
