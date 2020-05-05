@@ -4,10 +4,10 @@ title: Publication
 permalink: /publication/
 subtitle: Eunsang Cho publications and links to papers
 ---
-<a href="https://scholar.google.co.kr/citations?user=G6CX5wsAAAAJ&hl=en">Eunsang Cho's Google Scholar</a>
-<a href="https://www.researchgate.net/profile/Eunsang_Cho">Eunsang Cho's Researchgate</a>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a href="https://scholar.google.co.kr/citations?user=G6CX5wsAAAAJ&hl=en">Eunsang Cho's Google Scholar</a>
+<br><a href="https://www.researchgate.net/profile/Eunsang_Cho">Eunsang Cho's Researchgate</a>
 <br>*corresponding author
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
