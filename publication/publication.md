@@ -10,7 +10,7 @@ subtitle: Eunsang Cho publications and links to papers
 <h2><span style="color: #BD0026;">in press</span></h2>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
-<p id="Forgotson_etal_2020_IEEE"><b>15.</b> "How Satellite Soil Moisture Data Can Help to Monitor the Impacts of Climate Change: SMAP Case Studies" (2020) <br><span style="font-size: 14px !important; color: #555;">Forgotson, Chalita, Peggy E. Oneill, Marco L. Carrera, Stephane Belair, Narendra N. Das, Iliana E. Mladenova, John D. Bolten, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, and Vanessa M. Escobar, <i>Remote Sensing of Environment</i> &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/9064534">IEEE JSTARS</a> | <a href="/pdfs/Forgotson_etal_2020_IEEE.pdf">PDF</a>
+<p id="Forgotson_etal_2020_IEEE"><b>15.</b> "How Satellite Soil Moisture Data Can Help to Monitor the Impacts of Climate Change: SMAP Case Studies" (2020) <span style="font-size: 14px !important; color: #555;">Forgotson, Chalita, Peggy E. Oneill, Marco L. Carrera, Stephane Belair, Narendra N. Das, Iliana E. Mladenova, John D. Bolten, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, and Vanessa M. Escobar, <i>Remote Sensing of Environment</i> &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/9064534">IEEE JSTARS</a> | <a href="/pdfs/Forgotson_etal_2020_IEEE.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.rse.2020.111668" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSTARS.2020.2982608" data-style="small_circle" style="display: inline-block;"></span>
 
