@@ -41,7 +41,7 @@ subtitle: Eunsang Cho publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/rs10091483" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.3390/rs10091483" data-style="small_circle" style="display: inline-block;"></span>
 
-<p id="Tuttle_etal_2018_HP"><b>9.</b> " Intercomparison of Snow Water Equivalent Observations in the Northern Great Plains" (2018)  <span style="font-size: 14px !important; color: #555;">Samuel E. Tuttle, Jennifer M. Jacobs, Carrie M. Vuyovich, Carrie Olheiser, <b><i>Eunsang Cho</i></b>, <i>Hydrological Processes</i> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.11459">RS</a> | <a href="/pdfs/Tuttle_etal_2018_HP.pdf">PDF</a>
+<p id="Tuttle_etal_2018_HP"><b>8.</b> " Intercomparison of Snow Water Equivalent Observations in the Northern Great Plains" (2018)  <span style="font-size: 14px !important; color: #555;">Samuel E. Tuttle, Jennifer M. Jacobs, Carrie M. Vuyovich, Carrie Olheiser, <b><i>Eunsang Cho</i></b>, <i>Hydrological Processes</i> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.11459">RS</a> | <a href="/pdfs/Tuttle_etal_2018_HP.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/hyp.11459" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/hyp.11459" data-style="small_circle" style="display: inline-block;"></span>
 
