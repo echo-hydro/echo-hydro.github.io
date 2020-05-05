@@ -49,3 +49,13 @@ subtitle: Eunsang Cho publications and links to papers
 <p id="Cho_etal_2017_RS"><b>7.</b> "Evaluating Consistency of Snow Water Equivalent Retrievals from Passive Microwave Sensors over the North Central U. S.: SSM/I vs. SSMIS and AMSR-E vs. AMSR2" <br><span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Samuel E. Tuttle, Jennifer M. Jacobs, <i>Remote Sensing</i> &nbsp; <a href="https://www.mdpi.com/2072-4292/9/5/465">RS</a> | <a href="/pdfs/Cho_etal_2019_WRR_SSD.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.3390/rs9050465" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.3390/rs9050465" data-style="small_circle" style="display: inline-block;"></span>
+  
+ <p id="Kim_etal_2018_HP"><b>6.</b> "Intercomparison of Snow Water Equivalent Observations in the Northern Great Plains" (2018)  <span style="font-size: 14px !important; color: #555;">Samuel E. Tuttle, Jennifer M. Jacobs, Carrie M. Vuyovich, Carrie Olheiser, <b><i>Eunsang Cho</i></b>, <i>Hydrological Processes</i> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.11459">RS</a> | <a href="/pdfs/Tuttle_etal_2018_HP.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1002/hyp.11459" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1002/hyp.11459" data-style="small_circle" style="display: inline-block;"></span>
+
+<p id="Kim_etal_2017_AM"><b>5.</b> "Development and assessment of the sand dust prediction model by utilizing microwave-based satellite soil moisture and reanalysis datasets in East Asian desert areas" (2017)  <br><span style="font-size: 14px !important; color: #555;">Kim, Hyunglok, Muhammad Zohaib, <b><i>Eunsang Cho</i></b>, Yann H. Kerr, and Minha Choi, <i>Advances in Meteorology</i> &nbsp; <a href="https://www.hindawi.com/journals/amete/2017/1917372/">AM</a> | <a href="/pdfs/Kim_etal_2017_AM.pdf">PDF</a>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1155/2017/1917372" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1155/2017/1917372" data-style="small_circle" style="display: inline-block;"></span>
+  
+ <h2><span style="color: #0055A9;">2017</span></h2>
