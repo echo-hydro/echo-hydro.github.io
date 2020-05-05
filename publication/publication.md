@@ -51,7 +51,7 @@ subtitle: Eunsang Cho publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/rs9050465" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.3390/rs9050465" data-style="small_circle" style="display: inline-block;"></span>
   
-<p id="Kim_etal_2017_AM"><b>6.</b> "Development and assessment of the sand dust prediction model by utilizing microwave-based satellite soil moisture and reanalysis datasets in East Asian desert areas" (2017)  <br><span style="font-size: 14px !important; color: #555;">Hyunglok Kim, Muhammad Zohaib, <b><i>Eunsang Cho</i></b>, Yann H. Kerr, and Minha Choi, <i>Advances in Meteorology</i> &nbsp; <a href="https://www.hindawi.com/journals/amete/2017/1917372/">AM</a> | <a href="/pdfs/Kim_etal_2017_AM.pdf">PDF</a>
+<p id="Kim_etal_2017_AM"><b>6.</b> "Development and assessment of the sand dust prediction model by utilizing microwave-based satellite soil moisture and reanalysis datasets in East Asian desert areas" (2017)  span style="font-size: 14px !important; color: #555;">Hyunglok Kim, Muhammad Zohaib, <b><i>Eunsang Cho</i></b>, Yann H. Kerr, and Minha Choi, <i>Advances in Meteorology</i> &nbsp; <a href="https://www.hindawi.com/journals/amete/2017/1917372/">AM</a> | <a href="/pdfs/Kim_etal_2017_AM.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1155/2017/1917372" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1155/2017/1917372" data-style="small_circle" style="display: inline-block;"></span>
  
