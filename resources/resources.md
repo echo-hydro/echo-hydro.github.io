@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photo
+title: Resources
 permalink: /resources/
 subtitle: Useful materials and links
 ---
