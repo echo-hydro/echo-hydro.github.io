@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Photo
 permalink: /resources/
 subtitle: Useful materials and links
 ---
@@ -37,18 +37,29 @@ subtitle: Useful materials and links
 <br>
 
 <span style="font-size: 15px !important;">
-<a href="http://fcon_1000.projects.nitrc.org/indi/abide/">ABIDE</a>:Autism Brain Imaging Data Exchange (Autism; rs-fMRI)<br>
-<a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/">ADHD-200</a>: Attention Deficit Hyperactivity Disorder-200 (ADHD; rs-fMRI)<br>
-<a href="http://adni.loni.usc.edu/">ADNI</a>: Alzheimer’s Disease Neuroimaging Initiative (Alzheimer’s; Multimodal including sMRI, fMRI, PET)<br>
-<a href="https://aibl.csiro.au/">AIBL</a>:Australian Imaging, Biomarkers & Lifestyle Flagship Study of Aging (Alzheimer’s; Multimodal including sMRI, PET)<br>
+<a href="http://fcon_1000.projects.nitrc.org/indi/abide/">ABIDE</a>:
+Autism Brain Imaging Data Exchange (Autism; rs-fMRI)<br>
+<a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/">ADHD-200</a>: 
+Attention Deficit Hyperactivity Disorder-200 (ADHD; rs-fMRI)<br>
+<a href="http://adni.loni.usc.edu/">ADNI</a>: 
+Alzheimer’s Disease Neuroimaging Initiative (Alzheimer’s; Multimodal including sMRI, fMRI, PET)<br>
+<a href="https://aibl.csiro.au/">AIBL</a>:
+Australian Imaging, Biomarkers & Lifestyle Flagship Study of Aging (Alzheimer’s; Multimodal including sMRI, PET)<br>
 <a href="http://oasis-brains.org/">OASIS</a>: Open Access Series of Imaging Studies (Alzheimer’s; sMRI)<br>
-<a href="http://www.brainresource.com/home.html">iSPOT-D</a>:international Study to Predict Optimized Treatment for Depression (Depression; Multimodal including EEG, dMRI, fMRI, sMRI)<br>
-<a href="http://coins.mrn.org">MCIC</a>:MIND Clinical Imaging Consortium (Schizophrenia; Multimodal including dMRI, fMRI, sMRI)<br>
-<a href="http://fcon_1000.projects.nitrc.org/indi/retro/cobre.html">COBRE</a>:Center of Biomedical Research Excellence (Schizophrenia; sMRI, rs-fMRI)<br>
-<a href="http://www.schizconnect.org/">fBIRN</a>:function Biomedical Informatics Research Network (Schizophrenia; fMRI, sMRI)<br>
-<a href="http://www.ppmi-info.org/">PPMI</a>:Parkinson’s Progression Markers Initiative (Parkinson’s; Multimodal, including dMRI, fMRI, sMRI, PET)<br>
-<a href="http://www.painrepository.org/">PAIN</a>:Pain and Interoception Imaging Network (Pain; Multimodal, including dMRI, fMRI, sMRI)<br>
-<a href="http://www.openpain.org/">OpenPain</a>:http://www.openpain.org (Pain; fMRI)<br></span>
+<a href="http://www.brainresource.com/home.html">iSPOT-D</a>:
+international Study to Predict Optimized Treatment for Depression (Depression; Multimodal including EEG, dMRI, fMRI, sMRI)<br>
+<a href="http://coins.mrn.org">MCIC</a>:
+MIND Clinical Imaging Consortium (Schizophrenia; Multimodal including dMRI, fMRI, sMRI)<br>
+<a href="http://fcon_1000.projects.nitrc.org/indi/retro/cobre.html">COBRE</a>:
+Center of Biomedical Research Excellence (Schizophrenia; sMRI, rs-fMRI)<br>
+<a href="http://www.schizconnect.org/">fBIRN</a>:
+function Biomedical Informatics Research Network (Schizophrenia; fMRI, sMRI)<br>
+<a href="http://www.ppmi-info.org/">PPMI</a>:
+Parkinson’s Progression Markers Initiative (Parkinson’s; Multimodal, including dMRI, fMRI, sMRI, PET)<br>
+<a href="http://www.painrepository.org/">PAIN</a>:
+Pain and Interoception Imaging Network (Pain; Multimodal, including dMRI, fMRI, sMRI)<br>
+<a href="http://www.openpain.org/">OpenPain</a>:
+http://www.openpain.org (Pain; fMRI)<br></span>
 
 <p><span style="font-size: 13px !important;color: #666;"><i>Note</i>: dMRI, fMRI and sMRI refer to diffusion-weighted, functional and structural MRI, respectively; rs-fMRI refers to resting-state fMRI.</span></p>
 
