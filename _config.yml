@@ -31,8 +31,8 @@ navbar-links:
     - Projects: "research/projects"
    # - Codes: "research/codes"
     - Data: "research/data"
-  Photos: "photos" 
-  Videos: "videos" 
+  Photos: "photos/photos" 
+  Videos: "videos/videos" 
   CV: "https://drive.google.com/file/d/1NpR5zZ7UkJur0pQJS7CVD449IplAWqyh/view?usp=sharing"
 
 
