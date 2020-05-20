@@ -24,7 +24,7 @@ description: "Research website"
 # List of links in the navigation bar
 navbar-links:
   About: ""
-  News: "news"
+  News: "news/2020"
    # - 2020: "news/2020"
   Publication: "publication"
   Research: 
