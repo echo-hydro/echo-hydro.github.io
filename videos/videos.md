@@ -7,12 +7,15 @@ subtitle: Videos made by the Cocoan lab
 <span style="font-size: 15px !important; color: #BD0026;">Wani's talk on pattern-based predictive mapping (April 17, 2020) </span>
 
 <center><iframe width="600" height="338" src="https://www.youtube.com/embed/FwAHjRJXvLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<span style="font-size: 15px !important;"><a href="/pdfs/Precision_Woo_Chapter.pdf">Book Chapter</a> accompanied with this talk (written in Korean)</span>
+
 <br>
 
 
 <span style="font-size: 15px !important; color: #BD0026;">Video abstract for Kohoutová et al. (2020) </span>
 
 <center><iframe width="600" height="338" src="https://www.youtube.com/embed/kcDfEkoQa7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 <br>
 
 
