@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Eunsang Cho
+title: Eunsang Cho, Ph.D.
 permalink: /
-subtitle: HYDROLOGY AND WATER RESOURCES IN RIGHT OF HUMAN & CLIMATE IMPACTS
+subtitle: HYDROLOGY, REMOTE SENSING, AND WATER RESOURCES IN RIGHT OF HUMAN & CLIMATE IMPACTS
 ---
 
 <img src="img/hydrology.jpg" width="820" align="center"/>
