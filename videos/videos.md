@@ -4,7 +4,8 @@ title: Videos
 subtitle: Videos related to my research and life
 ---
 <span style="font-size: 15px !important; color: #2A58E1;"><b> NASA Explorers: The Snow Below </b></span>
-<span style="font-size: 14px !important; color: #060B1E;"><i> I strongly recommend watching this video. It's very useful to understand how snow plays a crucial role in regulating Earth’s climate as well as water resources management. </i></span>
+<br>
+<span style="font-size: 14px !important; color: #92A9F0;"><i> I strongly recommend watching this video. It's very useful to understand how snow plays a crucial role in regulating Earth’s climate as well as water resources management. </i></span>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/60D5EWLb20Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
