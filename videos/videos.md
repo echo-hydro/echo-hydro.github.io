@@ -13,7 +13,7 @@ subtitle: Videos related to my research and life
 <span style="font-size: 15px !important; color: #2A58E1;"><b> NASA SMAP 2018 Early Adopter Video </b></span>
 <br>
 <span style="font-size: 15px !important; color: #92A9F0;"><i> "My work was featured in the NASA Soil Moisture Active Passive (SMAP) video minutes 2:39 to 3:09! Click this link <a href="https://smap.jpl.nasa.gov/resources/96/smap-2018-ea-update-short-version/"><b>here</b></a>" </i></span>
-<img src="/news/videos/SMAP_EA_shot.png" width="600" align="center" hspace="20" />
+<img src="/videos/SMAP_EA_shot.png" width="600" align="center" hspace="20" />
 <br>
 <br>
 
