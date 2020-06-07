@@ -11,6 +11,7 @@ subtitle: Videos related to my research and life
 <br>
 
 <span style="font-size: 15px !important; color: #2A58E1;"><b> NASA SMAP 2018 Early Adopter Video </b></span>
+<br>
 <span style="font-size: 14px !important; color: #92A9F0;"><i> "My work was featured in this video minutes 2:39 to 3:09!" </i></span>
 <center><iframe width="560" height="315" src="https://smap.jpl.nasa.gov/resources/96/smap-2018-ea-update-short-version/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
