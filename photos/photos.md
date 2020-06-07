@@ -15,7 +15,7 @@ subtitle: Photos taken by Eunsang
 
 <img src="/photos/Namibia3.JPG" width="600" align="center" hspace="5" />
 
-<b><span style="font-size: 20px !important; color: #0055A9;">Etosha National Park, Namibia, Africa <i>(June 2012)</i></span></b>https://en.wikipedia.org/wiki/Etosha_National_Park
+<b><span style="font-size: 20px !important; color: #0055A9;"><a href="https://en.wikipedia.org/wiki/Etosha_National_Park">Etosha National Park</a>, Namibia, Africa <i>(June 2012)</i></span></b>
 
 <img src="/photos/Etosha0.JPG" width="600" align="center" hspace="5" />
 
