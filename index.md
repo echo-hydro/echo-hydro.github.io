@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eunsang Cho, Ph.D.
+title: Dr. Eunsang Cho
 permalink: /
 subtitle: HYDROLOGY, REMOTE SENSING, AND WATER RESOURCES IN RIGHT OF HUMAN & CLIMATE IMPACTS
 ---
@@ -12,7 +12,7 @@ I am currently a Postdoctoral Scholar working with <a href="https://ceps.unh.edu
 
 <span style="font-size: 15px !important; color: #2A58E1;"><b> NASA Explorers: The Snow Below </b></span>
 <br>
-<span style="font-size: 14px !important; color: #92A9F0;"><i> "I strongly recommend watching this short video made by NASA Explorers. It's very useful to understand how snow plays a crucial role in regulating Earth’s climate as well as water resources management." </i></span>
+<span style="font-size: 14px !important; color: #92A9F0;"><i> "I recommend watching this short video made by NASA Explorers. It's very useful to understand how snow plays a crucial role in regulating Earth’s climate as well as water resources management." </i></span>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/60D5EWLb20Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
