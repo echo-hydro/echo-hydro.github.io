@@ -6,7 +6,7 @@ subtitle: Videos related to my research and life
 <span style="font-size: 15px !important; color: #2A58E1;"><b> My 4-min blizzard talk at NASA THP snow meeting on 14-Sep-2020</b></span>
 <br>
 
-<span style="font-size: 18px !important; color: #92A9F0;">I presented my Sierra Nevada snowpack work at <a href="https://above.nasa.gov/SnowEx/2020_agenda.html">NASA Terrastrial Hydrology Program Snow Virtual meeting</a> on 14th Sep. The presentation title is <b><i>"How different are the Sierra Nevada snowpack estimates from four land surface models with three forcing datasets?". If you want to see the full slides, </i></b> Click <a href="https://above.nasa.gov/files/snowex_2020/Cho_Day2_poster_879.pdf"><b>here</b></a>. </span>
+<span style="font-size: 18px !important; color: #92A9F0;">I presented my Sierra Nevada snowpack work at the <a href="https://above.nasa.gov/SnowEx/2020_agenda.html">NASA Terrastrial Hydrology Program Snow Virtual meeting</a> on 14th September, 2020. The presentation title is <b><i>"How different are the Sierra Nevada snowpack estimates from four land surface models with three forcing datasets?". If you want to see the full slides, </i></b> Click <a href="https://above.nasa.gov/files/snowex_2020/Cho_Day2_poster_879.pdf"><b>here</b></a>. </span>
 <center><iframe width="600" height="337" src="https://above.nasa.gov/files/snowex_2020/Cho_Day2_blizzard_839.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <span style="font-size: 15px !important; color: #2A58E1;"><b> NASA Explorers: The Snow Below </b></span>
