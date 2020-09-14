@@ -3,6 +3,18 @@ layout: page
 title: Photos
 subtitle: Photos taken by Eunsang
 ---
+<b><span style="font-size: 20px !important; color: #0055A9;">Finally, my cap and gown arrived! Here are graduation photos with my family and Hyunglok & Eunbi on UNH campus (credit: Hyunglok Kim)</span></b>
+
+<img src="/photos/Graduation4.PNG" width="700" align="center" hspace="5" />
+
+<img src="/photos/Graduation1.JPG" width="700" align="center" hspace="5" />
+
+<img src="/photos/Graduation2.JPG" width="700" align="center" hspace="5" />
+
+<img src="/photos/Graduation5.PNG" width="700" align="center" hspace="5" />
+
+<img src="/photos/Graduation3.JPG" width="700" align="center" hspace="5" />
+
 <b><span style="font-size: 20px !important; color: #0055A9;"><a href="https://sossusvlei.com/en/namib-dunes/dune-45/">Dune 45 Sossusvlei Namib Desert</a>, Namibia, Africa <i></i></span></b>
 
 <img src="/photos/Namibia.JPG" width="600" align="center" hspace="5" />
