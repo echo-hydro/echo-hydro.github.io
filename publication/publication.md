@@ -11,14 +11,15 @@ subtitle: Eunsang Cho publications and links to papers
 
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review / in preparation </span></h2>
-<p id="Cho_etal_2020_WRR_snowmelt"><b>17.</b> "Extreme Value Snow Water Equivalent and Snowmelt for
-Infrastructure Design over the Continental United States" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b> and Jennifer M. Jacobs, <i>Water Resources Research</i> &nbsp; <a href="https://www.essoar.org/doi/10.1002/essoar.10501588.1">Preprint on Earth and Space Science Open Archive</a>
 
-<p id="Jacobs_etal_2020_TC"><b>16.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i>,</b> <i>The Cryosphere Discuss.</i> &nbsp; <a href="https://doi.org/10.5194/tc-2020-37">TCD</a>
+<p id="Jacobs_etal_2020_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i>,</b> <i>The Cryosphere Discuss.</i> &nbsp; <a href="https://doi.org/10.5194/tc-2020-37">TCD</a>
 
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
+<p id="Cho_etal_2020_WRR_Extreme_SWE"><b>16.</b> "Extreme Value Snow Water Equivalent and Snowmelt for
+Infrastructure Design over the Continental United States" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b> and Jennifer M. Jacobs, <i>Water Resources Research</i> &nbsp; <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020WR028126">WRR</a> | <a href="/pdfs/Cho_etal_2020_WRR_Extreme_SWE.pdf">PDF</a>
+
 <p id="Forgotson_etal_2020_IEEE"><b>15.</b> "How Satellite Soil Moisture Data Can Help to Monitor the Impacts of Climate Change: SMAP Case Studies" (2020)  <span style="font-size: 14px !important; color: #555;"> Chalita Forgotson*, Peggy E. Oneill, Marco L. Carrera, Stephane Belair, Narendra N. Das, Iliana E. Mladenova, John D. Bolten, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, and Vanessa M. Escobar, <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> &nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/9064534">IEEE JSTARS</a> | <a href="/pdfs/Forgotson_etal_2020_IEEE_J-STARS_SMAP.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1109/JSTARS.2020.2982608" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSTARS.2020.2982608" data-style="small_circle" style="display: inline-block;"></span>
