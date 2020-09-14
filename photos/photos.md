@@ -3,7 +3,7 @@ layout: page
 title: Photos
 subtitle: Photos taken by Eunsang
 ---
-<b><span style="font-size: 20px !important; color: #0055A9;">Finally, my cap and gown arrived! Here are graduation photos with my family and Hyunglok & Eunbi on UNH campus (credit: Hyunglok Kim)</span></b>
+<span style="font-size: 20px !important; color: #0055A9;">Finally, my cap and gown have arrived! Here are graduation photos with Hyunglok & Eunbi at the UNH Durham campus (credit: Hyunglok Kim)</span>
 
 <img src="/photos/Graduation4.PNG" width="700" align="center" hspace="5" />
 
