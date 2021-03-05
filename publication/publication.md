@@ -17,7 +17,7 @@ subtitle: Eunsang Cho publications and links to papers
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
 <h2><span style="color: #0055A9;">2021</span></h2>
-<p id="Jacobs_etal_2020_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i>,</b> <i>The Cryosphere</i> | <a href="https://doi.org/10.5194/tc-2020-37">TC</a> | <a href="/pdfs/Jacobs_etal_2021_TC_UVA_Lidar.pdf">PDF</a>
+<p id="Jacobs_etal_2020_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i>,</b> <i>The Cryosphere</i> | <a href="https://doi.org/10.5194/tc-2020-37">TC</a> | <a href="/pdfs/Jacobs_etal_2021_TC_UAV_Lidar.pdf">PDF</a>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
 <p id="Cho_etal_2020_WRR_Extreme_SWE"><b>16.</b> "Extreme Value Snow Water Equivalent and Snowmelt for
