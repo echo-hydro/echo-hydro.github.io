@@ -12,7 +12,7 @@ subtitle: Eunsang Cho publications and links to papers
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review / in preparation </span></h2>
 
-<p id="Cho_etal_2020_Maxent"><b>18.</b> "Physical Drivers of Snowpack Spatial Structure from Unpiloted Aerial System (UAS) Lidar Observations" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Adam G. Hunsaker, Jennifer M. Jacobs, Franklin B. Sullivan, Michael Palace, and Elizabeth A. Burakowski, <i>Water Resources Research</i> | <a href="https://doi.org/10.1002/essoar.10505539.1">preprint</a>
+<p id="Cho_etal_2020_Maxent"><b>18.</b> "Physical Drivers of Snowpack Spatial Structure from Unpiloted Aerial System (UAS) Lidar Observations" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Adam G. Hunsaker, Jennifer M. Jacobs, Franklin B. Sullivan, Michael Palace, and Elizabeth A. Burakowski, <i>Water Resources Research</i> | <a href="https://doi.org/10.1002/essoar.10505539.1">preprint</a> | <a href="/pdfs/Jacobs_etal_2021_TC_UVA_Lidar.pdf">PDF</a>
   
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
