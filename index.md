@@ -15,6 +15,5 @@ I am currently a Postdoctoral Research Scientist at <a href="https://science.gsf
 <span style="font-size: 14px !important; color: #92A9F0;"><i> "I recommend watching this short video made by NASA Explorers. It's very useful to understand how snow plays a crucial role in regulating Earth’s climate as well as water resources management." </i></span>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/60D5EWLb20Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<meta name="google-site-verification" content="TA2LC2Fj2TUFwACL3804X2DJsLNOlWkiUIb5ZEDfUYM" />
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=echo-hydro.echo-hydro.github.io.issue.1)
