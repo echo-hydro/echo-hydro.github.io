@@ -12,11 +12,13 @@ subtitle: Eunsang Cho publications and links to papers
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review / in preparation </span></h2>
 
-<p id="Cho_etal_2020_Maxent"><b>18.</b> "Physical Drivers of Snowpack Spatial Structure from Unpiloted Aerial System (UAS) Lidar Observations" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Adam G. Hunsaker, Jennifer M. Jacobs, Franklin B. Sullivan, Michael Palace, and Elizabeth A. Burakowski, <i>Water Resources Research</i> | <a href="https://doi.org/10.1002/essoar.10505539.1">preprint</a> 
+<p id="Cho_etal_2021_GRL"><b>19.</b> "Future Changes in Snowpack and Snowmelt Extremes over North America" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Rachel McCrary, Jennifer M. Jacobs, <i>Geophysical Research Letters</i>
   
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
 <h2><span style="color: #0055A9;">2021</span></h2>
+<p id="Cho_etal_2020_Maxent"><b>18.</b> "Maximum entropy modeling to identify physical drivers of shallow snowpack heterogeneity using unpiloted aerial system (UAS) lidar" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Adam G. Hunsaker, Jennifer M. Jacobs, Franklin B. Sullivan, Michael Palace, and Elizabeth A. Burakowski, <i>Journal of Hydrology</i> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169421007721">JOH</a> | <a href="/pdfs/Cho_etal_2021_JOH_preproof.pdf">PDF</a> 
+  
 <p id="Jacobs_etal_2020_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i>,</b> <i>The Cryosphere</i> | <a href="https://doi.org/10.5194/tc-2020-37">TC</a> | <a href="/pdfs/Jacobs_etal_2021_TC_UAV_Lidar.pdf">PDF</a>
 
 <h2><span style="color: #0055A9;">2020</span></h2>
