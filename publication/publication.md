@@ -10,7 +10,7 @@ subtitle: Eunsang Cho publications and links to papers
 <br><a href="https://www.researchgate.net/profile/Eunsang_Cho">Eunsang Cho's Researchgate</a>
 
 <br>*corresponding author
-<h2><span style="color: #BD0026;">in revision / under review / in preparation </span></h2>
+<h2><span style="color: #BD0026;">in revision / under review </span></h2>
 
 <p id="Cho_etal_2022_JAMES"><b>20.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Journal of Advances in Modeling Earth Systems</i>
   
