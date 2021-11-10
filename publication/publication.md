@@ -12,11 +12,15 @@ subtitle: Eunsang Cho publications and links to papers
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review / in preparation </span></h2>
 
-<p id="Cho_etal_2021_GRL"><b>19.</b> "Future Changes in Snowpack and Snowmelt Extremes over North America" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Rachel McCrary, Jennifer M. Jacobs, <i>Geophysical Research Letters</i>
+<p id="Cho_etal_2022_JAMES"><b>20.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Journal of Advances in Modeling Earth Systems</i>
   
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
 <h2><span style="color: #0055A9;">2021</span></h2>
+<p id="Cho_etal_2021_GRL"><b>19.</b> "Future Changes in Snowpack and Snowmelt Extremes over North America" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Rachel McCrary, Jennifer M. Jacobs, <i>Geophysical Research Letters</i> | <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094985">GRL</a> | <a href="/pdfs/Cho_etal_2021_GRL_FutureSnow.pdf">PDF</a> 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2021GL094985" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.1029/2021GL094985" data-style="small_circle" style="display: inline-block;"></span>
+  
 <p id="Cho_etal_2021_Maxent"><b>18.</b> "Maximum entropy modeling to identify physical drivers of shallow snowpack heterogeneity using unpiloted aerial system (UAS) lidar" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Adam G. Hunsaker, Jennifer M. Jacobs, Franklin B. Sullivan, Michael Palace, and Elizabeth A. Burakowski, <i>Journal of Hydrology</i> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169421007721">JOH</a> | <a href="/pdfs/Cho_etal_2021_JOH_preproof.pdf">PDF</a> 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.jhydrol.2021.126722" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jhydrol.2021.126722" data-style="small_circle" style="display: inline-block;"></span>
