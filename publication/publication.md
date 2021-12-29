@@ -17,7 +17,8 @@ subtitle: Eunsang Cho publications and links to papers
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
 <h2><span style="color: #0055A9;">2021</span></h2>
-<p id="Cho_etal_2021_GRL"><b>19.</b> "Future Changes in Snowpack and Snowmelt Extremes over North America" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Rachel McCrary, Jennifer M. Jacobs, <i>Geophysical Research Letters</i> | <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094985">GRL</a> | <a href="/pdfs/Cho_etal_2021_GRL_FutureSnow.pdf">PDF</a> 
+<p id="Cho_etal_2021_GRL"><b>19.</b> "Future Changes in Snowpack and Snowmelt Extremes over North America" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Rachel McCrary, Jennifer M. Jacobs, <i>Geophysical Research Letters</i> | <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094985">GRL</a> | <a href="/pdfs/Cho_etal_2021_GRL_FutureSnow.pdf">PDF</a> &nbsp;
+<span style="font-size: 14px !important; color: #555;"><b>Press: </b><a href="https://www.sciencedaily.com/releases/2021/12/211207174555.htm">ScienceDaily</a></span>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1029/2021GL094985" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2021GL094985" data-style="small_circle" style="display: inline-block;"></span>
   
