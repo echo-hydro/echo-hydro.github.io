@@ -12,7 +12,8 @@ subtitle: Eunsang Cho publications and links to papers
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review </span></h2>
 
-<p id="Cho_etal_2022_JAMES"><b>20.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Journal of Advances in Modeling Earth Systems</i>
+<p id="Cho_etal_2022_HESS"><b>21.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Macroscale Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Hydrology and Earth System Sciences Discussions</i>
+<p id="Proulx_etal_2022_TC"><b>21.</b> "Comparison of in-situ snow depth measurements and impacts on validation of unpiloted aerial system lidar over a mixed-use temperate forest landscape" <span style="font-size: 14px !important; color: #555;">Holly Proulx, Jennifer M. Jacobs*, Elizabeth A. Burakowski, <b><i>Eunsang Cho</i></b>, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, and Cameron Wagner, <i>The Cryosphere Discussions</i>
   
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
