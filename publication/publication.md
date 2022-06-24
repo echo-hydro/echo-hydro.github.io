@@ -31,7 +31,7 @@ subtitle: Eunsang Cho publications and links to papers
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.jhydrol.2021.126722" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jhydrol.2021.126722" data-style="small_circle" style="display: inline-block;"></span>
   
-<p id="Jacobs_etal_2021_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i>,</b> <i>The Cryosphere</i> | <a href="https://doi.org/10.5194/tc-2020-37">TC</a> | <a href="/pdfs/Jacobs_etal_2021_TC.pdf">PDF</a>
+<p id="Jacobs_etal_2021_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i></b>, <i>The Cryosphere</i> | <a href="https://doi.org/10.5194/tc-2020-37">TC</a> | <a href="/pdfs/Jacobs_etal_2021_TC.pdf">PDF</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/tc-2020-37" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.5194/tc-2020-37" data-style="small_circle" style="display: inline-block;"></span>
   
