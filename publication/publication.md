@@ -12,6 +12,7 @@ subtitle: Eunsang Cho publications and links to papers
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review </span></h2>
 
+<p id="Cho_etal_2023_RSE"><b>23.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon, Sujay Kumar, Carrie Vuyovich, <i>Remote Sensing of Environment</i> | <a href="/pdfs/Cho_etal_2023_RSE_GammaDA.pdf">PDF</a> &nbsp;
 <p id="Moradi_etal_2022_CRST"><b>22.</b> "Seasonal Soil Freeze/Thaw Variability Across North America via SEUP Ensemble Land Surface Modeling" <span style="font-size: 14px !important; color: #555;">Mahsa Moradi*, <b><i>Eunsang Cho</i></b>, Jennifer Jacobs, Carrie Vuyovich, <i>Cold Regions Science and Technology</i>
 <p id="Cho_etal_2022_HESS"><b>21.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Macroscale Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-136/">HESSD</a>
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/hess-2022-136" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
