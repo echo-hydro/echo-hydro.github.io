@@ -13,14 +13,11 @@ subtitle: Eunsang Cho publications and links to papers
 <h2><span style="color: #BD0026;">in revision / under review </span></h2>
 
 <p id="Cho_etal_2023_TC"><b>24.</b> "Evaluating the Utility of Active Microwave Observations as a Snow Mission Concept Using Observing System Simulation Experiments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, <i>The Cryosphere Discussions</i> | <a href="https://tc.copernicus.org/preprints/tc-2022-220">TCD</a> 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://hess.copernicus.org/preprints/tc-2022-220" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.5194/tc-2022-220" data-style="small_circle" style="display: inline-block;"></span>
+
 <p id="Cho_etal_2023_HESS"><b>23.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://hess.copernicus.org/preprints/hess-2022-332" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;
-<span class="__dimensions_badge_embed__" data-doi="10.5194/hess-2022-332" data-style="small_circle" style="display: inline-block;"></span>
+
 <p id="Proulx_etal_2023_TC"><b>22.</b> "Comparison of in-situ snow depth measurements over a mixed-use temperate forest landscape" <span style="font-size: 14px !important; color: #555;">Holly Proulx, Jennifer M. Jacobs*, Elizabeth A. Burakowski, <b><i>Eunsang Cho</i></b>, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, and Cameron Wagner, <i>The Cryosphere Discussions</i> | <a href="https://tc.copernicus.org/preprints/tc-2022-7/">TCD</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/tc-2022-7" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp;  
-<span class="__dimensions_badge_embed__" data-doi="10.5194/tc-2022-7" data-style="small_circle" style="display: inline-block;"></span>
+
 <p id="Moradi_etal_2022_CRST"><b>21.</b> "Seasonal Soil Freeze/Thaw Variability Across North America via SEUP Ensemble Land Surface Modeling" <span style="font-size: 14px !important; color: #555;">Mahsa Moradi*, <b><i>Eunsang Cho</i></b>, Jennifer Jacobs, Carrie Vuyovich, <i>Cold Regions Science and Technology</i>
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
