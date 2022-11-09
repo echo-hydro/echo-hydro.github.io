@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photos
-subtitle: Photos taken by Eunsang
+subtitle: 
 ---
 <span style="font-size: 20px !important; color: #0055A9;">Finally, my cap and gown have arrived! Here are graduation photos with Hyunglok & Eunbi at the UNH Durham campus (credit: Hyunglok Kim)</span>
 
