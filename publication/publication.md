@@ -24,7 +24,7 @@ subtitle: Eunsang Cho publications and links to papers
 <h2><span style="color: #BD0026;">Published/in press </span></h2>
 
 <h2><span style="color: #0055A9;">2022</span></h2>
-<p id="Cho_etal_2022_HESS"><b>20.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Macroscale Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Hydrology and Earth System Sciences</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-136/">HESS</a> | <a href="/pdfs/Cho_etal_2022_HESS.pdf">PDF</a> &nbsp;
+<p id="Cho_etal_2022_HESS"><b>20.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Macroscale Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Hydrology and Earth System Sciences</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-136/">HESS</a> | <a href="/pdfs/Cho_etal_2022_HESS.pdf">PDF</a> | <a href="/pdfs/Cho_etal_2022_HESS_Supporting_Info.pdf">Supporting Info</a> &nbsp;
 <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/hess-2022-136" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
 <span class="__dimensions_badge_embed__" data-doi="10.5194/hess-2022-136" data-style="small_circle" style="display: inline-block;"></span>
   
