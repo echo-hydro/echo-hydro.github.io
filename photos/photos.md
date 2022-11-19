@@ -3,6 +3,24 @@ layout: page
 title: Photos
 subtitle: 
 ---
+<span style="font-size: 17px !important; color: #0055A9;">International Symposium on Snow 2022 at Davos, Switzerland (+ Excursion at Stillberg) </span>
+
+<img src="/photos/202209_present.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_7876.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_7890.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_8049.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_8051.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_8072.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_8235.jpg" width="700" align="center" hspace="5" />
+
+<img src="/photos/IMG_8201.jpg" width="700" align="center" hspace="5" />
+
 <span style="font-size: 20px !important; color: #0055A9;">Finally, my cap and gown have arrived! Here are graduation photos with Hyunglok & Eunbi at the UNH Durham campus (credit: Hyunglok Kim)</span>
 
 <img src="/photos/Graduation4.PNG" width="700" align="center" hspace="5" />
