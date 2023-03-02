@@ -42,8 +42,8 @@ subtitle: Eunsang Cho publications and links to papers
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jhydrol.2021.126722" data-style="small_circle" style="display: inline-block;"></span>
   
 <p id="Jacobs_etal_2021_TC"><b>17.</b> "Shallow snow depth mapping with unmanned aerial systems lidar observations: A case study in Durham, New Hampshire, United States" <span style="font-size: 14px !important; color: #555;">Jennifer M. Jacobs*, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Elizabeth A. Burakowski, Christina Herrick, and <b><i>Eunsang Cho</i></b>, <i>The Cryosphere</i> | <a href="https://tc.copernicus.org/articles/15/1485/2021/tc-15-1485-2021.html">TC</a> | <a href="/pdfs/Jacobs_etal_2021_TC.pdf">PDF</a>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.5194/tc-2020-37" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
-<span class="__dimensions_badge_embed__" data-doi="10.5194/tc-2020-37" data-style="small_circle" style="display: inline-block;"></span>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.5194/tc-15-1485-2021" data-hide-no-mentions="true" class="altmetric-embed" style="display: inline-block;"></div> &nbsp; 
+<span class="__dimensions_badge_embed__" data-doi="10.5194/tc-15-1485-2021" data-style="small_circle" style="display: inline-block;"></span>
   
 <h2><span style="color: #0055A9;">2020</span></h2>
 <p id="Cho_etal_2020_WRR_Extreme_SWE"><b>16.</b> "Extreme Value Snow Water Equivalent and Snowmelt for
