@@ -18,8 +18,10 @@ subtitle: Eunsang Cho publications and links to papers
   
 <p id="Cho_etal_2023_HESS"><b>22.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
 
-<p id="Moradi_etal_2022_CRST"><b>21.</b> "Seasonal Soil Freeze/Thaw Variability Across North America via SEUP Ensemble Land Surface Modeling" <span style="font-size: 14px !important; color: #555;">Mahsa Moradi*, <b><i>Eunsang Cho</i></b>, Jennifer Jacobs, Carrie Vuyovich, <i>Cold Regions Science and Technology</i>
-<h2><span style="color: #BD0026;">Published/in press </span></h2>
+<h2><span style="color: #BD0026;">Published/in press </span></h2> 
+  
+<h2><span style="color: #0055A9;">2023</span></h2>
+<p id="Moradi_etal_2022_CRST"><b>21.</b> "Seasonal Soil Freeze/Thaw Variability Across North America via SEUP Ensemble Land Surface Modeling" <span style="font-size: 14px !important; color: #555;">Mahsa Moradi*, <b><i>Eunsang Cho</i></b>, Jennifer Jacobs, Carrie Vuyovich, <i>Cold Regions Science and Technology</i> | <a href="https://www.sciencedirect.com/science/article/pii/S0165232X23000368">CRST</a> | <a href="/pdfs/Moradi_etal_2023_CRST.pdf">PDF</a> &nbsp;
 
 <h2><span style="color: #0055A9;">2022</span></h2>
 <p id="Cho_etal_2022_HESS"><b>20.</b> "Precipitation Biases and Snow Physics Limitations Drive the Uncertainties in Macroscale Modeled Snow Water Equivalent Estimation" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, Jennifer Jacobs, <i>Hydrology and Earth System Sciences</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-136/">HESS</a> | <a href="/pdfs/Cho_etal_2022_HESS.pdf">PDF</a> | <a href="/pdfs/Cho_etal_2022_HESS_Supporting_Info.pdf">Supporting Info</a> &nbsp;
