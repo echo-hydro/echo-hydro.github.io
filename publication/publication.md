@@ -12,12 +12,16 @@ subtitle: Eunsang Cho publications and links to papers
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review </span></h2>
 
-<p id="Cho_etal_2023_TC"><b>24.</b> "Evaluating the Utility of Active Microwave Observations as a Snow Mission Concept Using Observing System Simulation Experiments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, <i>The Cryosphere Discussions</i> | <a href="https://tc.copernicus.org/preprints/tc-2022-220">TCD</a> 
+<p id="Cho_etal_2023_TC"><b>26.</b> "Evaluating the Utility of Active Microwave Observations as a Snow Mission Concept Using Observing System Simulation Experiments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho*</b>, Carrie Vuyovich, Sujay Kumar, Melissa Wrzesien, Rhae Sung Kim, <i>The Cryosphere Discussions</i> | <a href="https://tc.copernicus.org/preprints/tc-2022-220">TCD</a> 
 
-<p id="Verfailiie_etal_2023_FRS"><b>23.</b> "UAS Remote Sensing Applications to Cold Region Weather Disasters" <span style="font-size: 14px !important; color: #555;">Megan Verfaillie*, <b><i>Eunsang Cho</i></b>, Lauren Dwyre, Adam G. Hunsaker, Imran Khan, Cameron Wagner, and Jennifer M. Jacobs, <i>Frontiers in Remote Sensing</i> 
+<p id="Verfailiie_etal_2023_FRS"><b>25.</b> "UAS Remote Sensing Applications to Cold Region Weather Disasters" <span style="font-size: 14px !important; color: #555;">Megan Verfaillie*, <b><i>Eunsang Cho</i></b>, Lauren Dwyre, Adam G. Hunsaker, Imran Khan, Cameron Wagner, and Jennifer M. Jacobs, <i>Frontiers in Remote Sensing</i> 
   
-<p id="Cho_etal_2023_HESS"><b>22.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
+<p id="Cho_etal_2023_HESS"><b>24.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
 
+<p id="Johnson_etal_2023_JHM"><b>23.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
+  
+<p id="Proulx_etal_2023_TC"><b>22.</b> "Comparison of in-situ ephemeral snow depth measurements over a mixed-use temperate forest landscape" <span style="font-size: 14px !important; color: #555;">Holly Proulx, Jennifer M. Jacobs*, Elizabeth A. Burakowski,<b><i>Eunsang Cho</i></b>, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Cameron Wagner, <i>The Cryosphere Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2023-36/">TC</a> 
+  
 <h2><span style="color: #BD0026;">Published/in press </span></h2> 
   
 <h2><span style="color: #0055A9;">2023</span></h2>
