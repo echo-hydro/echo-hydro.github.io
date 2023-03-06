@@ -18,7 +18,7 @@ subtitle: Eunsang Cho publications and links to papers
   
 <p id="Cho_etal_2023_HESS"><b>24.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
 
-<p id="Johnson_etal_2023_JHM"><b>23.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
+<p id="Johnston_etal_2023_JHM"><b>23.</b> "Global Snow Seasonality Regimes from Satellite Records of Snow Cover" <span style="font-size: 14px !important; color: #555;">Jeremy Johnston*, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, <i>Journal of Hydrometeorology</i> 
   
 <p id="Proulx_etal_2023_TC"><b>22.</b> "Comparison of in-situ ephemeral snow depth measurements over a mixed-use temperate forest landscape" <span style="font-size: 14px !important; color: #555;">Holly Proulx, Jennifer M. Jacobs*, Elizabeth A. Burakowski,<b><i>Eunsang Cho</i></b>, Adam G. Hunsaker, Franklin B. Sullivan, Michael Palace, Cameron Wagner, <i>The Cryosphere Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2023-36/">TC</a> 
   
