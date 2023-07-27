@@ -11,10 +11,12 @@ subtitle: Eunsang Cho publications and links to papers
 
 <br>*corresponding author
 <h2><span style="color: #BD0026;">in revision / under review </span></h2>
-  
-<p id="Cho_etal_2023_HESS"><b>26.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
 
-<p id="Johnston_etal_2023_JHM"><b>25.</b> "Global Snow Seasonality Regimes from Satellite Records of Snow Cover" <span style="font-size: 14px !important; color: #555;">Jeremy Johnston*, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, <i>Journal of Hydrometeorology</i> 
+<p id="Pflug_etal_2023_HESS"><b>27.</b> "Extending the utility of space-borne snow water equivalent observations over vegetated areas with data assimilation" <span style="font-size: 14px !important; color: #555;">Justin M. Pflug*, Melissa L. Wrzesien, Sujay V. Kumar,<b><i>Eunsang Cho</i></b>, Kristi R. Arsenault, Paul R. Houser, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1603/">HESSD</a> 
+
+<p id="Johnston_etal_2023_JHM"><b>26.</b> "Global Snow Seasonality Regimes from Satellite Records of Snow Cover" <span style="font-size: 14px !important; color: #555;">Jeremy Johnston*, Jennifer M. Jacobs, <b><i>Eunsang Cho</i></b>, <i>Journal of Hydrometeorology</i> 
+  
+<p id="Cho_etal_2023_HESS"><b>25.</b> "Assimilation of airborne gamma observations provides utility for snow estimation in forested environments" <span style="font-size: 14px !important; color: #555;"><b>Eunsang Cho</b>, Yonghwan Kwon*, Sujay Kumar, Carrie Vuyovich, <i>Hydrology and Earth System Sciences Discussions</i> | <a href="https://hess.copernicus.org/preprints/hess-2022-332/">HESSD</a> 
   
 <h2><span style="color: #BD0026;">Published/in press </span></h2> 
   
