@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Eunsang Cho
+title: Cho Lab
 
 # Short description of your site
-description: "Research website"
+description: "Deepening our understanding of hydrology, water resources, and climate impacts for an uncertain future"
 
 # --- Navigation bar options --- #
 
@@ -27,10 +27,11 @@ navbar-links:
   News: "news/2020"
    # - 2020: "news/2020"
   Publication: "publication"
+  People: "people/current" 
   Research: 
     - Projects: "research/projects"
    # - Codes: "research/codes"
-    - Data: "research/data"
+   # - Data: "research/data"
   Photos: "photos/photos" 
   Videos: "videos/videos" 
   #CV: "https://drive.google.com/file/d/1uZrtJP8w9CClUFzx9vthnPH6lLDAwjTo/view?usp=sharing"
