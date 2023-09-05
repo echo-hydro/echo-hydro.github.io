@@ -27,7 +27,7 @@ navbar-links:
   News: "news/2020"
    # - 2020: "news/2020"
   Publication: "publication"
-  People: "people/current" 
+  # People: "people/current" 
   Research: 
     - Projects: "research/projects"
    # - Codes: "research/codes"
